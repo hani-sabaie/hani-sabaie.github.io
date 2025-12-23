@@ -1,0 +1,5 @@
+/* Force title case for the Selected Publications heading */
+.selected-publications h2,
+.selected-publications h3 {
+  text-transform: capitalize !important;
+}
