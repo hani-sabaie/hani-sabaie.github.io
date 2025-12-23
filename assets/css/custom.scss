@@ -1,4 +1,4 @@
-/* Capitalize Selected Publications title */
-.selected-publications h2 {
+.selected-publications h2,
+.selected-publications h3 {
   text-transform: capitalize;
 }
