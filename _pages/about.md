@@ -13,11 +13,7 @@ profile:
 #   <p>123 your address street</p>
 #    <p>Your City, State 12345</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
-## Selected Publications
-<div class="publications">
-  {% bibliography --group_by none --query @*[selected=true]* %}
-</div>
+# selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -37,3 +33,7 @@ My research involves the analysis of **single-nucleus multi-omics data**, includ
 In parallel, I work on **genetic variation and causal genomics analyses**, with an emphasis on **copy number variation (CNV) / structural variants** and **Mendelian randomization**, to study genetic contributions to disease susceptibility at the population level.
 I hold an **M.Sc. in Human Genetics** and am currently **seeking a PhD position** in **genomics, bioinformatics, or computational biology**.
 
+## Selected Publications
+<div class="publications">
+  {% bibliography --group_by none --query @*[selected=true]* %}
+</div>
