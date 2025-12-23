@@ -33,6 +33,7 @@ My research involves the analysis of **single-nucleus multi-omics data**, includ
 In parallel, I work on **genetic variation and causal genomics analyses**, with an emphasis on **copy number variation (CNV) / structural variants** and **Mendelian randomization**, to study genetic contributions to disease susceptibility at the population level.
 I hold an **M.Sc. in Human Genetics** and am currently **seeking a PhD position** in **genomics, bioinformatics, or computational biology**.
 
+
 ## Selected Publications
 <div class="publications">
   {% bibliography --group_by none --query @*[selected=true]* %}
