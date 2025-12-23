@@ -33,7 +33,7 @@ In parallel, I work on **genetic variation and causal genomics analyses**, with 
 I hold an **M.Sc. in Human Genetics** and am currently **seeking a PhD position** in **genomics, bioinformatics, or computational biology**.
 
 
-
+ 
 ## Selected Publications
 <div class="publications">
   {% bibliography --group_by none --query @*[selected=true]* %}
