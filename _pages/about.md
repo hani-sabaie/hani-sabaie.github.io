@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Human Genetics · Computational Genomics
+subtitle:
 
 profile:
   align: right
