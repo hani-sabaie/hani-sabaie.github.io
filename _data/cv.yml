@@ -1,3 +1,21 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: "Hani Sabaie"
+    - name: Email
+      value: "rezazadehm@tbzmed.ac.ir"
+    - name: Location
+      value: "Iran"
+    - name: Website
+      value: ""
+    - name: Google Scholar
+      value: ""
+    - name: GitHub
+      value: ""
+    - name: LinkedIn
+      value: ""
+
 - title: Education
   type: time_table
   contents:
@@ -31,36 +49,36 @@
 - title: Peer-Reviewed Publications
   type: list
   contents:
-    - "1. Sabaie H, Taghavi Rad A, Shabestari M, Habibi D, Saadattalab T, Seddiq S, Saeidian AH, Zahedi AS, Sanoie M, Vahidnezhad H, Zarkesh M, Foroutani L, Hakonarson H, Azizi F, Hedayati M, Daneshpour MS, Akbarzadeh M. Mitochondrial DNA Copy Number as a Hidden Player in the Progression of Multiple Sclerosis: A Bidirectional Two-Sample Mendelian Randomization Study. Molecular Neurobiology. 2025;62(9):11643-53. https://doi.org/10.1016/j.msard.2025.106277"
-    - "2. Sabaie H, Taghavi Rad A, Shabestari M, Seddiq S, Saadattalab T, Habibi D, Saeidian AH, Abbasi M, Mirtavoos-Mahyari H. Deciphering the bidirectional impact of leukocyte telomere length on multiple sclerosis progression: A Mendelian randomization study. Multiple Sclerosis and Related Disorders. 2025;94:106277.  https://doi.org/10.1016/j.msard.2025.106277"
-    - "3. Shoaran M, Sabaie H, Mostafavi M, Rezazadeh M. A comprehensive review of the applications of RNA sequencing in celiac disease research. Gene. 2024;927:148681.  https://doi.org/10.1016/j.gene.2024.148681"
-    - "4. Asadi MR, Gharesouran J, Sabaie H, Zaboli Mahdiabadi M, Mazhari SA, Sharifi-Bonab M, Shirvani-Farsani Z, Taheri M, Sayad A, Rezazadeh M. Neurotrophin growth factors and their receptors as promising blood biomarkers for Alzheimer’s Disease: a gene expression analysis study. Molecular Biology Reports. 2024;51(1).  http://dx.doi.org/10.1007/s11033-023-08959-4"
-    - "5. Sabaie H, Tamimi P, Gharesouran J, Salkhordeh Z, Asadi MR, Sharifi-Bonab M, Shirvani-Farsani Z, Taheri M, Sayad A, Rezazadeh M. Expression analysis of inhibitory B7 family members in Alzheimer’s disease. Metabolic Brain Disease. 2023;38(8):2563-72.  http://dx.doi.org/10.1007/s11011-023-01274-8"
-    - "6. Moghadam YJ, Asadi MR, Abbaszadeh V, Gharesouran J, Dehghani H, Sabaie H, Hussen BM, Taheri M, Dilmaghnai NA, Rezazadeh M. Analysis of NFKB1 and NFKB2 gene expression in the blood of patients with sudden sensorineural hearing loss. International Journal of Pediatric Otorhinolaryngology. 2023;166:111470.  https://doi.org/10.1016%2Fj.ijporl.2023.111470"
-    - "7. Asadi MR, Abed S, Kouchakali G, Fattahi F, Sabaie H, Moslehian MS, Sharifi-Bonab M, Hussen BM, Taheri M, Ghafouri-Fard S, Rezazadeh M. Competing endogenous RNA (ceRNA) networks in Parkinson's disease: A systematic review. Frontiers in Cellular Neuroscience. 2023;17.  https://doi.org/10.3389%2Ffncel.2023.1044634"
-    - "8. Sabaie H, Talebi M, Gharesouarn J, Asadi MR, Jalaiei A, Arsang-Jang S, Hussen BM, Taheri M, Khoshnoud RJ, Rezazadeh M. Identification and Analysis of BCAS4/hsa-miR-185-5p/SHISA7 Competing Endogenous RNA Axis in Late-Onset Alzheimer's Disease Using Bioinformatic and Experimental Approaches. Frontiers in Aging Neuroscience. 2022;14.  https://doi.org/10.3389%2Ffnagi.2022.812169"
-    - "9. Sabaie H, Rouz SK, Kouchakali G, Heydarzadeh S, Asadi MR, Sharifi-Bonab M, Hussen BM, Taheri M, Ayatollahi SA, Rezazadeh M. Identification of potential regulatory long non-coding RNA-associated competing endogenous RNA axes in periplaque regions in multiple sclerosis. Frontiers in Genetics. 2022;13.  https://doi.org/10.3389%2Ffgene.2022.1011350"
-    - "10. Sabaie H, Gholipour M, Asadi MR, Abed S, Sharifi-Bonab M, Taheri M, Hussen BM, Brand S, Neishabouri SM, Rezazadeh M. Identification of key long non-coding RNA-associated competing endogenous RNA axes in Brodmann Area 10 brain region of schizophrenia patients. Frontiers in Psychiatry. 2022;13.  https://doi.org/10.3389%2Ffpsyt.2022.1010977"
-    - "11. Sabaie H, Gharesouran J, Asadi MR, Farhang S, Ahangar NK, Brand S, Arsang-Jang S, Dastar S, Taheri M, Rezazadeh M. Downregulation of miR-185 is a common pathogenic event in 22q11.2 deletion syndrome-related and idiopathic schizophrenia. Metabolic Brain Disease. 2022;37(4):1175-84.  https://doi.org/10.1007%2Fs11011-022-00918-5"
-    - "12. Mohammadisoleimani E, Firoozi Z, Naghizadeh MM, Asad AG, Jafari A, Pourjafarian MH, Ariafar A, Mansoori H, Dastsooz H, Sabaie H, Zeighami S, Mansoori Y. Expression analysis of hsa_circ_0020397, hsa_circ_0005986, hsa_circ_0003028, and hsa_circ_0006990 in renal cell carcinoma. Experimental and Molecular Pathology. 2022;129:104848.  https://doi.org/10.1016%2Fj.yexmp.2022.104848"
-    - "13. Hakimi P, Lotfalizad N, Pabarja L, Asadi MR, Gharesouran J, Dehghani H, Sabaie H, Danaie S, Hussen BM, Taheri M, Rezazadeh M. Association of seven fundamental genetic polymorphisms in long noncoding RNA MALAT1, SOX2OT and H19 with recurrent miscarriage in Turkish-Azeri Iranian population. Human Gene. 2022;33:201063.  https://doi.org/10.1016%2Fj.humgen.2022.201063"
-    - "14. Asadi MR, Talebi M, Gharesouran J, Sabaie H, Jalaiei A, Arsang-Jang S, Taheri M, Sayad A, Rezazadeh M. Analysis of ROQUIN, Tristetraprolin (TTP), and BDNF/miR-16/TTP regulatory axis in late onset Alzheimer's disease. Frontiers in Aging Neuroscience. 2022;14.  https://doi.org/10.3389%2Ffnagi.2022.933019"
-    - "15. Asadi MR, Moslehian MS, Sabaie H, Sharifi-Bonab M, Hakimi P, Hussen BM, Taheri M, Rakhshan A, Rezazadeh M. CircRNA-Associated CeRNAs Regulatory Axes in Retinoblastoma: A Systematic Scoping Review. Frontiers in Oncology. 2022;12.  https://doi.org/10.3389%2Ffonc.2022.910470"
-    - "16. Asadi MR, Gharesouran J, Sabaie H, Moslehian MS, Dehghani H, Arsang-Jang S, Taheri M, Mortazavi D, Hussen BM, Sayad A, Rezazadeh M. Assessing the expression of two post-transcriptional BDNF regulators, TTP and miR-16 in the peripheral blood of patients with Schizophrenia. BMC Psychiatry. 2022;22(1).  https://doi.org/10.1186%2Fs12888-022-04442-9"
-    - "17. Shiva S, Gharesouran J, Sabaie H, Asadi MR, Arsang-Jang S, Taheri M, Rezazadeh M. Expression Analysis of Ermin and Listerin E3 Ubiquitin Protein Ligase 1 Genes in Autistic Patients. Frontiers in Molecular Neuroscience. 2021;14.  https://doi.org/10.3389%2Ffnmol.2021.701977"
-    - "18. Sabaie H, Salkhordeh Z, Asadi MR, Ghafouri-Fard S, Amirinejad N, Behzadi MA, Hussen BM, Taheri M, Rezazadeh M. Long Non-Coding RNA- Associated Competing Endogenous RNA Axes in T-Cells in Multiple Sclerosis. Frontiers in Immunology. 2021;12.  https://doi.org/10.3389%2Ffimmu.2021.770679"
-    - "19. Sabaie H, Moghaddam MM, Moghaddam MM, Amirinejad N, Asadi MR, Daneshmandpour Y, Hussen BM, Taheri M, Rezazadeh M. Long non-coding RNA-associated competing endogenous RNA axes in the olfactory epithelium in schizophrenia: a bioinformatics analysis. Scientific Reports. 2021;11(1).  https://doi.org/10.1038%2Fs41598-021-04326-0"
-    - "20. Sabaie H, Moghaddam MM, Moghaddam MM, Ahangar NK, Asadi MR, Hussen BM, Taheri M, Rezazadeh M. Bioinformatics analysis of long non-coding RNA-associated competing endogenous RNA network in schizophrenia. Scientific Reports. 2021;11(1).  https://doi.org/10.1038%2Fs41598-021-03993-3"
-    - "21. Sabaie H, Dehghani H, Shiva S, Asadi MR, Rezaei O, Taheri M, Rezazadeh M. Mechanistic Insight Into the Regulation of Immune-Related Genes Expression in Autism Spectrum Disorder. Frontiers in Molecular Biosciences. 2021;8.  https://doi.org/10.3389%2Ffmolb.2021.754296"
-    - "22. Sabaie H, Amirinejad N, Asadi MR, Jalaiei A, Daneshmandpour Y, Rezaei O, Taheri M, Rezazadeh M. Molecular Insight Into the Therapeutic Potential of Long Non-coding RNA-Associated Competing Endogenous RNA Axes in Alzheimer's Disease: A Systematic Scoping Review. Frontiers in Aging Neuroscience. 2021;13.  https://doi.org/10.3389%2Ffnagi.2021.742242"
-    - "23. Jalaiei A, Asadi MR, Sabaie H, Dehghani H, Gharesouran J, Hussen BM, Taheri M, Ghafouri-Fard S, Rezazadeh M. Long Non-Coding RNAs, Novel Offenders or Guardians in Multiple Sclerosis: A Scoping Review. Frontiers in Immunology. 2021;12.  https://doi.org/10.3389%2Ffimmu.2021.774002"
-    - "24. Farhang S, Sabaie H, Gharesouran J, Asadi MR, Arsang-Jang S, Ghafouri-Fard S, Taheri M, Rezazadeh M. Expression Analysis of Ermin and Listerin E3 Ubiquitin Protein Ligase 1 Genes in the Periphery of Patients with Schizophrenia. Journal of Molecular Neuroscience. 2021.  https://doi.org/10.1007%2Fs12031-021-01928-1"
-    - "25. Asadi MR, Rahmanpour D, Moslehian MS, Sabaie H, Hassani M, Ghafouri-Fard S, Taheri M, Rezazadeh M. Stress Granules Involved in Formation, Progression and Metastasis of Cancer: A Scoping Review. Frontiers in Cell and Developmental Biology. 2021;9.  https://doi.org/10.3389%2Ffcell.2021.745394"
-    - "26. Asadi MR, Moslehian MS, Sabaie H, Poornabi M, Ghasemi E, Hassani M, Hussen BM, Taheri M, Rezazadeh M. Stress Granules in the Anti-Cancer Medications Mechanism of Action: A Systematic Scoping Review. Frontiers in Oncology. 2021;11.  https://doi.org/10.3389%2Ffonc.2021.797549"
-    - "27. Asadi MR, Moslehian MS, Sabaie H, Jalaiei A, Ghafouri-Fard S, Taheri M, Rezazadeh M. Stress Granules and Neurodegenerative Disorders: A Scoping Review. Frontiers in Aging Neuroscience. 2021;13.  https://doi.org/10.3389%2Ffnagi.2021.650740"
-    - "28. Asadi MR, Hassani M, Kiani S, Sabaie H, Moslehian MS, Kazemi M, Ghafouri-Fard S, Taheri M, Rezazadeh M. The Perspective of Dysregulated LncRNAs in Alzheimer's Disease: A Systematic Scoping Review. Frontiers in Aging Neuroscience. 2021;13.  https://doi.org/10.3389%2Ffnagi.2021.709568"
-    - "29. Ahangar NK, Hemmat N, Khalaj-Kondori M, Shadbad MA, Sabaie H, Mokhtarzadeh A, Alizadeh N, Derakhshani A, Baghbanzadeh A, Dolatkhah K, Silvestris N, Baradaran B. The Regulatory Cross-Talk between microRNAs and Novel Members of the B7 Family in Human Diseases: A Scoping Review. International Journal of Molecular Sciences. 2021;22(5):2652.  https://doi.org/10.3390%2Fijms22052652"
-    - "30. Sabaie H, Ahangar NK, Ghafouri-Fard S, Taheri M, Rezazadeh M. Clinical and genetic features of PEHO and PEHO-Like syndromes: A scoping review. Biomedicine & Pharmacotherapy. 2020;131:110793.  http://dx.doi.org/10.1016/j.biopha.2020.110793"
+    - "1. Sabaie H, Taghavi Rad A, Shabestari M, Habibi D, Saadattalab T, Seddiq S, Saeidian AH, Zahedi AS, Sanoie M, Vahidnezhad H, Zarkesh M, Foroutani L, Hakonarson H, Azizi F, Hedayati M, Daneshpour MS, Akbarzadeh M. Mitochondrial DNA Copy Number as a Hidden Player in the Progression of Multiple Sclerosis: A Bidirectional Two-Sample Mendelian Randomization Study. Molecular Neurobiology. 2025;62(9):11643-53. <a href=\"https://doi.org/10.1016/j.msard.2025.106277\">https://doi.org/10.1016/j.msard.2025.106277</a>"
+    - "2. Sabaie H, Taghavi Rad A, Shabestari M, Seddiq S, Saadattalab T, Habibi D, Saeidian AH, Abbasi M, Mirtavoos-Mahyari H. Deciphering the bidirectional impact of leukocyte telomere length on multiple sclerosis progression: A Mendelian randomization study. Multiple Sclerosis and Related Disorders. 2025;94:106277.  <a href=\"https://doi.org/10.1016/j.msard.2025.106277\">https://doi.org/10.1016/j.msard.2025.106277</a>"
+    - "3. Shoaran M, Sabaie H, Mostafavi M, Rezazadeh M. A comprehensive review of the applications of RNA sequencing in celiac disease research. Gene. 2024;927:148681.  <a href=\"https://doi.org/10.1016/j.gene.2024.148681\">https://doi.org/10.1016/j.gene.2024.148681</a>"
+    - "4. Asadi MR, Gharesouran J, Sabaie H, Zaboli Mahdiabadi M, Mazhari SA, Sharifi-Bonab M, Shirvani-Farsani Z, Taheri M, Sayad A, Rezazadeh M. Neurotrophin growth factors and their receptors as promising blood biomarkers for Alzheimer’s Disease: a gene expression analysis study. Molecular Biology Reports. 2024;51(1).  <a href=\"http://dx.doi.org/10.1007/s11033-023-08959-4\">http://dx.doi.org/10.1007/s11033-023-08959-4</a>"
+    - "5. Sabaie H, Tamimi P, Gharesouran J, Salkhordeh Z, Asadi MR, Sharifi-Bonab M, Shirvani-Farsani Z, Taheri M, Sayad A, Rezazadeh M. Expression analysis of inhibitory B7 family members in Alzheimer’s disease. Metabolic Brain Disease. 2023;38(8):2563-72.  <a href=\"http://dx.doi.org/10.1007/s11011-023-01274-8\">http://dx.doi.org/10.1007/s11011-023-01274-8</a>"
+    - "6. Moghadam YJ, Asadi MR, Abbaszadeh V, Gharesouran J, Dehghani H, Sabaie H, Hussen BM, Taheri M, Dilmaghnai NA, Rezazadeh M. Analysis of NFKB1 and NFKB2 gene expression in the blood of patients with sudden sensorineural hearing loss. International Journal of Pediatric Otorhinolaryngology. 2023;166:111470.  <a href=\"https://doi.org/10.1016/j.ijporl.2023.111470\">https://doi.org/10.1016/j.ijporl.2023.111470</a>"
+    - "7. Asadi MR, Abed S, Kouchakali G, Fattahi F, Sabaie H, Moslehian MS, Sharifi-Bonab M, Hussen BM, Taheri M, Ghafouri-Fard S, Rezazadeh M. Competing endogenous RNA (ceRNA) networks in Parkinson's disease: A systematic review. Frontiers in Cellular Neuroscience. 2023;17.  <a href=\"https://doi.org/10.3389/fncel.2023.1044634\">https://doi.org/10.3389/fncel.2023.1044634</a>"
+    - "8. Sabaie H, Talebi M, Gharesouarn J, Asadi MR, Jalaiei A, Arsang-Jang S, Hussen BM, Taheri M, Khoshnoud RJ, Rezazadeh M. Identification and Analysis of BCAS4/hsa-miR-185-5p/SHISA7 Competing Endogenous RNA Axis in Late-Onset Alzheimer's Disease Using Bioinformatic and Experimental Approaches. Frontiers in Aging Neuroscience. 2022;14.  <a href=\"https://doi.org/10.3389/fnagi.2022.812169\">https://doi.org/10.3389/fnagi.2022.812169</a>"
+    - "9. Sabaie H, Rouz SK, Kouchakali G, Heydarzadeh S, Asadi MR, Sharifi-Bonab M, Hussen BM, Taheri M, Ayatollahi SA, Rezazadeh M. Identification of potential regulatory long non-coding RNA-associated competing endogenous RNA axes in periplaque regions in multiple sclerosis. Frontiers in Genetics. 2022;13.  <a href=\"https://doi.org/10.3389/fgene.2022.1011350\">https://doi.org/10.3389/fgene.2022.1011350</a>"
+    - "10. Sabaie H, Gholipour M, Asadi MR, Abed S, Sharifi-Bonab M, Taheri M, Hussen BM, Brand S, Neishabouri SM, Rezazadeh M. Identification of key long non-coding RNA-associated competing endogenous RNA axes in Brodmann Area 10 brain region of schizophrenia patients. Frontiers in Psychiatry. 2022;13.  <a href=\"https://doi.org/10.3389/fpsyt.2022.1010977\">https://doi.org/10.3389/fpsyt.2022.1010977</a>"
+    - "11. Sabaie H, Gharesouran J, Asadi MR, Farhang S, Ahangar NK, Brand S, Arsang-Jang S, Dastar S, Taheri M, Rezazadeh M. Downregulation of miR-185 is a common pathogenic event in 22q11.2 deletion syndrome-related and idiopathic schizophrenia. Metabolic Brain Disease. 2022;37(4):1175-84.  <a href=\"https://doi.org/10.1007/s11011-022-00918-5\">https://doi.org/10.1007/s11011-022-00918-5</a>"
+    - "12. Mohammadisoleimani E, Firoozi Z, Naghizadeh MM, Asad AG, Jafari A, Pourjafarian MH, Ariafar A, Mansoori H, Dastsooz H, Sabaie H, Zeighami S, Mansoori Y. Expression analysis of hsa_circ_0020397, hsa_circ_0005986, hsa_circ_0003028, and hsa_circ_0006990 in renal cell carcinoma. Experimental and Molecular Pathology. 2022;129:104848.  <a href=\"https://doi.org/10.1016/j.yexmp.2022.104848\">https://doi.org/10.1016/j.yexmp.2022.104848</a>"
+    - "13. Hakimi P, Lotfalizad N, Pabarja L, Asadi MR, Gharesouran J, Dehghani H, Sabaie H, Danaie S, Hussen BM, Taheri M, Rezazadeh M. Association of seven fundamental genetic polymorphisms in long noncoding RNA MALAT1, SOX2OT and H19 with recurrent miscarriage in Turkish-Azeri Iranian population. Human Gene. 2022;33:201063.  <a href=\"https://doi.org/10.1016/j.humgen.2022.201063\">https://doi.org/10.1016/j.humgen.2022.201063</a>"
+    - "14. Asadi MR, Talebi M, Gharesouran J, Sabaie H, Jalaiei A, Arsang-Jang S, Taheri M, Sayad A, Rezazadeh M. Analysis of ROQUIN, Tristetraprolin (TTP), and BDNF/miR-16/TTP regulatory axis in late onset Alzheimer's disease. Frontiers in Aging Neuroscience. 2022;14.  <a href=\"https://doi.org/10.3389/fnagi.2022.933019\">https://doi.org/10.3389/fnagi.2022.933019</a>"
+    - "15. Asadi MR, Moslehian MS, Sabaie H, Sharifi-Bonab M, Hakimi P, Hussen BM, Taheri M, Rakhshan A, Rezazadeh M. CircRNA-Associated CeRNAs Regulatory Axes in Retinoblastoma: A Systematic Scoping Review. Frontiers in Oncology. 2022;12.  <a href=\"https://doi.org/10.3389/fonc.2022.910470\">https://doi.org/10.3389/fonc.2022.910470</a>"
+    - "16. Asadi MR, Gharesouran J, Sabaie H, Moslehian MS, Dehghani H, Arsang-Jang S, Taheri M, Mortazavi D, Hussen BM, Sayad A, Rezazadeh M. Assessing the expression of two post-transcriptional BDNF regulators, TTP and miR-16 in the peripheral blood of patients with Schizophrenia. BMC Psychiatry. 2022;22(1).  <a href=\"https://doi.org/10.1186/s12888-022-04442-9\">https://doi.org/10.1186/s12888-022-04442-9</a>"
+    - "17. Shiva S, Gharesouran J, Sabaie H, Asadi MR, Arsang-Jang S, Taheri M, Rezazadeh M. Expression Analysis of Ermin and Listerin E3 Ubiquitin Protein Ligase 1 Genes in Autistic Patients. Frontiers in Molecular Neuroscience. 2021;14.  <a href=\"https://doi.org/10.3389/fnmol.2021.701977\">https://doi.org/10.3389/fnmol.2021.701977</a>"
+    - "18. Sabaie H, Salkhordeh Z, Asadi MR, Ghafouri-Fard S, Amirinejad N, Behzadi MA, Hussen BM, Taheri M, Rezazadeh M. Long Non-Coding RNA- Associated Competing Endogenous RNA Axes in T-Cells in Multiple Sclerosis. Frontiers in Immunology. 2021;12.  <a href=\"https://doi.org/10.3389/fimmu.2021.770679\">https://doi.org/10.3389/fimmu.2021.770679</a>"
+    - "19. Sabaie H, Moghaddam MM, Moghaddam MM, Amirinejad N, Asadi MR, Daneshmandpour Y, Hussen BM, Taheri M, Rezazadeh M. Long non-coding RNA-associated competing endogenous RNA axes in the olfactory epithelium in schizophrenia: a bioinformatics analysis. Scientific Reports. 2021;11(1).  <a href=\"https://doi.org/10.1038/s41598-021-04326-0\">https://doi.org/10.1038/s41598-021-04326-0</a>"
+    - "20. Sabaie H, Moghaddam MM, Moghaddam MM, Ahangar NK, Asadi MR, Hussen BM, Taheri M, Rezazadeh M. Bioinformatics analysis of long non-coding RNA-associated competing endogenous RNA network in schizophrenia. Scientific Reports. 2021;11(1).  <a href=\"https://doi.org/10.1038/s41598-021-03993-3\">https://doi.org/10.1038/s41598-021-03993-3</a>"
+    - "21. Sabaie H, Dehghani H, Shiva S, Asadi MR, Rezaei O, Taheri M, Rezazadeh M. Mechanistic Insight Into the Regulation of Immune-Related Genes Expression in Autism Spectrum Disorder. Frontiers in Molecular Biosciences. 2021;8.  <a href=\"https://doi.org/10.3389/fmolb.2021.754296\">https://doi.org/10.3389/fmolb.2021.754296</a>"
+    - "22. Sabaie H, Amirinejad N, Asadi MR, Jalaiei A, Daneshmandpour Y, Rezaei O, Taheri M, Rezazadeh M. Molecular Insight Into the Therapeutic Potential of Long Non-coding RNA-Associated Competing Endogenous RNA Axes in Alzheimer's Disease: A Systematic Scoping Review. Frontiers in Aging Neuroscience. 2021;13.  <a href=\"https://doi.org/10.3389/fnagi.2021.742242\">https://doi.org/10.3389/fnagi.2021.742242</a>"
+    - "23. Jalaiei A, Asadi MR, Sabaie H, Dehghani H, Gharesouran J, Hussen BM, Taheri M, Ghafouri-Fard S, Rezazadeh M. Long Non-Coding RNAs, Novel Offenders or Guardians in Multiple Sclerosis: A Scoping Review. Frontiers in Immunology. 2021;12.  <a href=\"https://doi.org/10.3389/fimmu.2021.774002\">https://doi.org/10.3389/fimmu.2021.774002</a>"
+    - "24. Farhang S, Sabaie H, Gharesouran J, Asadi MR, Arsang-Jang S, Ghafouri-Fard S, Taheri M, Rezazadeh M. Expression Analysis of Ermin and Listerin E3 Ubiquitin Protein Ligase 1 Genes in the Periphery of Patients with Schizophrenia. Journal of Molecular Neuroscience. 2021.  <a href=\"https://doi.org/10.1007/s12031-021-01928-1\">https://doi.org/10.1007/s12031-021-01928-1</a>"
+    - "25. Asadi MR, Rahmanpour D, Moslehian MS, Sabaie H, Hassani M, Ghafouri-Fard S, Taheri M, Rezazadeh M. Stress Granules Involved in Formation, Progression and Metastasis of Cancer: A Scoping Review. Frontiers in Cell and Developmental Biology. 2021;9.  <a href=\"https://doi.org/10.3389/fcell.2021.745394\">https://doi.org/10.3389/fcell.2021.745394</a>"
+    - "26. Asadi MR, Moslehian MS, Sabaie H, Poornabi M, Ghasemi E, Hassani M, Hussen BM, Taheri M, Rezazadeh M. Stress Granules in the Anti-Cancer Medications Mechanism of Action: A Systematic Scoping Review. Frontiers in Oncology. 2021;11.  <a href=\"https://doi.org/10.3389/fonc.2021.797549\">https://doi.org/10.3389/fonc.2021.797549</a>"
+    - "27. Asadi MR, Moslehian MS, Sabaie H, Jalaiei A, Ghafouri-Fard S, Taheri M, Rezazadeh M. Stress Granules and Neurodegenerative Disorders: A Scoping Review. Frontiers in Aging Neuroscience. 2021;13.  <a href=\"https://doi.org/10.3389/fnagi.2021.650740\">https://doi.org/10.3389/fnagi.2021.650740</a>"
+    - "28. Asadi MR, Hassani M, Kiani S, Sabaie H, Moslehian MS, Kazemi M, Ghafouri-Fard S, Taheri M, Rezazadeh M. The Perspective of Dysregulated LncRNAs in Alzheimer's Disease: A Systematic Scoping Review. Frontiers in Aging Neuroscience. 2021;13.  <a href=\"https://doi.org/10.3389/fnagi.2021.709568\">https://doi.org/10.3389/fnagi.2021.709568</a>"
+    - "29. Ahangar NK, Hemmat N, Khalaj-Kondori M, Shadbad MA, Sabaie H, Mokhtarzadeh A, Alizadeh N, Derakhshani A, Baghbanzadeh A, Dolatkhah K, Silvestris N, Baradaran B. The Regulatory Cross-Talk between microRNAs and Novel Members of the B7 Family in Human Diseases: A Scoping Review. International Journal of Molecular Sciences. 2021;22(5):2652.  <a href=\"https://doi.org/10.3390/ijms22052652\">https://doi.org/10.3390/ijms22052652</a>"
+    - "30. Sabaie H, Ahangar NK, Ghafouri-Fard S, Taheri M, Rezazadeh M. Clinical and genetic features of PEHO and PEHO-Like syndromes: A scoping review. Biomedicine & Pharmacotherapy. 2020;131:110793.  <a href=\"http://dx.doi.org/10.1016/j.biopha.2020.110793\">http://dx.doi.org/10.1016/j.biopha.2020.110793</a>"
 
 - title: Research Experience
   type: time_table
@@ -151,23 +169,53 @@
         - "Sabaie H, Asadi MR, Salkhordeh Z, Rezazadeh M. Investigation of competing endogenous RNA regulation of BCAS4 and SHISA7 in tau pathology in Alzheimer's disease. The first international conference and the tenth national bioinformatics conference of Iran, 22-24 February 2022 in Kish Island, Iran."
 
 - title: Workshops and Training
-  type: list
+  type: time_table
   contents:
-    - "Comprehensive Training Program in Statistical Data Analysis, R, Python, and Machine Learning | proDlearn | Tehran, Iran (online)  2026"
-    - "Summary-Data-Based Mendelian Randomization | GEMIRAN | Tehran, Iran (online)  2025"
-    - "Mendelian Randomization | GEMIRAN | Tehran, Iran (online)  2024"
-    - "R Advanced Workshop for Data Science | GEMIRAN | Tehran, Iran (online)  2024"
-    - "R Preliminary Workshop for Data Science | GEMIRAN | Tehran, Iran (online)  2024"
-    - "Linux Essential | Shahid Beheshti University of Medical Sciences | Tehran, Iran (online)  2024"
-    - "Academic Writing | Hanifa Academy | Tehran, Iran (online)  2023"
-    - "Academic Writing | Research Development & Coordination Center | Tabriz, Iran  2020"
-    - "Programming language in R | Research Development & Coordination Center | Tabriz, Iran  2020"
-    - "Basic Bioinformatics | Tabriz University of Medical Sciences | Tabriz, Iran  2020"
-    - "Biostatistics | Tabriz University of Medical Sciences | Tabriz, Iran  2020"
-    - "Ethics in Research and Publication | Research Development & Coordination Center | Tabriz, Iran  2020"
-    - "Principles of systematic review studies and search strategy | Research Development & Coordination Center | Tabriz, Iran  2019"
-    - "Research Methodology | Tabriz University of Medical Sciences | Tabriz, Iran  2019"
-    - "Proposal Writing | Tabriz University of Medical Sciences | Tabriz, Iran  2019"
+    - title: Comprehensive Training Program in Statistical Data Analysis, R, Python, and Machine Learning
+      institution: proDlearn | Tehran, Iran (online)
+      year: 2026
+    - title: Summary-Data-Based Mendelian Randomization
+      institution: GEMIRAN | Tehran, Iran (online)
+      year: 2025
+    - title: Mendelian Randomization
+      institution: GEMIRAN | Tehran, Iran (online)
+      year: 2024
+    - title: R Advanced Workshop for Data Science
+      institution: GEMIRAN | Tehran, Iran (online)
+      year: 2024
+    - title: R Preliminary Workshop for Data Science
+      institution: GEMIRAN | Tehran, Iran (online)
+      year: 2024
+    - title: Linux Essential
+      institution: Shahid Beheshti University of Medical Sciences | Tehran, Iran (online)
+      year: 2024
+    - title: Academic Writing
+      institution: Hanifa Academy | Tehran, Iran (online)
+      year: 2023
+    - title: Academic Writing
+      institution: Research Development & Coordination Center | Tabriz, Iran
+      year: 2020
+    - title: Programming language in R
+      institution: Research Development & Coordination Center | Tabriz, Iran
+      year: 2020
+    - title: Basic Bioinformatics
+      institution: Tabriz University of Medical Sciences | Tabriz, Iran
+      year: 2020
+    - title: Biostatistics
+      institution: Tabriz University of Medical Sciences | Tabriz, Iran
+      year: 2020
+    - title: Ethics in Research and Publication
+      institution: Research Development & Coordination Center | Tabriz, Iran
+      year: 2020
+    - title: Principles of systematic review studies and search strategy
+      institution: Research Development & Coordination Center | Tabriz, Iran
+      year: 2019
+    - title: Research Methodology
+      institution: Tabriz University of Medical Sciences | Tabriz, Iran
+      year: 2019
+    - title: Proposal Writing
+      institution: Tabriz University of Medical Sciences | Tabriz, Iran
+      year: 2019
 
 - title: Honors and Awards
   type: time_table
@@ -182,7 +230,8 @@
 - title: Science Community Service
   type: list
   contents:
-    - "Peer Reviewer for International Journals, including: Scientific Reports; Heliyon; PLOS ONE; Medicine; Aging; Annals of Human Biology; BMC Neurology; BMC Medical Genomics; Molecular Neurobiology; Molecular Medicine; Molecular Therapy – Nucleic Acids; Biomedicine & Pharmacotherapy; International Immunopharmacology; Functional & Integrative Genomics; Gene; Cell Cycle; Multiple Sclerosis and Related Disorders; Journal of Diabetes Investigation; Oncology Letters; Discover Oncology; Current Eye Research; Bioengineered; Iranian Journal of Allergy, Asthma and Immunology; Minerva Cardiology and Angiology."
+    - "Peer Reviewer for International Journals, including:"
+    - "<i>Scientific Reports; Heliyon; PLOS ONE; Medicine; Aging; Annals of Human Biology; BMC Neurology; BMC Medical Genomics; Molecular Neurobiology; Molecular Medicine; Molecular Therapy – Nucleic Acids; Biomedicine & Pharmacotherapy; International Immunopharmacology; Functional & Integrative Genomics; Gene; Cell Cycle; Multiple Sclerosis and Related Disorders; Journal of Diabetes Investigation; Oncology Letters; Discover Oncology; Current Eye Research; Bioengineered; Iranian Journal of Allergy, Asthma and Immunology; Minerva Cardiology and Angiology.</i>"
 
 - title: Volunteer Academic Service
   type: time_table
@@ -201,8 +250,23 @@
     - "Reading in Philosophy and Science"
 
 - title: References
-  type: list
+  type: nested_list
   contents:
-    - "Maryam Rezazadeh, Ph.D. (M.Sc. Supervisor)\nAssociate Professor\nDepartment of Medical Genetics, Faculty of Medicine, University of Medical Sciences, Tabriz, Iran; rezazadehm@tbzmed.ac.ir, Google Scholar"
-    - "Mahdi Akbarzadeh, Ph.D. (Principal Investigator)\nAssistant Professor\nCellular and Molecular Endocrine Research Center, Research Institute for Endocrine Molecular Biology, Research Institute for Endocrine Sciences, Shahid Beheshti University of Medical Sciences, Tehran, Iran;\nakbarzadehms@sbmu.ac.ir, Google Scholar"
-    - "Jalal Gharesouran, Ph.D. (M.Sc. Co-Advisor)\nLecturer Professor\nDepartment of Medical Genetics, Faculty of Medicine, University of Medical Sciences, Tabriz, Iran; jalal.gharesouran@gmail.com, Google Scholar"
+    - title: "Maryam Rezazadeh, Ph.D. (M.Sc. Supervisor)"
+      items:
+        - "Associate Professor"
+        - "Department of Medical Genetics, Faculty of Medicine, University of Medical Sciences, Tabriz, Iran"
+        - "rezazadehm@tbzmed.ac.ir"
+        - "Google Scholar"
+    - title: "Mahdi Akbarzadeh, Ph.D. (Principal Investigator)"
+      items:
+        - "Assistant Professor"
+        - "Cellular and Molecular Endocrine Research Center, Research Institute for Endocrine Molecular Biology, Research Institute for Endocrine Sciences, Shahid Beheshti University of Medical Sciences, Tehran, Iran"
+        - "akbarzadehms@sbmu.ac.ir"
+        - "Google Scholar"
+    - title: "Jalal Gharesouran, Ph.D. (M.Sc. Co-Advisor)"
+      items:
+        - "Lecturer Professor"
+        - "Department of Medical Genetics, Faculty of Medicine, University of Medical Sciences, Tabriz, Iran"
+        - "jalal.gharesouran@gmail.com"
+        - "Google Scholar"
