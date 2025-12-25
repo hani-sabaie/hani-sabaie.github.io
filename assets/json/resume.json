@@ -1,200 +1,215 @@
 {
-  "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+  "Education": [
+    {
+      "degree": "Master of Science in Human Genetics",
+      "institution": "Tabriz University of Medical Sciences",
+      "location": "Tabriz, Iran",
+      "details": [
+        "GPA: 4/4",
+        "Tuition-Free Master's Degree Program",
+        "Thesis: Analysis of BCAS4/hsa-miR-185-5p/SHISA7 Competing Endogenous RNA Axis in Late-onset Alzheimer’s Disease.",
+        "Supervisor: Dr. Maryam Rezazadeh"
+      ],
+      "years": "2018 - 2021"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
+    {
+      "degree": "Bachelor of Science in Biology-Animal Sciences",
+      "institution": "University of Guilan",
+      "location": "Rasht, Iran",
+      "details": [
+        "GPA: 3.37/4",
+        "Tuition-Free Bachelor's Degree Program",
+        "Project: Genome Evolution",
+        "Mentor: Dr. Shohreh Siyam"
+      ],
+      "years": "2012 – 2017"
+    }
+  ],
+
+  "Research Interests": [
+    "Human Genetics and Computational Genomics",
+    "Structural Variation in Human Disease",
+    "Single-Cell Multi-Omics Analysis",
+    "Mendelian Randomization and Causal Inference",
+    "Neurogenetics and Regulatory RNA Networks",
+    "Evolutionary Perspectives on Human Disease"
+  ],
+
+  "Peer-Reviewed Publications": {
+    "link_to_section": "#publications",
+    "items": [
+      "1. Sabaie H, Taghavi Rad A, Shabestari M, Habibi D, Saadattalab T, Seddiq S, Saeidian AH, Zahedi AS, Sanoie M, Vahidnezhad H, Zarkesh M, Foroutani L, Hakonarson H, Azizi F, Hedayati M, Daneshpour MS, Akbarzadeh M. Mitochondrial DNA Copy Number as a Hidden Player in the Progression of Multiple Sclerosis: A Bidirectional Two-Sample Mendelian Randomization Study. Molecular Neurobiology. 2025;62(9):11643-53. https://doi.org/10.1016/j.msard.2025.106277",
+      "2. Sabaie H, Taghavi Rad A, Shabestari M, Seddiq S, Saadattalab T, Habibi D, Saeidian AH, Abbasi M, Mirtavoos-Mahyari H. Deciphering the bidirectional impact of leukocyte telomere length on multiple sclerosis progression: A Mendelian randomization study. Multiple Sclerosis and Related Disorders. 2025;94:106277.  https://doi.org/10.1016/j.msard.2025.106277",
+      "3. Shoaran M, Sabaie H, Mostafavi M, Rezazadeh M. A comprehensive review of the applications of RNA sequencing in celiac disease research. Gene. 2024;927:148681.  https://doi.org/10.1016/j.gene.2024.148681",
+      "4. Asadi MR, Gharesouran J, Sabaie H, Zaboli Mahdiabadi M, Mazhari SA, Sharifi-Bonab M, Shirvani-Farsani Z, Taheri M, Sayad A, Rezazadeh M. Neurotrophin growth factors and their receptors as promising blood biomarkers for Alzheimer’s Disease: a gene expression analysis study. Molecular Biology Reports. 2024;51(1).  http://dx.doi.org/10.1007/s11033-023-08959-4",
+      "5. Sabaie H, Tamimi P, Gharesouran J, Salkhordeh Z, Asadi MR, Sharifi-Bonab M, Shirvani-Farsani Z, Taheri M, Sayad A, Rezazadeh M. Expression analysis of inhibitory B7 family members in Alzheimer’s disease. Metabolic Brain Disease. 2023;38(8):2563-72.  http://dx.doi.org/10.1007/s11011-023-01274-8",
+      "6. Moghadam YJ, Asadi MR, Abbaszadeh V, Gharesouran J, Dehghani H, Sabaie H, Hussen BM, Taheri M, Dilmaghnai NA, Rezazadeh M. Analysis of NFKB1 and NFKB2 gene expression in the blood of patients with sudden sensorineural hearing loss. International Journal of Pediatric Otorhinolaryngology. 2023;166:111470.  https://doi.org/10.1016%2Fj.ijporl.2023.111470",
+      "7. Asadi MR, Abed S, Kouchakali G, Fattahi F, Sabaie H, Moslehian MS, Sharifi-Bonab M, Hussen BM, Taheri M, Ghafouri-Fard S, Rezazadeh M. Competing endogenous RNA (ceRNA) networks in Parkinson's disease: A systematic review. Frontiers in Cellular Neuroscience. 2023;17.  https://doi.org/10.3389%2Ffncel.2023.1044634",
+      "8. Sabaie H, Talebi M, Gharesouarn J, Asadi MR, Jalaiei A, Arsang-Jang S, Hussen BM, Taheri M, Khoshnoud RJ, Rezazadeh M. Identification and Analysis of BCAS4/hsa-miR-185-5p/SHISA7 Competing Endogenous RNA Axis in Late-Onset Alzheimer's Disease Using Bioinformatic and Experimental Approaches. Frontiers in Aging Neuroscience. 2022;14.  https://doi.org/10.3389%2Ffnagi.2022.812169",
+      "9. Sabaie H, Rouz SK, Kouchakali G, Heydarzadeh S, Asadi MR, Sharifi-Bonab M, Hussen BM, Taheri M, Ayatollahi SA, Rezazadeh M. Identification of potential regulatory long non-coding RNA-associated competing endogenous RNA axes in periplaque regions in multiple sclerosis. Frontiers in Genetics. 2022;13.  https://doi.org/10.3389%2Ffgene.2022.1011350",
+      "10. Sabaie H, Gholipour M, Asadi MR, Abed S, Sharifi-Bonab M, Taheri M, Hussen BM, Brand S, Neishabouri SM, Rezazadeh M. Identification of key long non-coding RNA-associated competing endogenous RNA axes in Brodmann Area 10 brain region of schizophrenia patients. Frontiers in Psychiatry. 2022;13.  https://doi.org/10.3389%2Ffpsyt.2022.1010977",
+      "11. Sabaie H, Gharesouran J, Asadi MR, Farhang S, Ahangar NK, Brand S, Arsang-Jang S, Dastar S, Taheri M, Rezazadeh M. Downregulation of miR-185 is a common pathogenic event in 22q11.2 deletion syndrome-related and idiopathic schizophrenia. Metabolic Brain Disease. 2022;37(4):1175-84.  https://doi.org/10.1007%2Fs11011-022-00918-5",
+      "12. Mohammadisoleimani E, Firoozi Z, Naghizadeh MM, Asad AG, Jafari A, Pourjafarian MH, Ariafar A, Mansoori H, Dastsooz H, Sabaie H, Zeighami S, Mansoori Y. Expression analysis of hsa_circ_0020397, hsa_circ_0005986, hsa_circ_0003028, and hsa_circ_0006990 in renal cell carcinoma. Experimental and Molecular Pathology. 2022;129:104848.  https://doi.org/10.1016%2Fj.yexmp.2022.104848",
+      "13. Hakimi P, Lotfalizad N, Pabarja L, Asadi MR, Gharesouran J, Dehghani H, Sabaie H, Danaie S, Hussen BM, Taheri M, Rezazadeh M. Association of seven fundamental genetic polymorphisms in long noncoding RNA MALAT1, SOX2OT and H19 with recurrent miscarriage in Turkish-Azeri Iranian population. Human Gene. 2022;33:201063.  https://doi.org/10.1016%2Fj.humgen.2022.201063",
+      "14. Asadi MR, Talebi M, Gharesouran J, Sabaie H, Jalaiei A, Arsang-Jang S, Taheri M, Sayad A, Rezazadeh M. Analysis of ROQUIN, Tristetraprolin (TTP), and BDNF/miR-16/TTP regulatory axis in late onset Alzheimer's disease. Frontiers in Aging Neuroscience. 2022;14.  https://doi.org/10.3389%2Ffnagi.2022.933019",
+      "15. Asadi MR, Moslehian MS, Sabaie H, Sharifi-Bonab M, Hakimi P, Hussen BM, Taheri M, Rakhshan A, Rezazadeh M. CircRNA-Associated CeRNAs Regulatory Axes in Retinoblastoma: A Systematic Scoping Review. Frontiers in Oncology. 2022;12.  https://doi.org/10.3389%2Ffonc.2022.910470",
+      "16. Asadi MR, Gharesouran J, Sabaie H, Moslehian MS, Dehghani H, Arsang-Jang S, Taheri M, Mortazavi D, Hussen BM, Sayad A, Rezazadeh M. Assessing the expression of two post-transcriptional BDNF regulators, TTP and miR-16 in the peripheral blood of patients with Schizophrenia. BMC Psychiatry. 2022;22(1).  https://doi.org/10.1186%2Fs12888-022-04442-9",
+      "17. Shiva S, Gharesouran J, Sabaie H, Asadi MR, Arsang-Jang S, Taheri M, Rezazadeh M. Expression Analysis of Ermin and Listerin E3 Ubiquitin Protein Ligase 1 Genes in Autistic Patients. Frontiers in Molecular Neuroscience. 2021;14.  https://doi.org/10.3389%2Ffnmol.2021.701977",
+      "18. Sabaie H, Salkhordeh Z, Asadi MR, Ghafouri-Fard S, Amirinejad N, Behzadi MA, Hussen BM, Taheri M, Rezazadeh M. Long Non-Coding RNA- Associated Competing Endogenous RNA Axes in T-Cells in Multiple Sclerosis. Frontiers in Immunology. 2021;12.  https://doi.org/10.3389%2Ffimmu.2021.770679",
+      "19. Sabaie H, Moghaddam MM, Moghaddam MM, Amirinejad N, Asadi MR, Daneshmandpour Y, Hussen BM, Taheri M, Rezazadeh M. Long non-coding RNA-associated competing endogenous RNA axes in the olfactory epithelium in schizophrenia: a bioinformatics analysis. Scientific Reports. 2021;11(1).  https://doi.org/10.1038%2Fs41598-021-04326-0",
+      "20. Sabaie H, Moghaddam MM, Moghaddam MM, Ahangar NK, Asadi MR, Hussen BM, Taheri M, Rezazadeh M. Bioinformatics analysis of long non-coding RNA-associated competing endogenous RNA network in schizophrenia. Scientific Reports. 2021;11(1).  https://doi.org/10.1038%2Fs41598-021-03993-3",
+      "21. Sabaie H, Dehghani H, Shiva S, Asadi MR, Rezaei O, Taheri M, Rezazadeh M. Mechanistic Insight Into the Regulation of Immune-Related Genes Expression in Autism Spectrum Disorder. Frontiers in Molecular Biosciences. 2021;8.  https://doi.org/10.3389%2Ffmolb.2021.754296",
+      "22. Sabaie H, Amirinejad N, Asadi MR, Jalaiei A, Daneshmandpour Y, Rezaei O, Taheri M, Rezazadeh M. Molecular Insight Into the Therapeutic Potential of Long Non-coding RNA-Associated Competing Endogenous RNA Axes in Alzheimer's Disease: A Systematic Scoping Review. Frontiers in Aging Neuroscience. 2021;13.  https://doi.org/10.3389%2Ffnagi.2021.742242",
+      "23. Jalaiei A, Asadi MR, Sabaie H, Dehghani H, Gharesouran J, Hussen BM, Taheri M, Ghafouri-Fard S, Rezazadeh M. Long Non-Coding RNAs, Novel Offenders or Guardians in Multiple Sclerosis: A Scoping Review. Frontiers in Immunology. 2021;12.  https://doi.org/10.3389%2Ffimmu.2021.774002",
+      "24. Farhang S, Sabaie H, Gharesouran J, Asadi MR, Arsang-Jang S, Ghafouri-Fard S, Taheri M, Rezazadeh M. Expression Analysis of Ermin and Listerin E3 Ubiquitin Protein Ligase 1 Genes in the Periphery of Patients with Schizophrenia. Journal of Molecular Neuroscience. 2021.  https://doi.org/10.1007%2Fs12031-021-01928-1",
+      "25. Asadi MR, Rahmanpour D, Moslehian MS, Sabaie H, Hassani M, Ghafouri-Fard S, Taheri M, Rezazadeh M. Stress Granules Involved in Formation, Progression and Metastasis of Cancer: A Scoping Review. Frontiers in Cell and Developmental Biology. 2021;9.  https://doi.org/10.3389%2Ffcell.2021.745394",
+      "26. Asadi MR, Moslehian MS, Sabaie H, Hassani M, Ghafouri-Fard S, Taheri M, Rezazadeh M. Stress Granules in the Anti-Cancer Medications Mechanism of Action: A Systematic Scoping Review. Frontiers in Oncology. 2021;11.  https://doi.org/10.3389%2Ffonc.2021.797549",
+      "27. Asadi MR, Moslehian MS, Sabaie H, Jalaiei A, Ghafouri-Fard S, Taheri M, Rezazadeh M. Stress Granules and Neurodegenerative Disorders: A Scoping Review. Frontiers in Aging Neuroscience. 2021;13.  https://doi.org/10.3389%2Ffnagi.2021.650740",
+      "28. Asadi MR, Hassani M, Kiani S, Sabaie H, Moslehian MS, Kazemi M, Ghafouri-Fard S, Taheri M, Rezazadeh M. The Perspective of Dysregulated LncRNAs in Alzheimer's Disease: A Systematic Scoping Review. Frontiers in Aging Neuroscience. 2021;13.  https://doi.org/10.3389%2Ffnagi.2021.709568",
+      "29. Ahangar NK, Hemmat N, Khalaj-Kondori M, Shadbad MA, Sabaie H, Mokhtarzadeh A, Alizadeh N, Derakhshani A, Baghbanzadeh A, Dolatkhah K, Silvestris N, Baradaran B. The Regulatory Cross-Talk between microRNAs and Novel Members of the B7 Family in Human Diseases: A Scoping Review. International Journal of Molecular Sciences. 2021;22(5):2652.  https://doi.org/10.3390%2Fijms22052652",
+      "30. Sabaie H, Ahangar NK, Ghafouri-Fard S, Taheri M, Rezazadeh M. Clinical and genetic features of PEHO and PEHO-Like syndromes: A scoping review. Biomedicine & Pharmacotherapy. 2020;131:110793.  http://dx.doi.org/10.1016/j.biopha.2020.110793"
     ]
   },
-  "work": [
+
+  "Research Experience": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "title": "Graduate Research Assistant | Cellular and Molecular Endocrine Research Center | Tehran, Iran",
+      "principal_investigator": "Principal Investigator: Dr. Mahdi Akbarzadeh",
+      "section_label": "Primary duties:",
+      "bullets": [
+        "Performed single-nucleus multi-omics analyses to investigate cell-type-specific regulatory mechanisms in complex human diseases.",
+        "Applied high-dimensional weighted gene co-expression network analysis (hdWGCNA) on single-cell transcriptomic data to identify disease-relevant gene modules and hub genes.",
+        "Conducted Mendelian randomization, colocalization, and fine-mapping analyses to infer causal relationships between genetically regulated gene expression and disease susceptibility.",
+        "Authored a narrative review on computational strategies for CNV detection and disease association, bridging methodological development and genomic medicine."
+      ],
+      "years": "2025 - Now"
+    },
+    {
+      "title": "Graduate Research Assistant | Tabriz University of Medical Sciences | Tabriz, Iran",
+      "principal_investigator": "Principal Investigator: Dr. Maryam Rezazadeh",
+      "section_label": "Primary duties:",
+      "bullets": [
+        "Utilizing systems biology to explore the gene modules, hub genes, and regulatory networks linked with neurological conditions through RNA-sequencing transcriptome analysis and weighted gene co-expression network analysis (WGCNA).",
+        "Variant detection and interpretation from whole-exome sequencing data with validation through Sanger sequencing.",
+        "Assisting the principal investigator in writing and preparing manuscripts and grant proposals.",
+        "Supervising medical, master’s, and Ph.D. students."
+      ],
+      "years": "2024"
+    },
+    {
+      "title": "Elite Draftee – Researcher | Directorate of Health, Rescue and Treatment, Police Headquarter | Tehran, Iran",
+      "section_label": "Project:",
+      "bullets": [
+        "Conducted a research project under the Iranian National Elite Foundation program as part of an alternative to mandatory military service.",
+        "Focused on interdisciplinary bioinformatic and experimental approaches to identify peripheral blood-based biomarkers for major depressive disorder."
+      ],
+      "years": "2022 - 2023"
+    },
+    {
+      "title": "Student Research Assistant | Tabriz University of Medical Sciences | Tabriz, Iran",
+      "principal_investigator": "Principal Investigator: Dr. Maryam Rezazadeh",
+      "section_label": "Main Projects:",
+      "bullets": [
+        "Identification and examination of ceRNA regulatory axes in neurogenetic disorders through the reanalysis of publicly accessible microarray datasets and supplementary molecular methods.",
+        "Assessing the expression of key genes in neurogenetic conditions using PCR, RT-PCR, and Agarose gel electrophoresis.",
+        "Conducting systematic reviews and scoping reviews on the genetic aspects of human diseases, with an emphasis on neurogenetic conditions."
+      ],
+      "years": "2019 - 2021"
     }
   ],
-  "volunteer": [
+
+  "Teaching Experience": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "title": "Assistant Teacher | Tabriz University of Medical Sciences | Tabriz, Iran",
+      "bullets": [
+        "Taught weekly lectures on microarray data analysis."
+      ],
+      "years": "2021"
     }
   ],
-  "education": [
+
+  "Skills": {
+    "Programming and Computational Skills:": [
+      "R - Advanced: statistical analysis, data visualization, and reproducible research.",
+      "Python - Familiar: data analysis and scientific computing for genomics workflows.",
+      "Linux / Unix - Advanced: command-line workflows and pipeline execution.",
+      "Bash - Familiar: automation of data processing and analysis pipelines.",
+      "Git / GitHub - Familiar: version control and collaborative development.",
+      "Markdown / R Markdown - Advanced: reproducible documentation and reporting.",
+      "Machine Learning - Familiar: foundational concepts and applications in data analysis."
+    ],
+    "Computational Genomics and Bioinformatics Analysis:": [
+      "Single-Cell Multi-Omics and Spatial Data - Advanced: preprocessing, normalization, multimodal integration, clustering, trajectory inference, network analysis, motif activity, and cell-cell communication analysis (Drop-seq pipeline, Seurat, decontX, scDblFinder, Signac, Monocle, hdWGCNA, chromVAR, and CellChat).",
+      "Bulk RNA-seq - Advanced: end-to-end workflows including QC, alignment, quantification, and differential expression (FastQC, Trimmomatic, HISAT2, STAR, featureCounts, HTSeq, StringTie, Kallisto, Salmon, edgeR, DESeq2, Ballgown, Sleuth, Picard, and GATK).",
+      "Microarray Analysis - Proficient: preprocessing, normalization, differential expression, and co-expression analysis (limma, affy, GEOquery, WGCNA, GEO2R, pheatmap, EnhancedVolcano).",
+      "Mendelian Randomization and Causal Inference - Advanced: Two-sample and summary-data-based Mendelian randomization and fine-mapping (TwoSampleMR, SMR/HEIDI, MR-PRESSO, GCTA-COJO, coloc, SuSiE).",
+      "Network Biology - Proficient: co-expression, interaction, and ceRNA requlatory networks analysis (Hmisc, psych, corrplot, bcdstats, LncBase, lncSNP2, miRTarBase, miRWalk, miRDB, ENCORI, HMDD, Cytoscape, MCODE, CytoHubba, STRING, MIST, GeneMANIA, Enrichr, FuncPred, g:profiler, and ImmPort, WGCNA, hdWGCNA).",
+      "Variant Analysis - Advanced: variant calling, annotation, and interpretation (FastQC, Trimmomatic, BWA, GATK, HaplotypeCaller, ANNOVAR, ExAC, gnomAD, 1000 genomes, CADD, ClinVar, SIFT, PolyPhen, LRT, MutationTaster, FATHMM, PROVEAN, MutationAssessor, MCAP, MetaLR, Franklin, Varsome, CLC Genomics Workbench, ExomeDepth, ClinGen, and ACMG guideline)."
+    ],
+    "Experimental and Molecular Biology Skills:": [
+      "Molecular Genetics Techniques - Advanced: DNA extraction, RNA isolation, NanoDrop spectrophotometry, agarose gel electrophoresis, cDNA synthesis, PCR, RT-PCR, and cell culture.",
+      "Primer Design and Reference Gene Validation - Advanced: Primer3, Primer-BLAST, Oligo7, Gene Runner, NormFinder, and geNorm.",
+      "RT-PCR Data Analysis - Advanced: relative expression analysis and visualization (R, GraphPad Prism, SPSS, and GenEx)."
+    ],
+    "Other:": [
+      "Systematic Literature Search and Evidence Synthesis - Proficient: PubMed, Embase, Scopus, Web of Science, Cochrane, ProQuest, Google Scholar.",
+      "Reference Management - Advanced: Zotero, EndNote, ResearchRabbit.",
+      "Scientific Visualization - Advanced: BioRender, Mind the Graph, PowerPoint.",
+      "Meta-analysis - Familiar: Comprehensive Meta-Analysis (CMA)."
+    ]
+  },
+
+  "Conference Participation": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+      "label": "Poster Presentation:",
+      "items": [
+        "Sabaie H, Asadi MR, Salkhordeh Z, Rezazadeh M. Investigation of competing endogenous RNA regulation of BCAS4 and SHISA7 in tau pathology in Alzheimer's disease. The first international conference and the tenth national bioinformatics conference of Iran, 22-24 February 2022 in Kish Island, Iran."
       ]
     }
   ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
+
+  "Workshops and Training": [
+    "Comprehensive Training Program in Statistical Data Analysis, R, Python, and Machine Learning | proDlearn | Tehran, Iran (online)\t2026",
+    "Summary-Data-Based Mendelian Randomization | GEMIRAN | Tehran, Iran (online)\t2025",
+    "Mendelian Randomization | GEMIRAN | Tehran, Iran (online)\t2024",
+    "R Advanced Workshop for Data Science | GEMIRAN | Tehran, Iran (online)\t2024",
+    "R Preliminary Workshop for Data Science | GEMIRAN | Tehran, Iran (online)\t2024",
+    "Linux Essential | Shahid Beheshti University of Medical Sciences | Tehran, Iran (online)\t2024",
+    "Academic Writing | Hanifa Academy | Tehran, Iran (online)\t2023",
+    "Academic Writing | Research Development & Coordination Center | Tabriz, Iran\t2020",
+    "Programming language in R | Research Development & Coordination Center | Tabriz, Iran\t2020",
+    "Basic Bioinformatics | Tabriz University of Medical Sciences | Tabriz, Iran\t2020",
+    "Biostatistics | Tabriz University of Medical Sciences | Tabriz, Iran\t2020",
+    "Ethics in Research and Publication | Research Development & Coordination Center | Tabriz, Iran\t2020",
+    "Principles of systematic review studies and search strategy | Research Development & Coordination Center | Tabriz, Iran\t2019",
+    "Research Methodology | Tabriz University of Medical Sciences | Tabriz, Iran\t2019",
+    "Proposal Writing | Tabriz University of Medical Sciences | Tabriz, Iran\t2019"
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
+
+  "Honors and Awards": [
+    "Selected Researcher | Research Week, Clinical Research Development Unit, Tabriz Valiasr Hospital\t2023",
+    "Scientific Elite | Iranian National Elite Foundation\t2022"
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
+
+  "Science Community Service": [
+    "Peer Reviewer for International Journals, including: Scientific Reports; Heliyon; PLOS ONE; Medicine; Aging; Annals of Human Biology; BMC Neurology; BMC Medical Genomics; Molecular Neurobiology; Molecular Medicine; Molecular Therapy – Nucleic Acids; Biomedicine & Pharmacotherapy; International Immunopharmacology; Functional & Integrative Genomics; Gene; Cell Cycle; Multiple Sclerosis and Related Disorders; Journal of Diabetes Investigation; Oncology Letters; Discover Oncology; Current Eye Research; Bioengineered; Iranian Journal of Allergy, Asthma and Immunology; Minerva Cardiology and Angiology."
   ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
+
+  "Volunteer Academic Service": [
+    "Academic Mentorship: Advised medical and graduate students on research design, practical implementation, and data analysis.\t2022 - Now",
+    "Graduate Entrance Exam Advising: Provided academic guidance to candidates preparing for the Iranian national entrance examination for M.Sc. programs in Human Genetics.\t2018 - 2021"
+  ],
+
+  "Interests and Activities": [
+    "Running",
+    "Travel",
+    "Academic Mentoring",
+    "Reading in Philosophy and Science"
+  ],
+
+  "References": [
+    "Maryam Rezazadeh, Ph.D. (M.Sc. Supervisor)\nAssociate Professor\nDepartment of Medical Genetics, Faculty of Medicine, University of Medical Sciences, Tabriz, Iran; rezazadehm@tbzmed.ac.ir, Google Scholar",
+    "Mahdi Akbarzadeh, Ph.D. (Principal Investigator)\nAssistant Professor\nCellular and Molecular Endocrine Research Center, Research Institute for Endocrine Molecular Biology, Research Institute for Endocrine Sciences, Shahid Beheshti University of Medical Sciences, Tehran, Iran;\nakbarzadehms@sbmu.ac.ir, Google Scholar",
+    "Jalal Gharesouran, Ph.D. (M.Sc. Co-Advisor)\nLecturer Professor\nDepartment of Medical Genetics, Faculty of Medicine, University of Medical Sciences, Tabriz, Iran; jalal.gharesouran@gmail.com, Google Scholar"
   ]
 }
