@@ -4,7 +4,7 @@
     - name: Full Name
       value: "Hani Sabaie"
     - name: Emails
-      value: "sabaie.hani@gmail.com", "sabaieh@tbzmed.ac.ir"
+      value: "<a href=\"mailto:sabaie.hani@gmail.com\">sabaie.hani@gmail.com</a> • <a href=\"mailto:sabaieh@tbzmed.ac.ir\">sabaieh@tbzmed.ac.ir</a>"
     - name: Location
       value: "Iran"
     - name: Website
@@ -255,17 +255,17 @@
       items:
         - "Associate Professor"
         - "Department of Medical Genetics, Faculty of Medicine, University of Medical Sciences, Tabriz, Iran"
-        - "rezazadehm@tbzmed.ac.ir"
+        - "<a href=\"mailto:rezazadehm@tbzmed.ac.ir\">rezazadehm@tbzmed.ac.ir</a>"
         - "<a href=\"https://scholar.google.com/citations?user=ansOI08AAAAJ&hl=en\">Google Scholar</a>"
     - title: "Mahdi Akbarzadeh, Ph.D. (Principal Investigator)"
       items:
         - "Assistant Professor"
         - "Cellular and Molecular Endocrine Research Center, Research Institute for Endocrine Molecular Biology, Research Institute for Endocrine Sciences, Shahid Beheshti University of Medical Sciences, Tehran, Iran"
-        - "akbarzadehms@sbmu.ac.ir"
+        - "<a href=\"mailto:akbarzadehms@sbmu.ac.ir\">akbarzadehms@sbmu.ac.ir</a>"
         - "<a href=\"https://scholar.google.com/citations?user=RhIy6LYAAAAJ&hl=en\">Google Scholar</a>"
     - title: "Jalal Gharesouran, Ph.D. (M.Sc. Co-Advisor)"
       items:
         - "Lecturer Professor"
         - "Department of Medical Genetics, Faculty of Medicine, University of Medical Sciences, Tabriz, Iran"
-        - "jalal.gharesouran@gmail.com"
+        - "<a href=\"mailto:jalal.gharesouran@gmail.com\">jalal.gharesouran@gmail.com</a>"
         - "<a href=\"https://scholar.google.com/citations?user=7exXWNoAAAAJ&hl=en\">Google Scholar</a>"
