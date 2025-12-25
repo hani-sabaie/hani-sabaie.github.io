@@ -1,3 +1,8 @@
+- title: TEST
+  type: list
+  contents:
+    - "IF YOU SEE THIS, YAML IS WORKING"
+
 - title: Education
   type: time_table
   contents:
