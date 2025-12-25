@@ -4,9 +4,11 @@
     - name: Full Name
       value: "Hani Sabaie"
     - name: Emails
-      value: "<a href=\"mailto:hani.sabaie@gmail.com\">hani.sabaie@gmail.com</a>", "<a href=\"mailto:sabaieh@tbzmed.ac.ir\">sabaieh@tbzmed.ac.ir</a>"
+      value: "<a href=\"mailto:sabaie.hani@gmail.com\">sabaie.hani@gmail.com</a>", "<a href=\"mailto:sabaieh@tbzmed.ac.ir\">sabaieh@tbzmed.ac.ir</a>"
     - name: Location
       value: "Iran"
+    - name: Website
+      value: ""
     - name: Google Scholar
       value: ""
     - name: GitHub
@@ -35,20 +37,14 @@
         - "Mentor: Dr. Shohreh Siyam"
 
 - title: Research Interests
-  type: nested_list
+  type: list
   contents:
-    - title: "Core"
-      items:
-        - "Human Genetics and Computational Genomics"
-        - "Single-Cell Multi-Omics Analysis"
-        - "Structural Variation in Human Disease"
-    - title: "Causal & Systems Genomics"
-      items:
-        - "Mendelian Randomization and Causal Inference"
-        - "Evolutionary Perspectives on Human Disease"
-    - title: "Neurogenetics"
-      items:
-        - "Neurogenetics and Regulatory RNA Networks"
+    - "Human Genetics and Computational Genomics"
+    - "Structural Variation in Human Disease"
+    - "Single-Cell Multi-Omics Analysis"
+    - "Mendelian Randomization and Causal Inference"
+    - "Neurogenetics and Regulatory RNA Networks"
+    - "Evolutionary Perspectives on Human Disease"
 
 - title: Peer-Reviewed Publications
   type: list
@@ -136,7 +132,7 @@
 - title: Skills
   type: nested_list
   contents:
-    - title: "<b>Programming and Computational Skills</b>"
+    - title: Programming and Computational Skills
       items:
         - "R - Advanced: statistical analysis, data visualization, and reproducible research."
         - "Python - Familiar: data analysis and scientific computing for genomics workflows."
@@ -145,7 +141,7 @@
         - "Git / GitHub - Familiar: version control and collaborative development."
         - "Markdown / R Markdown - Advanced: reproducible documentation and reporting."
         - "Machine Learning - Familiar: foundational concepts and applications in data analysis."
-    - title: "<b>Computational Genomics and Bioinformatics Analysis</b>"
+    - title: Computational Genomics and Bioinformatics Analysis
       items:
         - "Single-Cell Multi-Omics and Spatial Data - Advanced: preprocessing, normalization, multimodal integration, clustering, trajectory inference, network analysis, motif activity, and cell-cell communication analysis (Drop-seq pipeline, Seurat, decontX, scDblFinder, Signac, Monocle, hdWGCNA, chromVAR, and CellChat)."
         - "Bulk RNA-seq - Advanced: end-to-end workflows including QC, alignment, quantification, and differential expression (FastQC, Trimmomatic, HISAT2, STAR, featureCounts, HTSeq, StringTie, Kallisto, Salmon, edgeR, DESeq2, Ballgown, Sleuth, Picard, and GATK)."
@@ -153,12 +149,12 @@
         - "Mendelian Randomization and Causal Inference - Advanced: Two-sample and summary-data-based Mendelian randomization and fine-mapping (TwoSampleMR, SMR/HEIDI, MR-PRESSO, GCTA-COJO, coloc, SuSiE)."
         - "Network Biology - Proficient: co-expression, interaction, and ceRNA requlatory networks analysis (Hmisc, psych, corrplot, bcdstats, LncBase, lncSNP2, miRTarBase, miRWalk, miRDB, ENCORI, HMDD, Cytoscape, MCODE, CytoHubba, STRING, MIST, GeneMANIA, Enrichr, FuncPred, g:profiler, and ImmPort, WGCNA, hdWGCNA)."
         - "Variant Analysis - Advanced: variant calling, annotation, and interpretation (FastQC, Trimmomatic, BWA, GATK, HaplotypeCaller, ANNOVAR, ExAC, gnomAD, 1000 genomes, CADD, ClinVar, SIFT, PolyPhen, LRT, MutationTaster, FATHMM, PROVEAN, MutationAssessor, MCAP, MetaLR, Franklin, Varsome, CLC Genomics Workbench, ExomeDepth, ClinGen, and ACMG guideline)."
-    - title: "<b>Experimental and Molecular Biology Skills</b>"
+    - title: Experimental and Molecular Biology Skills
       items:
         - "Molecular Genetics Techniques - Advanced: DNA extraction, RNA isolation, NanoDrop spectrophotometry, agarose gel electrophoresis, cDNA synthesis, PCR, RT-PCR, and cell culture."
         - "Primer Design and Reference Gene Validation - Advanced: Primer3, Primer-BLAST, Oligo7, Gene Runner, NormFinder, and geNorm."
         - "RT-PCR Data Analysis - Advanced: relative expression analysis and visualization (R, GraphPad Prism, SPSS, and GenEx)."
-    - title: "<b>Other</b>"
+    - title: Other
       items:
         - "Systematic Literature Search and Evidence Synthesis - Proficient: PubMed, Embase, Scopus, Web of Science, Cochrane, ProQuest, Google Scholar."
         - "Reference Management - Advanced: Zotero, EndNote, ResearchRabbit."
@@ -168,7 +164,7 @@
 - title: Conference Participation
   type: nested_list
   contents:
-    - title: "<b>Poster Presentation</b>"
+    - title: Poster Presentation
       items:
         - "Sabaie H, Asadi MR, Salkhordeh Z, Rezazadeh M. Investigation of competing endogenous RNA regulation of BCAS4 and SHISA7 in tau pathology in Alzheimer's disease. The first international conference and the tenth national bioinformatics conference of Iran, 22-24 February 2022 in Kish Island, Iran."
 
@@ -245,33 +241,29 @@
       year: 2018 - 2021
 
 - title: Interests and Activities
-  type: nested_list
+  type: list
   contents:
-    - title: "Lifestyle"
-      items:
-        - "Running"
-        - "Travel"
-    - title: "Academic"
-      items:
-        - "Academic Mentoring"
-        - "Reading in Philosophy and Science"
+    - "Running"
+    - "Travel"
+    - "Academic Mentoring"
+    - "Reading in Philosophy and Science"
 
 - title: References
   type: nested_list
   contents:
-    - title: "<b>Maryam Rezazadeh, Ph.D. (M.Sc. Supervisor)</b>"
+    - title: "Maryam Rezazadeh, Ph.D. (M.Sc. Supervisor)"
       items:
         - "Associate Professor"
         - "Department of Medical Genetics, Faculty of Medicine, University of Medical Sciences, Tabriz, Iran"
         - "<a href=\"mailto:rezazadehm@tbzmed.ac.ir\">rezazadehm@tbzmed.ac.ir</a>"
         - "<a href=\"https://scholar.google.com/citations?user=ansOI08AAAAJ&hl=en\">Google Scholar</a>"
-    - title: "<b>Mahdi Akbarzadeh, Ph.D. (Principal Investigator)</b>"
+    - title: "Mahdi Akbarzadeh, Ph.D. (Principal Investigator)"
       items:
         - "Assistant Professor"
         - "Cellular and Molecular Endocrine Research Center, Research Institute for Endocrine Molecular Biology, Research Institute for Endocrine Sciences, Shahid Beheshti University of Medical Sciences, Tehran, Iran"
         - "<a href=\"mailto:akbarzadehms@sbmu.ac.ir\">akbarzadehms@sbmu.ac.ir</a>"
         - "<a href=\"https://scholar.google.com/citations?user=RhIy6LYAAAAJ&hl=en\">Google Scholar</a>"
-    - title: "<b>Jalal Gharesouran, Ph.D. (M.Sc. Co-Advisor)</b>"
+    - title: "Jalal Gharesouran, Ph.D. (M.Sc. Co-Advisor)"
       items:
         - "Lecturer Professor"
         - "Department of Medical Genetics, Faculty of Medicine, University of Medical Sciences, Tabriz, Iran"
