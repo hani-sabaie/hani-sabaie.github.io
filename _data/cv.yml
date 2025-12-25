@@ -1,19 +1,22 @@
 - title: Education
-  type: list
+  type: time_table
   contents:
-    - "Master of Science in Human Genetics | Tabriz University of Medical Sciences | Tabriz, Iran"
-    - "GPA: 4/4"
-    - "Tuition-Free Master's Degree Program"
-    - "Thesis: Analysis of BCAS4/hsa-miR-185-5p/SHISA7 Competing Endogenous RNA Axis in Late-onset Alzheimer’s Disease."
-    - "Supervisor: Dr. Maryam Rezazadeh"
-    - "2018 - 2021"
-    - ""
-    - "Bachelor of Science in Biology-Animal Sciences | University of Guilan | Rasht, Iran"
-    - "GPA: 3.37/4"
-    - "Tuition-Free Bachelor's Degree Program"
-    - "Project: Genome Evolution"
-    - "Mentor: Dr. Shohreh Siyam"
-    - "2012 – 2017"
+    - title: Master of Science in Human Genetics
+      institution: Tabriz University of Medical Sciences | Tabriz, Iran
+      year: 2018 - 2021
+      description:
+        - "GPA: 4/4"
+        - "Tuition-Free Master's Degree Program"
+        - "Thesis: Analysis of BCAS4/hsa-miR-185-5p/SHISA7 Competing Endogenous RNA Axis in Late-onset Alzheimer’s Disease."
+        - "Supervisor: Dr. Maryam Rezazadeh"
+    - title: Bachelor of Science in Biology-Animal Sciences
+      institution: University of Guilan | Rasht, Iran
+      year: 2012 – 2017
+      description:
+        - "GPA: 3.37/4"
+        - "Tuition-Free Bachelor's Degree Program"
+        - "Project: Genome Evolution"
+        - "Mentor: Dr. Shohreh Siyam"
 
 - title: Research Interests
   type: list
@@ -60,83 +63,92 @@
     - "30. Sabaie H, Ahangar NK, Ghafouri-Fard S, Taheri M, Rezazadeh M. Clinical and genetic features of PEHO and PEHO-Like syndromes: A scoping review. Biomedicine & Pharmacotherapy. 2020;131:110793.  http://dx.doi.org/10.1016/j.biopha.2020.110793"
 
 - title: Research Experience
-  type: list
+  type: time_table
   contents:
-    - "Graduate Research Assistant | Cellular and Molecular Endocrine Research Center | Tehran, Iran"
-    - "Principal Investigator: Dr. Mahdi Akbarzadeh"
-    - "Primary duties:"
-    - "Performed single-nucleus multi-omics analyses to investigate cell-type-specific regulatory mechanisms in complex human diseases."
-    - "Applied high-dimensional weighted gene co-expression network analysis (hdWGCNA) on single-cell transcriptomic data to identify disease-relevant gene modules and hub genes."
-    - "Conducted Mendelian randomization, colocalization, and fine-mapping analyses to infer causal relationships between genetically regulated gene expression and disease susceptibility."
-    - "Authored a narrative review on computational strategies for CNV detection and disease association, bridging methodological development and genomic medicine."
-    - "2025 - Now"
-    - ""
-    - "Graduate Research Assistant | Tabriz University of Medical Sciences | Tabriz, Iran"
-    - "Principal Investigator: Dr. Maryam Rezazadeh"
-    - "Primary duties:"
-    - "Utilizing systems biology to explore the gene modules, hub genes, and regulatory networks linked with neurological conditions through RNA-sequencing transcriptome analysis and weighted gene co-expression network analysis (WGCNA)."
-    - "Variant detection and interpretation from whole-exome sequencing data with validation through Sanger sequencing."
-    - "Assisting the principal investigator in writing and preparing manuscripts and grant proposals."
-    - "Supervising medical, master’s, and Ph.D. students."
-    - "2024"
-    - ""
-    - "Elite Draftee – Researcher | Directorate of Health, Rescue and Treatment, Police Headquarter | Tehran, Iran"
-    - "Project:"
-    - "Conducted a research project under the Iranian National Elite Foundation program as part of an alternative to mandatory military service."
-    - "Focused on interdisciplinary bioinformatic and experimental approaches to identify peripheral blood-based biomarkers for major depressive disorder."
-    - "2022 - 2023"
-    - ""
-    - "Student Research Assistant | Tabriz University of Medical Sciences | Tabriz, Iran"
-    - "Principal Investigator: Dr. Maryam Rezazadeh"
-    - "Main Projects:"
-    - "Identification and examination of ceRNA regulatory axes in neurogenetic disorders through the reanalysis of publicly accessible microarray datasets and supplementary molecular methods."
-    - "Assessing the expression of key genes in neurogenetic conditions using PCR, RT-PCR, and Agarose gel electrophoresis."
-    - "Conducting systematic reviews and scoping reviews on the genetic aspects of human diseases, with an emphasis on neurogenetic conditions."
-    - "2019 - 2021"
+    - title: Graduate Research Assistant
+      institution: Cellular and Molecular Endocrine Research Center | Tehran, Iran
+      year: 2025 - Now
+      description:
+        - "Principal Investigator: Dr. Mahdi Akbarzadeh"
+        - "Primary duties:"
+        - "Performed single-nucleus multi-omics analyses to investigate cell-type-specific regulatory mechanisms in complex human diseases."
+        - "Applied high-dimensional weighted gene co-expression network analysis (hdWGCNA) on single-cell transcriptomic data to identify disease-relevant gene modules and hub genes."
+        - "Conducted Mendelian randomization, colocalization, and fine-mapping analyses to infer causal relationships between genetically regulated gene expression and disease susceptibility."
+        - "Authored a narrative review on computational strategies for CNV detection and disease association, bridging methodological development and genomic medicine."
+    - title: Graduate Research Assistant
+      institution: Tabriz University of Medical Sciences | Tabriz, Iran
+      year: 2024
+      description:
+        - "Principal Investigator: Dr. Maryam Rezazadeh"
+        - "Primary duties:"
+        - "Utilizing systems biology to explore the gene modules, hub genes, and regulatory networks linked with neurological conditions through RNA-sequencing transcriptome analysis and weighted gene co-expression network analysis (WGCNA)."
+        - "Variant detection and interpretation from whole-exome sequencing data with validation through Sanger sequencing."
+        - "Assisting the principal investigator in writing and preparing manuscripts and grant proposals."
+        - "Supervising medical, master’s, and Ph.D. students."
+    - title: Elite Draftee – Researcher
+      institution: Directorate of Health, Rescue and Treatment, Police Headquarter | Tehran, Iran
+      year: 2022 - 2023
+      description:
+        - "Project:"
+        - "Conducted a research project under the Iranian National Elite Foundation program as part of an alternative to mandatory military service."
+        - "Focused on interdisciplinary bioinformatic and experimental approaches to identify peripheral blood-based biomarkers for major depressive disorder."
+    - title: Student Research Assistant
+      institution: Tabriz University of Medical Sciences | Tabriz, Iran
+      year: 2019 - 2021
+      description:
+        - "Principal Investigator: Dr. Maryam Rezazadeh"
+        - "Main Projects:"
+        - "Identification and examination of ceRNA regulatory axes in neurogenetic disorders through the reanalysis of publicly accessible microarray datasets and supplementary molecular methods."
+        - "Assessing the expression of key genes in neurogenetic conditions using PCR, RT-PCR, and Agarose gel electrophoresis."
+        - "Conducting systematic reviews and scoping reviews on the genetic aspects of human diseases, with an emphasis on neurogenetic conditions."
 
 - title: Teaching Experience
-  type: list
+  type: time_table
   contents:
-    - "Assistant Teacher | Tabriz University of Medical Sciences | Tabriz, Iran"
-    - "Taught weekly lectures on microarray data analysis."
-    - "2021"
+    - title: Assistant Teacher
+      institution: Tabriz University of Medical Sciences | Tabriz, Iran
+      year: 2021
+      description:
+        - "Taught weekly lectures on microarray data analysis."
 
 - title: Skills
-  type: list
+  type: nested_list
   contents:
-    - "Programming and Computational Skills:"
-    - "R - Advanced: statistical analysis, data visualization, and reproducible research."
-    - "Python - Familiar: data analysis and scientific computing for genomics workflows."
-    - "Linux / Unix - Advanced: command-line workflows and pipeline execution."
-    - "Bash - Familiar: automation of data processing and analysis pipelines."
-    - "Git / GitHub - Familiar: version control and collaborative development."
-    - "Markdown / R Markdown - Advanced: reproducible documentation and reporting."
-    - "Machine Learning - Familiar: foundational concepts and applications in data analysis."
-    - ""
-    - "Computational Genomics and Bioinformatics Analysis:"
-    - "Single-Cell Multi-Omics and Spatial Data - Advanced: preprocessing, normalization, multimodal integration, clustering, trajectory inference, network analysis, motif activity, and cell-cell communication analysis (Drop-seq pipeline, Seurat, decontX, scDblFinder, Signac, Monocle, hdWGCNA, chromVAR, and CellChat)."
-    - "Bulk RNA-seq - Advanced: end-to-end workflows including QC, alignment, quantification, and differential expression (FastQC, Trimmomatic, HISAT2, STAR, featureCounts, HTSeq, StringTie, Kallisto, Salmon, edgeR, DESeq2, Ballgown, Sleuth, Picard, and GATK)."
-    - "Microarray Analysis - Proficient: preprocessing, normalization, differential expression, and co-expression analysis (limma, affy, GEOquery, WGCNA, GEO2R, pheatmap, EnhancedVolcano)."
-    - "Mendelian Randomization and Causal Inference - Advanced: Two-sample and summary-data-based Mendelian randomization and fine-mapping (TwoSampleMR, SMR/HEIDI, MR-PRESSO, GCTA-COJO, coloc, SuSiE)."
-    - "Network Biology - Proficient: co-expression, interaction, and ceRNA requlatory networks analysis (Hmisc, psych, corrplot, bcdstats, LncBase, lncSNP2, miRTarBase, miRWalk, miRDB, ENCORI, HMDD, Cytoscape, MCODE, CytoHubba, STRING, MIST, GeneMANIA, Enrichr, FuncPred, g:profiler, and ImmPort, WGCNA, hdWGCNA)."
-    - "Variant Analysis - Advanced: variant calling, annotation, and interpretation (FastQC, Trimmomatic, BWA, GATK, HaplotypeCaller, ANNOVAR, ExAC, gnomAD, 1000 genomes, CADD, ClinVar, SIFT, PolyPhen, LRT, MutationTaster, FATHMM, PROVEAN, MutationAssessor, MCAP, MetaLR, Franklin, Varsome, CLC Genomics Workbench, ExomeDepth, ClinGen, and ACMG guideline)."
-    - ""
-    - "Experimental and Molecular Biology Skills:"
-    - "Molecular Genetics Techniques - Advanced: DNA extraction, RNA isolation, NanoDrop spectrophotometry, agarose gel electrophoresis, cDNA synthesis, PCR, RT-PCR, and cell culture."
-    - "Primer Design and Reference Gene Validation - Advanced: Primer3, Primer-BLAST, Oligo7, Gene Runner, NormFinder, and geNorm."
-    - "RT-PCR Data Analysis - Advanced: relative expression analysis and visualization (R, GraphPad Prism, SPSS, and GenEx)."
-    - ""
-    - "Other:"
-    - "Systematic Literature Search and Evidence Synthesis - Proficient: PubMed, Embase, Scopus, Web of Science, Cochrane, ProQuest, Google Scholar."
-    - "Reference Management - Advanced: Zotero, EndNote, ResearchRabbit."
-    - "Scientific Visualization - Advanced: BioRender, Mind the Graph, PowerPoint."
-    - "Meta-analysis - Familiar: Comprehensive Meta-Analysis (CMA)."
+    - title: Programming and Computational Skills
+      items:
+        - "R - Advanced: statistical analysis, data visualization, and reproducible research."
+        - "Python - Familiar: data analysis and scientific computing for genomics workflows."
+        - "Linux / Unix - Advanced: command-line workflows and pipeline execution."
+        - "Bash - Familiar: automation of data processing and analysis pipelines."
+        - "Git / GitHub - Familiar: version control and collaborative development."
+        - "Markdown / R Markdown - Advanced: reproducible documentation and reporting."
+        - "Machine Learning - Familiar: foundational concepts and applications in data analysis."
+    - title: Computational Genomics and Bioinformatics Analysis
+      items:
+        - "Single-Cell Multi-Omics and Spatial Data - Advanced: preprocessing, normalization, multimodal integration, clustering, trajectory inference, network analysis, motif activity, and cell-cell communication analysis (Drop-seq pipeline, Seurat, decontX, scDblFinder, Signac, Monocle, hdWGCNA, chromVAR, and CellChat)."
+        - "Bulk RNA-seq - Advanced: end-to-end workflows including QC, alignment, quantification, and differential expression (FastQC, Trimmomatic, HISAT2, STAR, featureCounts, HTSeq, StringTie, Kallisto, Salmon, edgeR, DESeq2, Ballgown, Sleuth, Picard, and GATK)."
+        - "Microarray Analysis - Proficient: preprocessing, normalization, differential expression, and co-expression analysis (limma, affy, GEOquery, WGCNA, GEO2R, pheatmap, EnhancedVolcano)."
+        - "Mendelian Randomization and Causal Inference - Advanced: Two-sample and summary-data-based Mendelian randomization and fine-mapping (TwoSampleMR, SMR/HEIDI, MR-PRESSO, GCTA-COJO, coloc, SuSiE)."
+        - "Network Biology - Proficient: co-expression, interaction, and ceRNA requlatory networks analysis (Hmisc, psych, corrplot, bcdstats, LncBase, lncSNP2, miRTarBase, miRWalk, miRDB, ENCORI, HMDD, Cytoscape, MCODE, CytoHubba, STRING, MIST, GeneMANIA, Enrichr, FuncPred, g:profiler, and ImmPort, WGCNA, hdWGCNA)."
+        - "Variant Analysis - Advanced: variant calling, annotation, and interpretation (FastQC, Trimmomatic, BWA, GATK, HaplotypeCaller, ANNOVAR, ExAC, gnomAD, 1000 genomes, CADD, ClinVar, SIFT, PolyPhen, LRT, MutationTaster, FATHMM, PROVEAN, MutationAssessor, MCAP, MetaLR, Franklin, Varsome, CLC Genomics Workbench, ExomeDepth, ClinGen, and ACMG guideline)."
+    - title: Experimental and Molecular Biology Skills
+      items:
+        - "Molecular Genetics Techniques - Advanced: DNA extraction, RNA isolation, NanoDrop spectrophotometry, agarose gel electrophoresis, cDNA synthesis, PCR, RT-PCR, and cell culture."
+        - "Primer Design and Reference Gene Validation - Advanced: Primer3, Primer-BLAST, Oligo7, Gene Runner, NormFinder, and geNorm."
+        - "RT-PCR Data Analysis - Advanced: relative expression analysis and visualization (R, GraphPad Prism, SPSS, and GenEx)."
+    - title: Other
+      items:
+        - "Systematic Literature Search and Evidence Synthesis - Proficient: PubMed, Embase, Scopus, Web of Science, Cochrane, ProQuest, Google Scholar."
+        - "Reference Management - Advanced: Zotero, EndNote, ResearchRabbit."
+        - "Scientific Visualization - Advanced: BioRender, Mind the Graph, PowerPoint."
+        - "Meta-analysis - Familiar: Comprehensive Meta-Analysis (CMA)."
 
 - title: Conference Participation
-  type: list
+  type: nested_list
   contents:
-    - "Poster Presentation:"
-    - "Sabaie H, Asadi MR, Salkhordeh Z, Rezazadeh M. Investigation of competing endogenous RNA regulation of BCAS4 and SHISA7 in tau pathology in Alzheimer's disease. The first international conference and the tenth national bioinformatics conference of Iran, 22-24 February 2022 in Kish Island, Iran."
+    - title: Poster Presentation
+      items:
+        - "Sabaie H, Asadi MR, Salkhordeh Z, Rezazadeh M. Investigation of competing endogenous RNA regulation of BCAS4 and SHISA7 in tau pathology in Alzheimer's disease. The first international conference and the tenth national bioinformatics conference of Iran, 22-24 February 2022 in Kish Island, Iran."
 
 - title: Workshops and Training
   type: list
@@ -158,10 +170,14 @@
     - "Proposal Writing | Tabriz University of Medical Sciences | Tabriz, Iran  2019"
 
 - title: Honors and Awards
-  type: list
+  type: time_table
   contents:
-    - "Selected Researcher | Research Week, Clinical Research Development Unit, Tabriz Valiasr Hospital  2023"
-    - "Scientific Elite | Iranian National Elite Foundation  2022"
+    - year: 2023
+      items:
+        - "Selected Researcher | Research Week, Clinical Research Development Unit, Tabriz Valiasr Hospital"
+    - year: 2022
+      items:
+        - "Scientific Elite | Iranian National Elite Foundation"
 
 - title: Science Community Service
   type: list
@@ -169,10 +185,12 @@
     - "Peer Reviewer for International Journals, including: Scientific Reports; Heliyon; PLOS ONE; Medicine; Aging; Annals of Human Biology; BMC Neurology; BMC Medical Genomics; Molecular Neurobiology; Molecular Medicine; Molecular Therapy – Nucleic Acids; Biomedicine & Pharmacotherapy; International Immunopharmacology; Functional & Integrative Genomics; Gene; Cell Cycle; Multiple Sclerosis and Related Disorders; Journal of Diabetes Investigation; Oncology Letters; Discover Oncology; Current Eye Research; Bioengineered; Iranian Journal of Allergy, Asthma and Immunology; Minerva Cardiology and Angiology."
 
 - title: Volunteer Academic Service
-  type: list
+  type: time_table
   contents:
-    - "Academic Mentorship: Advised medical and graduate students on research design, practical implementation, and data analysis.  2022 - Now"
-    - "Graduate Entrance Exam Advising: Provided academic guidance to candidates preparing for the Iranian national entrance examination for M.Sc. programs in Human Genetics.  2018 - 2021"
+    - title: "Academic Mentorship: Advised medical and graduate students on research design, practical implementation, and data analysis."
+      year: 2022 - Now
+    - title: "Graduate Entrance Exam Advising: Provided academic guidance to candidates preparing for the Iranian national entrance examination for M.Sc. programs in Human Genetics."
+      year: 2018 - 2021
 
 - title: Interests and Activities
   type: list
