@@ -235,10 +235,14 @@
 - title: Volunteer Academic Service
   type: time_table
   contents:
-    - title: "Academic Mentorship: Advised medical and graduate students on research design, practical implementation, and data analysis."
+    - title: "Academic Mentorship"
       year: 2022 - Now
-    - title: "Graduate Entrance Exam Advising: Provided academic guidance to candidates preparing for the Iranian national entrance examination for M.Sc. programs in Human Genetics."
+      description:
+        - "Advised medical and graduate students on research design, practical implementation, and data analysis."
+    - title: "Graduate Entrance Exam Advising"
       year: 2018 - 2021
+      description:
+        - "Provided academic guidance to candidates preparing for the Iranian national entrance examination for M.Sc. programs in Human Genetics."
 
 - title: Interests and Activities
   type: list
