@@ -17,6 +17,4 @@ I am open to academic and research-related communication, particularly in the ar
 
 For the fastest response, email is preferred.
 
-<div class="social">
-  {% include social.liquid %}
-</div>
+social: true
