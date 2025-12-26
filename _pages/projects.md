@@ -1,8 +1,8 @@
 ---
 layout: page
 title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+permalink: /Projects/
+description: An overview of selected projects in human genetics and computational genomics.
 nav: true
 nav_order: 3
 display_categories: [Mendelian Randomization]
