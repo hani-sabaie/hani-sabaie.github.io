@@ -7,10 +7,7 @@ importance: 1
 category: Mendelian Randomization
 status: "Published"
 permalink: /projects/causal-biomarkers-ms-progression/
-related_publications: true
 ---
-
-## A Bidirectional Mendelian Randomization Study of Aging-Related Factors on Multiple Sclerosis Progression
 
 <p>
   <strong>Status:</strong> Published &nbsp;·&nbsp;
@@ -18,13 +15,16 @@ related_publications: true
   <strong>Includes:</strong> Bidirectional MR (mtDNA-CN ↔ MS progression), Bidirectional MR (LTL ↔ MS progression), reproducible HTML reports, published papers.
 </p>
 
-<div class="row justify-content-sm-center">
-  <div class="col-sm-10 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/projects/published_mr_ms/workflow.png" title="Bidirectional Mendelian Randomization workflow" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/projects/published_mr_ms/report_mtDNAcn.png" title="mtDNA-CN MR report" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/projects/published_mr_ms/report_LTL.png" title="LTL MR report" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
-  Bidirectional two-sample Mendelian Randomization framework used to investigate causal relationships between mtDNA-CN, leukocyte telomere length, and MS progression.
+  Bidirectional two-sample Mendelian Randomization framework used to investigate causal relationships between mtDNA-CN (left), leukocyte telomere length (right), and MS progression.
 </div>
 
 ---
@@ -86,6 +86,8 @@ This study will utilize summary-level genetic data from large-scale GWAS consort
 </table>
 </div>
 
+
+
 #### 3.2 Genetic Instrument Selection and Validation
 A rigorous process will be used to select and validate the single-nucleotide polymorphisms (SNPs) that will serve as instrumental variables (IVs) for the MR analysis.
 •	SNP Selection: SNPs associated with the exposures (mtDNA-CN and LTL) will be selected based on a genome-wide significance threshold of P < 5 × 10–8, P < 5 × 10–6, or P < 5 × 10–5.
@@ -131,16 +133,18 @@ The expected outcomes include:
 </div>
 
 **Interactive HTML reports:**
-- <a href="/assets/reports/mtDNAcn_MS_prog.html" target="_blank">mtDNA-CN ↔ MS progression (HTML report)</a>
-- <a href="/assets/reports/LTL_MS_prog.html" target="_blank">LTL ↔ MS progression (HTML report)</a>
+- <a href="https://hani-sabaie.github.io/mtDNACN-MSP-MR/MR-Report.html" target="_blank">mtDNA-CN ↔ MS progression (HTML report)</a>
+- <a href="https://hani-sabaie.github.io/LTL-MSP-MR/MR-Report.html" target="_blank">LTL ↔ MS progression (HTML report)</a>
 
 ---
 
 ### Related Publications
-Full bibliographic details are available in the <a href="/publications/">Publications</a> section.
 
-- Sabaie H, Taghavi Rad A, Shabestari M, Habibi D, Saadattalab T, Seddiq S, Saeidian AH, Zahedi AS, Sanoie M, Vahidnezhad H, Zarkesh M, Foroutani L, Hakonarson H, Azizi F, Hedayati M, Daneshpour MS, Akbarzadeh M. Molecular Neurobiology. 2025;62(9):11643-53. <a href="https://doi.org/10.1016/j.msard.2025.106277" target="_blank">DOI</a>
-- Sabaie H, Taghavi Rad A, Shabestari M, Seddiq S, Saadattalab T, Habibi D, Saeidian AH, Abbasi M, Mirtavoos-Mahyari H. Multiple Sclerosis and Related Disorders. 2025;94:106277. <a href="https://doi.org/10.1016/j.msard.2025.106277" target="_blank">DOI</a>
+- **Sabaie H**, Taghavi Rad A, Shabestari M, Habibi D, Saadattalab T, Seddiq S, Saeidian AH, Zahedi AS, Sanoie M, Vahidnezhad H, Zarkesh M, Foroutani L, Hakonarson H, Azizi F, Hedayati M, Daneshpour MS, Akbarzadeh M. *Mitochondrial DNA Copy Number as a Hidden Player in the Progression of Multiple Sclerosis: A Bidirectional Two-Sample Mendelian Randomization Study.* Molecular Neurobiology. 2025;62(9):11643-53.  
+  <a href="https://doi.org/10.1007/s12035-025-04980-9" target="_blank">https://doi.org/10.1016/j.msard.2025.106277</a>
+
+- **Sabaie H**, Taghavi Rad A, Shabestari M, Seddiq S, Saadattalab T, Habibi D, Saeidian AH, Abbasi M, Mirtavoos-Mahyari H. *Deciphering the bidirectional impact of leukocyte telomere length on multiple sclerosis progression: A Mendelian randomization study.* Multiple Sclerosis and Related Disorders. 2025;94:106277.  
+  <a href="https://doi.org/10.1016/j.msard.2025.106277" target="_blank">https://doi.org/10.1016/j.msard.2025.106277</a>
 
 ---
 
