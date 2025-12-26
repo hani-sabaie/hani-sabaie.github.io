@@ -411,7 +411,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-a-bidirectional-mendelian-randomization-study-on-causal-biomarkers-of-multiple-sclerosis-progression",
           title: 'A Bidirectional Mendelian Randomization Study on Causal Biomarkers of Multiple Sclerosis Progression',
-          description: "Published Mendelian Randomization analyses identifying causal biomarkers of MS progression",
+          description: "Genetic dissection of mitochondrial DNA copy number and leukocyte telomere length in multiple sclerosis progression",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
