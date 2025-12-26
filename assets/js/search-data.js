@@ -409,9 +409,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-causal-biomarkers-of-ms-progression",
-          title: 'Causal Biomarkers of MS Progression',
-          description: "Program-level bidirectional Mendelian Randomization analyses of mitochondrial DNA copy number and leukocyte telomere length in multiple sclerosis progression.",
+          section: "News",},{id: "projects-inferring-the-causal-role-of-aging-related-factors-in-ms-progression",
+          title: 'Inferring the Causal Role of Aging-Related Factors in MS Progression',
+          description: "A bidirectional Mendelian Randomization analyses of mitochondrial DNA copy number and leukocyte telomere length in multiple sclerosis progression.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/causal-biomarkers-ms-progression/";
             },},{id: "projects-project-2",
