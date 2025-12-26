@@ -164,5 +164,5 @@ The expected outcomes include:
 9.	Cerantonio A, Citrigno L, Greco BM, De Benedittis S, Passarino G, Maletta R, Qualtieri A, Montesanto A, Spadafora P, Cavalcanti F. The Role of Mitochondrial Copy Number in Neurodegenerative Diseases: Present Insights and Future Directions. Int J Mol Sci. 2024;25(11). 
 10.	Guan JZ, Guan WP, Maeda T, Guoqing X, GuangZhi W, Makino N. Patients with multiple sclerosis show increased oxidative stress markers and somatic telomere length shortening. Mol Cell Biochem. 2015;400(1-2):183-7. 
 11.	Krysko KM, Henry RG, Cree BAC, Lin J, Caillier S, Santaniello A, Zhao C, Gomez R, Bevan C, Smith DL, Stern W, Kirkish G, Hauser SL, Oksenberg JR, Graves JS. Telomere Length Is Associated with Disability Progression in Multiple Sclerosis. Ann Neurol. 2019;86(5):671-82. 
-12.	Grimes DA, Schulz KF. Bias and causal associations in observational research. The Lancet. 2002;359(9302):248-52.  <a href="https://doi.org/10.1016/S0140-6736(02)07451-2" target="_blank">https://doi.org/10.1016/S0140-6736(02)07451-2</a>
+12.	Grimes DA, Schulz KF. Bias and causal associations in observational research. The Lancet. 2002;359(9302):248-52.
 13.	Sekula P, Del Greco MF, Pattaro C, Köttgen A. Mendelian Randomization as an Approach to Assess Causality Using Observational Data. J Am Soc Nephrol. 2016;27(11):3253-65.
