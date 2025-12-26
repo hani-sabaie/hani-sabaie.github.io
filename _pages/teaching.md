@@ -5,6 +5,7 @@ title: Contact
 description: How to get in touch for research collaborations and academic inquiries.
 nav: true
 nav_order: 6
+social: true
 ---
 
 I am open to academic and research-related communication, particularly in the areas of:
@@ -17,4 +18,3 @@ I am open to academic and research-related communication, particularly in the ar
 
 For the fastest response, email is preferred.
 
-social: true
