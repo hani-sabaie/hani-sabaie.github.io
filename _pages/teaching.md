@@ -1,8 +1,8 @@
 ---
 layout: about
+hide_name: true
 permalink: /contact/
 title: Contact
-show_title: false
 description: How to get in touch for research collaborations and academic inquiries.
 nav: true
 nav_order: 6
