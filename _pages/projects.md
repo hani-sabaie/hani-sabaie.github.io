@@ -1,7 +1,7 @@
 ---
 layout: page
-title: projects
-permalink: /Projects/
+title: Projects
+permalink: /projects/
 description: An overview of selected projects in human genetics and computational genomics.
 nav: true
 nav_order: 3
