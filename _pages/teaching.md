@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 permalink: /contact/
 title: Contact
 description: How to get in touch for research collaborations and academic inquiries.
