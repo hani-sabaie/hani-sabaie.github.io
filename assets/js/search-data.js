@@ -17,11 +17,11 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
-          title: "projects",
+          title: "Projects",
           description: "An overview of selected projects in human genetics and computational genomics.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Projects/";
+            window.location.href = "/projects/";
           },
         },{id: "nav-cv",
           title: "CV",
