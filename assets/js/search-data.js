@@ -402,11 +402,11 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-a-bidirectional-mendelian-randomization-study-on-causal-biomarkers-of-multiple-sclerosis-progression",
-          title: 'A Bidirectional Mendelian Randomization Study on Causal Biomarkers of Multiple Sclerosis Progression',
-          description: "Genetic dissection of mitochondrial DNA copy number and leukocyte telomere length in multiple sclerosis progression",
+          section: "News",},{id: "projects-causal-biomarkers-of-ms-progression",
+          title: 'Causal Biomarkers of MS Progression',
+          description: "Program-level bidirectional Mendelian Randomization analyses of mitochondrial DNA copy number and leukocyte telomere length in multiple sclerosis progression.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/causal-biomarkers-ms-progression/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
