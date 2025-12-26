@@ -15,18 +15,6 @@ permalink: /projects/causal-biomarkers-ms-progression/
   <strong>Includes:</strong> Bidirectional MR (mtDNA-CN ↔ MS progression), Bidirectional MR (LTL ↔ MS progression), reproducible HTML reports, published papers.
 </p>
 
-<div class="row">
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/projects/published_mr_ms/report_mtDNAcn.png" title="mtDNA-CN MR report" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/projects/published_mr_ms/report_LTL.png" title="LTL MR report" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-<div class="caption">
-  Bidirectional two-sample Mendelian Randomization framework used to investigate causal relationships between mtDNA-CN (left), leukocyte telomere length (right), and MS progression.
-</div>
-
 ---
 
 ### 1. Statement of the Problem and Rationale
@@ -53,6 +41,18 @@ The primary and secondary objectives of this study are:
 
 ### 3. Methodological Framework
 This research will employ a bidirectional, two-sample MR design. This framework is strategically chosen for its statistical power and its ability to infer both causality and directionality by leveraging summary-level data from large-scale, publicly available genome-wide association studies (GWAS). This approach enables a rigorous investigation while obviating the need for new patient recruitment and data collection.
+
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/flow_mtDNAcn.png" title="mtDNA-CN MR report" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/flow_LTL.png" title="LTL MR report" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+<div class="caption">
+  Bidirectional two-sample Mendelian Randomization framework used to investigate causal relationships between mtDNA-CN (left), leukocyte telomere length (right), and MS progression.
+</div>
 
 #### 3.1 Data Sources
 This study will utilize summary-level genetic data from large-scale GWAS consortia. The details of these datasets, which include hundreds of thousands of individuals of European ancestry, are summarized below.
