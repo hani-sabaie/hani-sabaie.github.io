@@ -1,16 +1,16 @@
 ---
 layout: page
-title: "Causal Biomarkers of MS Progression"
-description: "Program-level bidirectional Mendelian Randomization analyses of mitochondrial DNA copy number and leukocyte telomere length in multiple sclerosis progression."
+title: "Inferring the Causal Role of Aging-Related Factors in MS Progression"
+description: "A bidirectional Mendelian Randomization analyses of mitochondrial DNA copy number and leukocyte telomere length in multiple sclerosis progression."
 img: assets/img/projects/published_mr_ms/hero.jpg
 importance: 1
-category: research
+category: Mendelian Randomization
 status: "Published"
 permalink: /projects/causal-biomarkers-ms-progression/
 related_publications: true
 ---
 
-## A Bidirectional Mendelian Randomization Study on Causal Biomarkers of Multiple Sclerosis Progression
+## A Bidirectional Mendelian Randomization Study of Aging-Related Factors on Multiple Sclerosis Progression
 
 <p>
   <strong>Status:</strong> Published &nbsp;·&nbsp;
