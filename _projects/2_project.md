@@ -4,7 +4,7 @@ title: "Aging-Driven Fibro-Adipogenic Progenitor Dysregulation in Inguinal Herni
 description: "An integrative single-cell and genetic multi-omics study to identify causal aging-related FAP mechanisms underlying inguinal hernia susceptibility."
 img: assets/img/adipo.jpg
 importance: 1
-category: Multi-Omics
+category: Selected Projects
 status: "Ongoing"
 permalink: /projects/aging-fap-inguinal-hernia/
 ---
