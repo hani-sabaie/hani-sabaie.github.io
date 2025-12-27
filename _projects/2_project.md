@@ -29,10 +29,10 @@ permalink: /projects/aging-fap-inguinal-hernia/
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/?.png" title="mtDNA-CN MR report" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/?.png" title="?" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/?.png" title="LTL MR report" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/?.png" title="?" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
