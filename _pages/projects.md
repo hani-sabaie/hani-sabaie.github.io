@@ -5,7 +5,7 @@ permalink: /projects/
 description: An overview of selected projects in human genetics and computational genomics.
 nav: true
 nav_order: 3
-display_categories: 
+display_categories: [Selected Projects]
 horizontal: false
 ---
 
