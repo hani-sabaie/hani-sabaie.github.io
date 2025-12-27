@@ -4,7 +4,7 @@ title: "Inferring the Causal Role of Aging-Related Factors in MS Progression"
 description: "A bidirectional Mendelian Randomization analyses of mitochondrial DNA copy number and leukocyte telomere length in multiple sclerosis progression."
 img: assets/img/aging.jpg
 importance: 2
-category: Mendelian Randomization
+category: Selected Projects
 status: "Published"
 permalink: /projects/causal-biomarkers-ms-progression/
 ---
