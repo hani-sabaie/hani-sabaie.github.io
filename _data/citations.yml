@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-01-07'
+  last_updated: '2026-01-14'
 papers:
   VWjlf4oAAAAJ:0EnyYjriUFMC:
     citations: 9
     title: "Analysis of ROQUIN, Tristetraprolin (TTP), and BDNF/miR-16/TTP regulatory axis in late onset Alzheimer\u2019s disease"
     year: '2022'
   VWjlf4oAAAAJ:2osOgNQ5qMEC:
-    citations: 38
+    citations: 37
     title: 'The perspective of dysregulated lncRNAs in Alzheimer''s disease: a systematic scoping review'
     year: '2021'
   VWjlf4oAAAAJ:4TOpqqG69KYC:
@@ -26,7 +26,7 @@ papers:
     title: Expression analysis of ermin and listerin E3 ubiquitin protein ligase 1 genes in the periphery of patients with schizophrenia
     year: '2022'
   VWjlf4oAAAAJ:KlAtU1dfN6UC:
-    citations: 10
+    citations: 9
     title: Assessing the expression of two post-transcriptional BDNF regulators, TTP and miR-16 in the peripheral blood of patients with Schizophrenia
     year: '2022'
   VWjlf4oAAAAJ:LkGwnXOMwfcC:
@@ -74,7 +74,7 @@ papers:
     title: 'Competing endogenous RNA (ceRNA) networks in Parkinson''s disease: a systematic review'
     year: '2023'
   VWjlf4oAAAAJ:_FxGoFyzp5QC:
-    citations: 15
+    citations: 14
     title: Downregulation of miR-185 is a common pathogenic event in 22q11. 2 deletion syndrome-related and idiopathic schizophrenia
     year: '2022'
   VWjlf4oAAAAJ:_kc_bZDykSQC:
@@ -86,7 +86,7 @@ papers:
     title: 'Mitochondrial DNA Copy Number as a Hidden Player in the Progression of Multiple Sclerosis: A Bidirectional Two-Sample Mendelian Randomization Study'
     year: '2025'
   VWjlf4oAAAAJ:d1gkVwhDpl0C:
-    citations: 56
+    citations: 57
     title: 'Stress granules and neurodegenerative disorders: a scoping review'
     year: '2021'
   VWjlf4oAAAAJ:eQOLeE2rZwMC:
@@ -106,7 +106,7 @@ papers:
     title: 'Deciphering the bidirectional impact of leukocyte telomere length on multiple sclerosis progression: A Mendelian randomization study'
     year: '2025'
   VWjlf4oAAAAJ:u-x6o8ySG0sC:
-    citations: 18
+    citations: 17
     title: 'The regulatory cross-talk between microRNAs and novel members of the B7 family in human diseases: a scoping review'
     year: '2021'
   VWjlf4oAAAAJ:u5HHmVD_uO8C:
@@ -114,7 +114,7 @@ papers:
     title: 'Clinical and genetic features of PEHO and PEHO-Like syndromes: A scoping review'
     year: '2020'
   VWjlf4oAAAAJ:ufrVoPGSRksC:
-    citations: 22
+    citations: 21
     title: 'Long non-coding RNA-associated competing endogenous RNA axes in the olfactory epithelium in schizophrenia: a bioinformatics analysis'
     year: '2021'
   VWjlf4oAAAAJ:zYLM7Y9cAGgC:
