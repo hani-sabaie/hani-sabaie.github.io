@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-01-28'
+  last_updated: '2026-02-09'
 papers:
   VWjlf4oAAAAJ:0EnyYjriUFMC:
     citations: 9
     title: "Analysis of ROQUIN, Tristetraprolin (TTP), and BDNF/miR-16/TTP regulatory axis in late onset Alzheimer\u2019s disease"
     year: '2022'
   VWjlf4oAAAAJ:2osOgNQ5qMEC:
-    citations: 38
+    citations: 37
     title: 'The perspective of dysregulated lncRNAs in Alzheimer''s disease: a systematic scoping review'
     year: '2021'
   VWjlf4oAAAAJ:4TOpqqG69KYC:
-    citations: 3
+    citations: 5
     title: "Neurotrophin growth factors and their receptors as promising blood biomarkers for Alzheimer\u2019s Disease: A gene expression analysis study"
     year: '2024'
   VWjlf4oAAAAJ:8k81kl-MbHgC:
@@ -26,7 +26,7 @@ papers:
     title: Expression analysis of ermin and listerin E3 ubiquitin protein ligase 1 genes in the periphery of patients with schizophrenia
     year: '2022'
   VWjlf4oAAAAJ:KlAtU1dfN6UC:
-    citations: 10
+    citations: 9
     title: Assessing the expression of two post-transcriptional BDNF regulators, TTP and miR-16 in the peripheral blood of patients with Schizophrenia
     year: '2022'
   VWjlf4oAAAAJ:LkGwnXOMwfcC:
@@ -58,11 +58,11 @@ papers:
     title: 'CircRNA-associated CeRNAs regulatory axes in retinoblastoma: a systematic scoping review'
     year: '2022'
   VWjlf4oAAAAJ:W7OEmFMy1HYC:
-    citations: 12
+    citations: 13
     title: Long non-coding RNA-associated competing endogenous RNA axes in T-cells in multiple sclerosis
     year: '2021'
   VWjlf4oAAAAJ:Y0pCki6q_DkC:
-    citations: 15
+    citations: 16
     title: 'Long non-coding RNAs, novel offenders or guardians in multiple sclerosis: a scoping review'
     year: '2021'
   VWjlf4oAAAAJ:YsMSGLbcyi4C:
@@ -74,7 +74,7 @@ papers:
     title: 'Competing endogenous RNA (ceRNA) networks in Parkinson''s disease: a systematic review'
     year: '2023'
   VWjlf4oAAAAJ:_FxGoFyzp5QC:
-    citations: 15
+    citations: 14
     title: Downregulation of miR-185 is a common pathogenic event in 22q11. 2 deletion syndrome-related and idiopathic schizophrenia
     year: '2022'
   VWjlf4oAAAAJ:_kc_bZDykSQC:
@@ -90,15 +90,15 @@ papers:
     title: 'Stress granules and neurodegenerative disorders: a scoping review'
     year: '2021'
   VWjlf4oAAAAJ:eQOLeE2rZwMC:
-    citations: 37
+    citations: 39
     title: Bioinformatics analysis of long non-coding RNA-associated competing endogenous RNA network in schizophrenia
     year: '2021'
   VWjlf4oAAAAJ:kNdYIx-mwKoC:
-    citations: 5
+    citations: 6
     title: Expression analysis of hsa_circ_0020397, hsa_circ_0005986, hsa_circ_0003028, and hsa_circ_0006990 in renal cell carcinoma
     year: '2023'
   VWjlf4oAAAAJ:qjMakFHDy7sC:
-    citations: 42
+    citations: 43
     title: 'Stress granules involved in formation, progression and metastasis of cancer: A scoping review'
     year: '2021'
   VWjlf4oAAAAJ:qxL8FJ1GzNcC:
@@ -114,7 +114,7 @@ papers:
     title: 'Clinical and genetic features of PEHO and PEHO-Like syndromes: A scoping review'
     year: '2020'
   VWjlf4oAAAAJ:ufrVoPGSRksC:
-    citations: 22
+    citations: 21
     title: 'Long non-coding RNA-associated competing endogenous RNA axes in the olfactory epithelium in schizophrenia: a bioinformatics analysis'
     year: '2021'
   VWjlf4oAAAAJ:zYLM7Y9cAGgC:
