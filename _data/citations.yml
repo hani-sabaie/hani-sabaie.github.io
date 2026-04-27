@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-03-20'
+  last_updated: '2026-04-27'
 papers:
   VWjlf4oAAAAJ:0EnyYjriUFMC:
     citations: 10
     title: "Analysis of ROQUIN, Tristetraprolin (TTP), and BDNF/miR-16/TTP regulatory axis in late onset Alzheimer\u2019s disease"
     year: '2022'
   VWjlf4oAAAAJ:2osOgNQ5qMEC:
-    citations: 40
+    citations: 43
     title: 'The perspective of dysregulated lncRNAs in Alzheimer''s disease: a systematic scoping review'
     year: '2021'
   VWjlf4oAAAAJ:4TOpqqG69KYC:
-    citations: 5
+    citations: 7
     title: "Neurotrophin growth factors and their receptors as promising blood biomarkers for Alzheimer\u2019s Disease: A gene expression analysis study"
     year: '2024'
   VWjlf4oAAAAJ:8k81kl-MbHgC:
@@ -34,11 +34,11 @@ papers:
     title: "Identification and Analysis of BCAS4/hsa-miR-185-5p/SHISA7 Competing Endogenous RNA Axis in Late-Onset Alzheimer\u2019s Disease Using Bioinformatic and \u2026"
     year: '2022'
   VWjlf4oAAAAJ:M3ejUd6NZC8C:
-    citations: 4
+    citations: 6
     title: A comprehensive review of the applications of RNA sequencing in celiac disease research
     year: '2024'
   VWjlf4oAAAAJ:MXK_kJrjxJIC:
-    citations: 10
+    citations: 11
     title: Identification of key long non-coding RNA-associated competing endogenous RNA axes in Brodmann Area 10 brain region of schizophrenia patients
     year: '2022'
   VWjlf4oAAAAJ:Se3iqnhoufwC:
@@ -46,7 +46,7 @@ papers:
     title: Association of seven fundamental genetic polymorphisms in long noncoding RNA MALAT1, SOX2OT and H19 with recurrent miscarriage in Turkish-Azeri Iranian population
     year: '2022'
   VWjlf4oAAAAJ:Tyk-4Ss8FVUC:
-    citations: 24
+    citations: 26
     title: "Molecular insight into the therapeutic potential of long non-coding RNA-associated competing endogenous RNA axes in Alzheimer\u2019s disease: a systematic scoping review"
     year: '2021'
   VWjlf4oAAAAJ:ULOm3_A8WrAC:
@@ -66,11 +66,11 @@ papers:
     title: 'Long non-coding RNAs, novel offenders or guardians in multiple sclerosis: a scoping review'
     year: '2021'
   VWjlf4oAAAAJ:YsMSGLbcyi4C:
-    citations: 11
+    citations: 12
     title: 'Stress granules in the anti-cancer medications mechanism of action: a systematic scoping review'
     year: '2021'
   VWjlf4oAAAAJ:Zph67rFs4hoC:
-    citations: 19
+    citations: 21
     title: 'Competing endogenous RNA (ceRNA) networks in Parkinson''s disease: a systematic review'
     year: '2023'
   VWjlf4oAAAAJ:_FxGoFyzp5QC:
@@ -86,7 +86,7 @@ papers:
     title: 'Mitochondrial DNA Copy Number as a Hidden Player in the Progression of Multiple Sclerosis: A Bidirectional Two-Sample Mendelian Randomization Study'
     year: '2025'
   VWjlf4oAAAAJ:d1gkVwhDpl0C:
-    citations: 62
+    citations: 65
     title: 'Stress granules and neurodegenerative disorders: a scoping review'
     year: '2021'
   VWjlf4oAAAAJ:eQOLeE2rZwMC:
@@ -98,7 +98,7 @@ papers:
     title: Expression analysis of hsa_circ_0020397, hsa_circ_0005986, hsa_circ_0003028, and hsa_circ_0006990 in renal cell carcinoma
     year: '2023'
   VWjlf4oAAAAJ:qjMakFHDy7sC:
-    citations: 44
+    citations: 47
     title: 'Stress granules involved in formation, progression and metastasis of cancer: A scoping review'
     year: '2021'
   VWjlf4oAAAAJ:qxL8FJ1GzNcC:
@@ -114,7 +114,7 @@ papers:
     title: 'Clinical and genetic features of PEHO and PEHO-Like syndromes: A scoping review'
     year: '2020'
   VWjlf4oAAAAJ:ufrVoPGSRksC:
-    citations: 22
+    citations: 23
     title: 'Long non-coding RNA-associated competing endogenous RNA axes in the olfactory epithelium in schizophrenia: a bioinformatics analysis'
     year: '2021'
   VWjlf4oAAAAJ:zYLM7Y9cAGgC:
