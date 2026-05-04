@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-27'
+  last_updated: '2026-05-04'
 papers:
   VWjlf4oAAAAJ:0EnyYjriUFMC:
     citations: 10
@@ -9,6 +9,10 @@ papers:
     citations: 43
     title: 'The perspective of dysregulated lncRNAs in Alzheimer''s disease: a systematic scoping review'
     year: '2021'
+  VWjlf4oAAAAJ:4DMP91E08xMC:
+    citations: 0
+    title: 'Serum ferritin and delirium risk: an integrative genomic analysis of causal inference and multi-tissue regulatory signals'
+    year: '2026'
   VWjlf4oAAAAJ:4TOpqqG69KYC:
     citations: 7
     title: "Neurotrophin growth factors and their receptors as promising blood biomarkers for Alzheimer\u2019s Disease: A gene expression analysis study"
@@ -46,7 +50,7 @@ papers:
     title: Association of seven fundamental genetic polymorphisms in long noncoding RNA MALAT1, SOX2OT and H19 with recurrent miscarriage in Turkish-Azeri Iranian population
     year: '2022'
   VWjlf4oAAAAJ:Tyk-4Ss8FVUC:
-    citations: 26
+    citations: 27
     title: "Molecular insight into the therapeutic potential of long non-coding RNA-associated competing endogenous RNA axes in Alzheimer\u2019s disease: a systematic scoping review"
     year: '2021'
   VWjlf4oAAAAJ:ULOm3_A8WrAC:
@@ -86,11 +90,11 @@ papers:
     title: 'Mitochondrial DNA Copy Number as a Hidden Player in the Progression of Multiple Sclerosis: A Bidirectional Two-Sample Mendelian Randomization Study'
     year: '2025'
   VWjlf4oAAAAJ:d1gkVwhDpl0C:
-    citations: 65
+    citations: 66
     title: 'Stress granules and neurodegenerative disorders: a scoping review'
     year: '2021'
   VWjlf4oAAAAJ:eQOLeE2rZwMC:
-    citations: 40
+    citations: 41
     title: Bioinformatics analysis of long non-coding RNA-associated competing endogenous RNA network in schizophrenia
     year: '2021'
   VWjlf4oAAAAJ:kNdYIx-mwKoC:
@@ -98,7 +102,7 @@ papers:
     title: Expression analysis of hsa_circ_0020397, hsa_circ_0005986, hsa_circ_0003028, and hsa_circ_0006990 in renal cell carcinoma
     year: '2023'
   VWjlf4oAAAAJ:qjMakFHDy7sC:
-    citations: 47
+    citations: 48
     title: 'Stress granules involved in formation, progression and metastasis of cancer: A scoping review'
     year: '2021'
   VWjlf4oAAAAJ:qxL8FJ1GzNcC:
