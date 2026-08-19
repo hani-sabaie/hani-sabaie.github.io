@@ -26,6 +26,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+<br>
 
 🧬 I hold an **M.Sc. in Human Genetics** and have research experience in **computational genomics, structural variation, functional genomics, and transcriptomics**.
 
