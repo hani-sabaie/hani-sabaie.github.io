@@ -140,21 +140,21 @@
     - title: Programming and Computational Skills
       items:
         - "R: Proficient with statistical modeling, data analysis, visualization, and reproducible research."
-        -	"ython: Experienced with data analysis and scientific computing for genomic applications."
-        -	"Linux/Unix and Bash: Skilled with command-line workflows and pipeline automation."
-        -	"Git/GitHub: Experienced with version control and collaborative development."
-        -	"Markdown/R Markdown: Proficient with reproducible documentation and reporting."
+        - "Python: Experienced with data analysis and scientific computing for genomic applications."
+        - "Linux/Unix and Bash: Skilled with command-line workflows and pipeline automation."
+        - "Git/GitHub: Experienced with version control and collaborative development."
+        - "Markdown/R Markdown: Proficient with reproducible documentation and reporting."
     - title: Statistical and Computational Genomics
       items:
-        -	"Skilled with two-sample and summary-data-based Mendelian randomization, colocalization and statistical fine-mapping (TwoSampleMR, SMR/HEIDI, MR-PRESSO, GCTA-COJO, coloc, and SuSiE)."
-        -	"Experienced with Comprehensive Meta-Analysis (CMA)."
+        - "Skilled with two-sample and summary-data-based Mendelian randomization, colocalization and statistical fine-mapping (TwoSampleMR, SMR/HEIDI, MR-PRESSO, GCTA-COJO, coloc, and SuSiE)."
+        - "Experienced with Comprehensive Meta-Analysis (CMA)."
     - title: Functional Genomics
       items:
-      -	"Single-Cell Multiomics: Experienced with preprocessing, normalization, multimodal integration, clustering, trajectory inference, network analysis, motif activity, and cell–cell communication analysis (Drop-seq pipeline, Seurat, decontX, scDblFinder, Signac, Monocle, hdWGCNA, chromVAR, and CellChat)."
-      -	"Bulk RNA-seq: Experienced with end-to-end workflows including QC, alignment, quantification, and differential expression (FastQC, Trimmomatic, HISAT2, STAR, featureCounts, HTSeq, StringTie, Kallisto, Salmon, edgeR, DESeq2, Ballgown, Sleuth, Picard, and GATK)."
-      -	"Co-expression and network analysis: Skilled with co-expression, interaction, and ceRNA regulatory network analysis (Hmisc, psych, corrplot, bcdstats, LncBase, lncSNP2, miRTarBase, miRWalk, miRDB, ENCORI, HMDD, Cytoscape, MCODE, CytoHubba, STRING, MIST, GeneMANIA, Enrichr, FuncPred, g, ImmPort, WGCNA, and hdWGCNA)."
-      -	"Microarray Analysis: Proficient with preprocessing, normalization, differential expression analysis (limma, affy, GEOquery, GEO2R, pheatmap, and EnhancedVolcano)."
-      -	"Genomic Variant Analysis: Skilled with variant calling, annotation, and interpretation (FastQC, Trimmomatic, BWA, GATK, HaplotypeCaller, ANNOVAR, ExAC, gnomAD, 1000 Genomes, CADD, ClinVar, SIFT, PolyPhen, LRT, MutationTaster, FATHMM, PROVEAN, MutationAssessor, MCAP, MetaLR, Franklin, VarSome, CLC Genomics Workbench, ExomeDepth, ClinGen, and ACMG/AMP guidelines)."
+        - "Single-Cell Multiomics: Experienced with preprocessing, normalization, multimodal integration, clustering, trajectory inference, network analysis, motif activity, and cell–cell communication analysis (Drop-seq pipeline, Seurat, decontX, scDblFinder, Signac, Monocle, hdWGCNA, chromVAR, and CellChat)."
+        - "Bulk RNA-seq: Experienced with end-to-end workflows including QC, alignment, quantification, and differential expression (FastQC, Trimmomatic, HISAT2, STAR, featureCounts, HTSeq, StringTie, Kallisto, Salmon, edgeR, DESeq2, Ballgown, Sleuth, Picard, and GATK)."
+        - "Co-expression and network analysis: Skilled with co-expression, interaction, and ceRNA regulatory network analysis."
+        - "Microarray Analysis: Proficient with preprocessing, normalization, and differential expression analysis."
+        - "Genomic Variant Analysis: Skilled with variant calling, annotation, and interpretation."
     - title: Experimental and Molecular Biology Skills
       items:
       -	"Molecular Genetics Techniques: Skilled with DNA extraction, RNA isolation, NanoDrop spectrophotometry, agarose gel electrophoresis, cDNA synthesis, PCR, RT-qPCR, and cell culture."
