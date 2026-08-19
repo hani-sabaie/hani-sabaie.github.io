@@ -157,14 +157,14 @@
         - "Genomic Variant Analysis: Skilled with variant calling, annotation, and interpretation."
     - title: Experimental and Molecular Biology Skills
       items:
-      -	"Molecular Genetics Techniques: Skilled with DNA extraction, RNA isolation, NanoDrop spectrophotometry, agarose gel electrophoresis, cDNA synthesis, PCR, RT-qPCR, and cell culture."
-      -	"Primer Design and Reference Gene Validation: Proficient with Primer3, Primer-BLAST, Oligo7, Gene Runner, NormFinder, and geNorm."
-      -	"RT-qPCR Data Analysis: Proficient with relative expression analysis and visualization (R, GraphPad Prism, SPSS, and GenEx)."
+        - "Molecular Genetics Techniques: Skilled with DNA extraction, RNA isolation, NanoDrop spectrophotometry, agarose gel electrophoresis, cDNA synthesis, PCR, RT-qPCR, and cell culture."
+        - "Primer Design and Reference Gene Validation: Proficient with Primer3, Primer-BLAST, Oligo7, Gene Runner, NormFinder, and geNorm."
+        - "RT-qPCR Data Analysis: Proficient with relative expression analysis and visualization (R, GraphPad Prism, SPSS, and GenEx)."
     - title: Other
       items:
-      -	"Systematic Literature Search and Evidence Synthesis: Proficient with PubMed, Embase, Scopus, Web of Science, Cochrane, ProQuest, and Google Scholar."
-      -	"Reference Management: Proficient with Zotero, EndNote, and ResearchRabbit."
-      -	"Scientific Visualization: Proficient with BioRender, Mind the Graph, and PowerPoint."
+        - "Systematic Literature Search and Evidence Synthesis: Proficient with PubMed, Embase, Scopus, Web of Science, Cochrane, ProQuest, and Google Scholar."
+        - "Reference Management: Proficient with Zotero, EndNote, and ResearchRabbit."
+        - "Scientific Visualization: Proficient with BioRender, Mind the Graph, and PowerPoint."
 
 - title: Conference Presentations
   type: nested_list
