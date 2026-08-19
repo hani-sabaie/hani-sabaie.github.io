@@ -87,26 +87,27 @@
 - title: Research Experience
   type: time_table
   contents:
-    - title: Graduate Research Assistant
+    - title: Research Assistant
       institution: Cellular and Molecular Endocrine Research Center | Tehran, Iran
-      year: 2025 - Now
+      year: 2025 - Present
       description:
         - "Principal Investigator: Dr. Mahdi Akbarzadeh"
         - "Primary duties:"
-        - "Performed single-nucleus multi-omics analyses to investigate cell-type-specific regulatory mechanisms in complex human diseases."
-        - "Applied high-dimensional weighted gene co-expression network analysis (hdWGCNA) on single-cell transcriptomic data to identify disease-relevant gene modules and hub genes."
-        - "Conducted Mendelian randomization, colocalization, and fine-mapping analyses to infer causal relationships between genetically regulated gene expression and disease susceptibility."
-        - "Authored a narrative review on computational strategies for CNV detection and disease association, bridging methodological development and genomic medicine."
-    - title: Graduate Research Assistant
+        - "Perform integrative single-nucleus multiomics analyses to investigate cell-type-specific regulatory mechanisms underlying complex human diseases."
+        - "Apply high-dimensional weighted gene co-expression network analysis (hdWGCNA) to single-cell transcriptomic data to identify disease-relevant gene modules and hub genes."
+        - "Conduct Mendelian randomization, colocalization, and fine-mapping analyses to infer causal relationships between genetically regulated gene expression and disease susceptibility."
+        - "Co-authored a review of computational methods for CNV detection and disease association, with emphasis on methodological advances and genomic medicine."
+        - "Co-authored a comprehensive review of diagnostic transcriptomics in rare genetic disease, focusing on RNA-seq-based variant interpretation, aberrant splicing, computational outlier detection, and clinical implementation."
+    - title: Research Assistant
       institution: Tabriz University of Medical Sciences | Tabriz, Iran
-      year: 2024
+      year: 2024 - Present
       description:
         - "Principal Investigator: Dr. Maryam Rezazadeh"
         - "Primary duties:"
-        - "Utilizing systems biology to explore the gene modules, hub genes, and regulatory networks linked with neurological conditions through RNA-sequencing transcriptome analysis and weighted gene co-expression network analysis (WGCNA)."
-        - "Variant detection and interpretation from whole-exome sequencing data with validation through Sanger sequencing."
-        - "Assisting the principal investigator in writing and preparing manuscripts and grant proposals."
-        - "Supervising medical, master’s, and Ph.D. students."
+        - "Use systems biology, RNA-seq transcriptomic analysis, and weighted gene co-expression network analysis (WGCNA) to identify gene modules, hub genes, and regulatory networks associated with neurological conditions."
+        - "Detect and interpret variants from exome sequencing data and validate findings using Sanger sequencing."
+        - "Assist the principal investigator with manuscript and grant proposal preparation."
+        - "Mentor medical, master’s, and Ph.D. students in research activities."
     - title: Elite Draftee – Researcher
       institution: Directorate of Health, Rescue and Treatment, Police Headquarter | Tehran, Iran
       year: 2022 - 2023
