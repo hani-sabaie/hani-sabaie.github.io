@@ -43,13 +43,12 @@
 - title: Research Interests
   type: list
   contents:
-    - "Computational Genomics and Bioinformatics"
-    - "Structural Variation in Human Disease"
+    - "Statistical and Computational Genomics"
+    - "Structural Variation and Variant-to-Function Mapping"
+    - "Functional Genomics and Gene Regulation"
     - "Clinical Transcriptomics and RNA Sequencing"
-    - "Single-Cell Multi-Omics Analysis"
-    - "Mendelian Randomization and Causal Inference"
-    - "Neurogenetics and Regulatory RNA Networks"
-
+    - "Single-Cell Multiomics Analysis"
+    
 - title: Peer-Reviewed Publications
   type: list
   contents:
