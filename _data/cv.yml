@@ -109,7 +109,7 @@
         - "Assist the principal investigator with manuscript and grant proposal preparation."
         - "Mentor medical, master’s, and Ph.D. students in research activities."
     - title: Researcher
-      institution: Directorate of Health, Rescue and Treatment, Police Headquarter | Tehran, Iran
+      institution: Directorate of Health, Rescue and Treatment | Tehran, Iran
       year: 2022 - 2023
       description:
         - "Project:"
@@ -121,52 +121,52 @@
       description:
         - "Principal Investigator: Dr. Maryam Rezazadeh"
         - "Main Projects:"
-        - "Identification and examination of ceRNA regulatory axes in neurogenetic disorders through the reanalysis of publicly accessible microarray datasets and supplementary molecular methods."
-        - "Assessing the expression of key genes in neurogenetic conditions using PCR, RT-PCR, and Agarose gel electrophoresis."
-        - "Conducting systematic reviews and scoping reviews on the genetic aspects of human diseases, with an emphasis on neurogenetic conditions."
+        - "Identified and examined ceRNA regulatory axes in neurogenetic disorders by reanalyzing publicly available microarray datasets and applying complementary molecular methods."
+        - "Assessed the expression of key genes in neurogenetic conditions using PCR, RT-PCR, and agarose gel electrophoresis."
+        - "Conducted systematic and scoping reviews of genetic aspects of human diseases, with an emphasis on neurogenetic conditions."
 
 - title: Teaching Experience
   type: time_table
   contents:
-    - title: Assistant Teacher
+    - title: Teaching Assistant 
       institution: Tabriz University of Medical Sciences | Tabriz, Iran
       year: 2021
       description:
-        - "Taught weekly lectures on microarray data analysis."
+        - "Delivered weekly lectures on microarray data analysis."
 
 - title: Skills
   type: nested_list
   contents:
     - title: Programming and Computational Skills
       items:
-        - "R - Advanced: statistical analysis, data visualization, and reproducible research."
-        - "Python - Familiar: data analysis and scientific computing for genomics workflows."
-        - "Linux / Unix - Advanced: command-line workflows and pipeline execution."
-        - "Bash - Familiar: automation of data processing and analysis pipelines."
-        - "Git / GitHub - Familiar: version control and collaborative development."
-        - "Markdown / R Markdown - Advanced: reproducible documentation and reporting."
-        - "Machine Learning - Familiar: foundational concepts and applications in data analysis."
-    - title: Computational Genomics and Bioinformatics Analysis
+        - "R: Proficient with statistical modeling, data analysis, visualization, and reproducible research."
+        -	"ython: Experienced with data analysis and scientific computing for genomic applications."
+        -	"Linux/Unix and Bash: Skilled with command-line workflows and pipeline automation."
+        -	"Git/GitHub: Experienced with version control and collaborative development."
+        -	"Markdown/R Markdown: Proficient with reproducible documentation and reporting."
+    - title: Statistical and Computational Genomics
       items:
-        - "Single-Cell Multi-Omics and Spatial Data - Advanced: preprocessing, normalization, multimodal integration, clustering, trajectory inference, network analysis, motif activity, and cell-cell communication analysis (Drop-seq pipeline, Seurat, decontX, scDblFinder, Signac, Monocle, hdWGCNA, chromVAR, and CellChat)."
-        - "Bulk RNA-seq - Advanced: end-to-end workflows including QC, alignment, quantification, and differential expression (FastQC, Trimmomatic, HISAT2, STAR, featureCounts, HTSeq, StringTie, Kallisto, Salmon, edgeR, DESeq2, Ballgown, Sleuth, Picard, and GATK)."
-        - "Microarray Analysis - Proficient: preprocessing, normalization, differential expression, and co-expression analysis (limma, affy, GEOquery, WGCNA, GEO2R, pheatmap, EnhancedVolcano)."
-        - "Mendelian Randomization and Causal Inference - Advanced: Two-sample and summary-data-based Mendelian randomization and fine-mapping (TwoSampleMR, SMR/HEIDI, MR-PRESSO, GCTA-COJO, coloc, SuSiE)."
-        - "Network Biology - Proficient: co-expression, interaction, and ceRNA requlatory networks analysis (Hmisc, psych, corrplot, bcdstats, LncBase, lncSNP2, miRTarBase, miRWalk, miRDB, ENCORI, HMDD, Cytoscape, MCODE, CytoHubba, STRING, MIST, GeneMANIA, Enrichr, FuncPred, g:profiler, and ImmPort, WGCNA, hdWGCNA)."
-        - "Variant Analysis - Advanced: variant calling, annotation, and interpretation (FastQC, Trimmomatic, BWA, GATK, HaplotypeCaller, ANNOVAR, ExAC, gnomAD, 1000 genomes, CADD, ClinVar, SIFT, PolyPhen, LRT, MutationTaster, FATHMM, PROVEAN, MutationAssessor, MCAP, MetaLR, Franklin, Varsome, CLC Genomics Workbench, ExomeDepth, ClinGen, and ACMG guideline)."
+        -	"Skilled with two-sample and summary-data-based Mendelian randomization, colocalization and statistical fine-mapping (TwoSampleMR, SMR/HEIDI, MR-PRESSO, GCTA-COJO, coloc, and SuSiE)."
+        -	"Experienced with Comprehensive Meta-Analysis (CMA)."
+    - title: Functional Genomics
+      items:
+      -	"Single-Cell Multiomics: Experienced with preprocessing, normalization, multimodal integration, clustering, trajectory inference, network analysis, motif activity, and cell–cell communication analysis (Drop-seq pipeline, Seurat, decontX, scDblFinder, Signac, Monocle, hdWGCNA, chromVAR, and CellChat)."
+      -	"Bulk RNA-seq: Experienced with end-to-end workflows including QC, alignment, quantification, and differential expression (FastQC, Trimmomatic, HISAT2, STAR, featureCounts, HTSeq, StringTie, Kallisto, Salmon, edgeR, DESeq2, Ballgown, Sleuth, Picard, and GATK)."
+      -	"Co-expression and network analysis: Skilled with co-expression, interaction, and ceRNA regulatory network analysis (Hmisc, psych, corrplot, bcdstats, LncBase, lncSNP2, miRTarBase, miRWalk, miRDB, ENCORI, HMDD, Cytoscape, MCODE, CytoHubba, STRING, MIST, GeneMANIA, Enrichr, FuncPred, g, ImmPort, WGCNA, and hdWGCNA)."
+      -	"Microarray Analysis: Proficient with preprocessing, normalization, differential expression analysis (limma, affy, GEOquery, GEO2R, pheatmap, and EnhancedVolcano)."
+      -	"Genomic Variant Analysis: Skilled with variant calling, annotation, and interpretation (FastQC, Trimmomatic, BWA, GATK, HaplotypeCaller, ANNOVAR, ExAC, gnomAD, 1000 Genomes, CADD, ClinVar, SIFT, PolyPhen, LRT, MutationTaster, FATHMM, PROVEAN, MutationAssessor, MCAP, MetaLR, Franklin, VarSome, CLC Genomics Workbench, ExomeDepth, ClinGen, and ACMG/AMP guidelines)."
     - title: Experimental and Molecular Biology Skills
       items:
-        - "Molecular Genetics Techniques - Advanced: DNA extraction, RNA isolation, NanoDrop spectrophotometry, agarose gel electrophoresis, cDNA synthesis, PCR, RT-PCR, and cell culture."
-        - "Primer Design and Reference Gene Validation - Advanced: Primer3, Primer-BLAST, Oligo7, Gene Runner, NormFinder, and geNorm."
-        - "RT-PCR Data Analysis - Advanced: relative expression analysis and visualization (R, GraphPad Prism, SPSS, and GenEx)."
+      -	"Molecular Genetics Techniques: Skilled with DNA extraction, RNA isolation, NanoDrop spectrophotometry, agarose gel electrophoresis, cDNA synthesis, PCR, RT-qPCR, and cell culture."
+      -	"Primer Design and Reference Gene Validation: Proficient with Primer3, Primer-BLAST, Oligo7, Gene Runner, NormFinder, and geNorm."
+      -	"RT-qPCR Data Analysis: Proficient with relative expression analysis and visualization (R, GraphPad Prism, SPSS, and GenEx)."
     - title: Other
       items:
-        - "Systematic Literature Search and Evidence Synthesis - Proficient: PubMed, Embase, Scopus, Web of Science, Cochrane, ProQuest, Google Scholar."
-        - "Reference Management - Advanced: Zotero, EndNote, ResearchRabbit."
-        - "Scientific Visualization - Advanced: BioRender, Mind the Graph, PowerPoint."
-        - "Meta-analysis - Familiar: Comprehensive Meta-Analysis (CMA)."
+      -	"Systematic Literature Search and Evidence Synthesis: Proficient with PubMed, Embase, Scopus, Web of Science, Cochrane, ProQuest, and Google Scholar."
+      -	"Reference Management: Proficient with Zotero, EndNote, and ResearchRabbit."
+      -	"Scientific Visualization: Proficient with BioRender, Mind the Graph, and PowerPoint."
 
-- title: Conference Participation
+- title: Conference Presentations
   type: nested_list
   contents:
     - title: Poster Presentation
@@ -177,31 +177,31 @@
   type: time_table
   contents:
     - title: Comprehensive Training Program in Statistical Data Analysis, R, Python, and Machine Learning
-      institution: proDlearn | Tehran, Iran (online)
+      institution: Shahid Beheshti University of Medical Sciences | Tehran, Iran (online)
       year: 2026
-    - title: Summary-Data-Based Mendelian Randomization
-      institution: GEMIRAN | Tehran, Iran (online)
+    - title: Summary-data-based Mendelian Randomization
+      institution: Shahid Beheshti University of Medical Sciences | Tehran, Iran (online)
       year: 2025
     - title: Mendelian Randomization
-      institution: GEMIRAN | Tehran, Iran (online)
+      institution: Shahid Beheshti University of Medical Sciences | Tehran, Iran (online)
       year: 2024
     - title: R Advanced Workshop for Data Science
-      institution: GEMIRAN | Tehran, Iran (online)
+      institution: Shahid Beheshti University of Medical Sciences | Tehran, Iran (online)
       year: 2024
     - title: R Preliminary Workshop for Data Science
-      institution: GEMIRAN | Tehran, Iran (online)
+      institution: Shahid Beheshti University of Medical Sciences | Tehran, Iran (online)
       year: 2024
-    - title: Linux Essential
+    - title: Linux Essentials
       institution: Shahid Beheshti University of Medical Sciences | Tehran, Iran (online)
       year: 2024
     - title: Academic Writing
       institution: Hanifa Academy | Tehran, Iran (online)
       year: 2023
     - title: Academic Writing
-      institution: Research Development & Coordination Center | Tabriz, Iran
+      institution: Tabriz University of Medical Sciences | Tabriz, Iran
       year: 2020
-    - title: Programming language in R
-      institution: Research Development & Coordination Center | Tabriz, Iran
+    - title: R Programming
+      institution: Tabriz University of Medical Sciences | Tabriz, Iran
       year: 2020
     - title: Basic Bioinformatics
       institution: Tabriz University of Medical Sciences | Tabriz, Iran
@@ -210,10 +210,10 @@
       institution: Tabriz University of Medical Sciences | Tabriz, Iran
       year: 2020
     - title: Ethics in Research and Publication
-      institution: Research Development & Coordination Center | Tabriz, Iran
+      institution: Tabriz University of Medical Sciences | Tabriz, Iran
       year: 2020
     - title: Principles of systematic review studies and search strategy
-      institution: Research Development & Coordination Center | Tabriz, Iran
+      institution: Tabriz University of Medical Sciences | Tabriz, Iran
       year: 2019
     - title: Research Methodology
       institution: Tabriz University of Medical Sciences | Tabriz, Iran
@@ -228,31 +228,27 @@
     - year: 2023
       items:
         - "Selected Researcher | Research Week, Clinical Research Development Unit, Tabriz Valiasr Hospital"
-    - year: 2022
-      items:
-        - "Scientific Elite | Iranian National Elite Foundation"
 
 - title: Science Community Service
   type: list
   contents:
-    - "Peer Reviewer for International Journals, including: <i>Scientific Reports; Heliyon; PLOS ONE; Medicine; Aging; Annals of Human Biology; BMC Neurology; BMC Medical Genomics; Molecular Neurobiology; Molecular Medicine; Molecular Therapy – Nucleic Acids; Biomedicine & Pharmacotherapy; International Immunopharmacology; Functional & Integrative Genomics; Gene; Cell Cycle; Multiple Sclerosis and Related Disorders; Journal of Diabetes Investigation; Oncology Letters; Discover Oncology; Current Eye Research; Bioengineered; Iranian Journal of Allergy, Asthma and Immunology; Minerva Cardiology and Angiology.</i>"
+    - "Reviewed manuscripts for international journals, including: <i>Scientific Reports; Heliyon; PLOS ONE; Medicine; Aging; Annals of Human Biology; BMC Neurology; BMC Medical Genomics; Molecular Neurobiology; Molecular Medicine; Molecular Therapy – Nucleic Acids; Biomedicine & Pharmacotherapy; International Immunopharmacology; Functional & Integrative Genomics; Gene; Cell Cycle; Multiple Sclerosis and Related Disorders; Journal of Diabetes Investigation; Oncology Letters; Discover Oncology; Current Eye Research; Bioengineered; Iranian Journal of Allergy, Asthma and Immunology; Minerva Cardiology and Angiology.</i>"
 
 - title: Volunteer Academic Service
   type: time_table
   contents:
     - year: 2022 - Now
       items:
-        - "Academic Mentorship: Advised medical and graduate students on research design, practical implementation, and data analysis."
+        - "Mentored medical and graduate students in research design, practical implementation, and data analysis."
     - year: 2018 - 2021
       description:
-        - "Graduate Entrance Exam Advising: Provided academic guidance to candidates preparing for the Iranian national entrance examination for M.Sc. programs in Human Genetics."
+        - "Advised candidates preparing for the Iranian national entrance examination for M.Sc. programs in Human Genetics."
 
 - title: Interests and Activities
   type: list
   contents:
     - "Running"
     - "Travel"
-    - "Academic Mentoring"
     - "Reading in Philosophy and Science"
 
 - title: References
@@ -270,9 +266,28 @@
         - "Cellular and Molecular Endocrine Research Center, Research Institute for Endocrine Molecular Biology, Research Institute for Endocrine Sciences, Shahid Beheshti University of Medical Sciences, Tehran, Iran"
         - "<a href=\"mailto:akbarzadehms@sbmu.ac.ir\">akbarzadehms@sbmu.ac.ir</a>"
         - "<a href=\"https://scholar.google.com/citations?user=RhIy6LYAAAAJ&hl=en\">Google Scholar</a>"
-    - title: "Jalal Gharesouran, Ph.D. (M.Sc. Co-Advisor)"
+    - title: "Amir Hossein Saeidian, Ph.D. (Research Mentor)"
       items:
-        - "Lecturer Professor"
-        - "Department of Medical Genetics, Faculty of Medicine, University of Medical Sciences, Tabriz, Iran"
-        - "<a href=\"mailto:jalal.gharesouran@gmail.com\">jalal.gharesouran@gmail.com</a>"
-        - "<a href=\"https://scholar.google.com/citations?user=7exXWNoAAAAJ&hl=en\">Google Scholar</a>"
+        - "Assistant Professor and Director"
+        - "Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, TX, USA"
+        - "<a href=\"mailto:amirhossein.saeidian@bcm.edu\">amirhossein.saeidian@bcm.edu</a>"
+        - "<a href=\"https://scholar.google.com/citations?user=KSdVZXAAAAAJ&hl=en\">Google Scholar</a>"
+    - title: "Hakon Hakonarson, M.D., Ph.D. (Research Mentor)"
+      items:
+        - "Professor and Director"
+        - "Center for Applied Genomics, Children’s Hospital of Philadelphia, Philadelphia, PA, USA"
+        - "<a href=\"mailto:hakonarson@chop.edu\">hakonarson@chop.edu</a>"
+        - "<a href=\"https://scholar.google.com/citations?user=nLerrWsAAAAJ&hl=en\">Google Scholar</a>"
+    - title: "Hassan Vahidnezhad, Ph.D. (Research Collaborator)"
+      items:
+        - "Associate Professor"
+        - "Department of Pediatrics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA"
+        - "<a href=\"mailto:vahidnezhh@chop.edu\">vahidnezhh@chop.edu</a>"
+        - "<a href=\"https://scholar.google.com/citations?user=E24S1mUAAAAJ&hl=en\">Google Scholar</a>"
+    - title: "Leila Youssefian, Ph.D. (Research Collaborator)"
+      items:
+        - "Cytogenetics Associate Director"
+        - "Department of Pathology, Cytogenetics Laboratory, City of Hope National Medical Center, Duarte, CA, USA"
+        - "<a href=\"mailto:leilayoussefian@gmail.com\">leilayoussefian@gmail.com</a>"
+        - "<a href=\"https://scholar.google.com/citations?user=mdSGdE0AAAAJ&hl=en\">Google Scholar</a>"
+        
