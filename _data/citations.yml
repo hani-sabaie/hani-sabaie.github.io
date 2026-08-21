@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-08-21'
 papers:
   VWjlf4oAAAAJ:0EnyYjriUFMC:
-    citations: 11
+    citations: 12
     title: "Analysis of ROQUIN, Tristetraprolin (TTP), and BDNF/miR-16/TTP regulatory axis in late onset Alzheimer\u2019s disease"
     year: '2022'
   VWjlf4oAAAAJ:2osOgNQ5qMEC:
-    citations: 43
+    citations: 42
     title: 'The perspective of dysregulated lncRNAs in Alzheimer''s disease: a systematic scoping review'
     year: '2021'
   VWjlf4oAAAAJ:4DMP91E08xMC:
@@ -15,18 +15,22 @@ papers:
     year: '2026'
   VWjlf4oAAAAJ:4TOpqqG69KYC:
     citations: 7
-    title: "Neurotrophin growth factors and their receptors as promising blood biomarkers for Alzheimer\u2019s Disease: A gene expression analysis study"
+    title: "Neurotrophin growth factors and their receptors as promising blood biomarkers for Alzheimer\u2019s Disease: a gene expression analysis study"
     year: '2024'
   VWjlf4oAAAAJ:8k81kl-MbHgC:
     citations: 17
     title: Identification of potential regulatory long non-coding RNA-associated competing endogenous RNA axes in periplaque regions in multiple sclerosis
     year: '2022'
+  VWjlf4oAAAAJ:9ZlFYXVOiuMC:
+    citations: 5
+    title: 'Stress granules and neurodegenerative disorders: a scoping review. Front Aging Neurosci 13: 650740'
+    year: '2021'
   VWjlf4oAAAAJ:9yKSN-GCB0IC:
     citations: 7
     title: Expression analysis of Ermin and Listerin E3 ubiquitin protein ligase 1 genes in autistic patients
     year: '2021'
   VWjlf4oAAAAJ:IjCSPb-OGe4C:
-    citations: 12
+    citations: 13
     title: Expression analysis of ermin and listerin E3 ubiquitin protein ligase 1 genes in the periphery of patients with schizophrenia
     year: '2022'
   VWjlf4oAAAAJ:KlAtU1dfN6UC:
@@ -38,7 +42,7 @@ papers:
     title: "Identification and Analysis of BCAS4/hsa-miR-185-5p/SHISA7 Competing Endogenous RNA Axis in Late-Onset Alzheimer\u2019s Disease Using Bioinformatic and \u2026"
     year: '2022'
   VWjlf4oAAAAJ:M3ejUd6NZC8C:
-    citations: 6
+    citations: 7
     title: A comprehensive review of the applications of RNA sequencing in celiac disease research
     year: '2024'
   VWjlf4oAAAAJ:MXK_kJrjxJIC:
@@ -46,11 +50,11 @@ papers:
     title: Identification of key long non-coding RNA-associated competing endogenous RNA axes in Brodmann Area 10 brain region of schizophrenia patients
     year: '2022'
   VWjlf4oAAAAJ:Se3iqnhoufwC:
-    citations: 2
+    citations: 3
     title: Association of seven fundamental genetic polymorphisms in long noncoding RNA MALAT1, SOX2OT and H19 with recurrent miscarriage in Turkish-Azeri Iranian population
     year: '2022'
   VWjlf4oAAAAJ:Tyk-4Ss8FVUC:
-    citations: 27
+    citations: 28
     title: "Molecular insight into the therapeutic potential of long non-coding RNA-associated competing endogenous RNA axes in Alzheimer\u2019s disease: a systematic scoping review"
     year: '2021'
   VWjlf4oAAAAJ:ULOm3_A8WrAC:
@@ -62,7 +66,7 @@ papers:
     title: 'CircRNA-associated CeRNAs regulatory axes in retinoblastoma: a systematic scoping review'
     year: '2022'
   VWjlf4oAAAAJ:W7OEmFMy1HYC:
-    citations: 13
+    citations: 14
     title: Long non-coding RNA-associated competing endogenous RNA axes in T-cells in multiple sclerosis
     year: '2021'
   VWjlf4oAAAAJ:Wp0gIr-vW9MC:
@@ -74,11 +78,11 @@ papers:
     title: 'Long non-coding RNAs, novel offenders or guardians in multiple sclerosis: a scoping review'
     year: '2021'
   VWjlf4oAAAAJ:YsMSGLbcyi4C:
-    citations: 14
+    citations: 15
     title: 'Stress granules in the anti-cancer medications mechanism of action: a systematic scoping review'
     year: '2021'
   VWjlf4oAAAAJ:Zph67rFs4hoC:
-    citations: 22
+    citations: 24
     title: 'Competing endogenous RNA (ceRNA) networks in Parkinson''s disease: a systematic review'
     year: '2023'
   VWjlf4oAAAAJ:_FxGoFyzp5QC:
@@ -94,19 +98,23 @@ papers:
     title: 'Mitochondrial DNA Copy Number as a Hidden Player in the Progression of Multiple Sclerosis: A Bidirectional Two-Sample Mendelian Randomization Study'
     year: '2025'
   VWjlf4oAAAAJ:d1gkVwhDpl0C:
-    citations: 69
+    citations: 73
     title: 'Stress granules and neurodegenerative disorders: a scoping review'
     year: '2021'
   VWjlf4oAAAAJ:eQOLeE2rZwMC:
-    citations: 46
+    citations: 47
     title: Bioinformatics analysis of long non-coding RNA-associated competing endogenous RNA network in schizophrenia
     year: '2021'
   VWjlf4oAAAAJ:kNdYIx-mwKoC:
-    citations: 6
+    citations: 7
     title: Expression analysis of hsa_circ_0020397, hsa_circ_0005986, hsa_circ_0003028, and hsa_circ_0006990 in renal cell carcinoma
     year: '2023'
+  VWjlf4oAAAAJ:mVmsd5A6BfQC:
+    citations: 5
+    title: "Identification and analysis of BCAS4/hsa-miR-185-5p/SHISA7 competing endogenous RNA axis in late-onset Alzheimer\u2019s disease using bioinformatic and experimental approaches \u2026"
+    year: '2022'
   VWjlf4oAAAAJ:qjMakFHDy7sC:
-    citations: 50
+    citations: 51
     title: 'Stress granules involved in formation, progression and metastasis of cancer: A scoping review'
     year: '2021'
   VWjlf4oAAAAJ:qxL8FJ1GzNcC:
