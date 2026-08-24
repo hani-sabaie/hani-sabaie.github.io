@@ -176,9 +176,6 @@
 - title: Workshops and Training
   type: time_table
   contents:
-    - title: Comprehensive Training Program in Statistical Data Analysis, R, Python, and Machine Learning
-      institution: Shahid Beheshti University of Medical Sciences | Tehran, Iran (online)
-      year: 2026
     - title: Summary-data-based Mendelian Randomization
       institution: Shahid Beheshti University of Medical Sciences | Tehran, Iran (online)
       year: 2025
@@ -237,7 +234,7 @@
 - title: Volunteer Academic Service
   type: time_table
   contents:
-    - year: 2022 - Now
+    - year: 2022 - Present
       items:
         - "Mentored medical and graduate students in research design, practical implementation, and data analysis."
     - year: 2018 - 2021
