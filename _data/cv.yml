@@ -46,7 +46,7 @@
     - "Statistical and Computational Genomics"
     - "Structural Variation and Variant-to-Function Mapping"
     - "Functional Genomics and Gene Regulation"
-    - "Clinical Transcriptomics and RNA Sequencing"
+    - "Clinical Transcriptomics and RNA-seq"
     - "Single-Cell Multiomics Analysis"
     
 - title: Peer-Reviewed Publications
@@ -141,29 +141,29 @@
     - title: Programming and Computational Skills
       items:
         - "R: Proficient with statistical modeling, data analysis, visualization, and reproducible research."
-        - "Python: Experienced with data analysis and scientific computing for genomic applications."
-        - "Linux/Unix and Bash: Skilled with command-line workflows and pipeline automation."
+        - "Python: Experienced with data analysis for genomic applications; currently strengthening skills in scientific computing and machine learning."
+        - "Linux/Unix and Bash: Skilled with command-line workflows for RNA-seq and variant analysis pipelines."
         - "Git/GitHub: Experienced with version control and collaborative development."
         - "Markdown/R Markdown: Proficient with reproducible documentation and reporting."
     - title: Statistical and Computational Genomics
       items:
-        - "Skilled with two-sample and summary-data-based Mendelian randomization, colocalization and statistical fine-mapping (TwoSampleMR, SMR/HEIDI, MR-PRESSO, GCTA-COJO, coloc, and SuSiE)."
+        - "Skilled with two-sample and summary-data-based Mendelian randomization, colocalization and fine-mapping (TwoSampleMR, SMR/HEIDI, MR-PRESSO, GCTA-COJO, coloc, and SuSiE)."
         - "Experienced with Comprehensive Meta-Analysis (CMA)."
     - title: Functional Genomics
       items:
-        - "Single-Cell Multiomics: Experienced with preprocessing, normalization, multimodal integration, clustering, trajectory inference, network analysis, motif activity, and cell–cell communication analysis (Drop-seq pipeline, Seurat, decontX, scDblFinder, Signac, Monocle, hdWGCNA, chromVAR, and CellChat)."
-        - "Bulk RNA-seq: Experienced with end-to-end workflows including QC, alignment, quantification, and differential expression (FastQC, Trimmomatic, HISAT2, STAR, featureCounts, HTSeq, StringTie, Kallisto, Salmon, edgeR, DESeq2, Ballgown, Sleuth, Picard, and GATK)."
-        - "Co-expression and network analysis: Skilled with co-expression, interaction, and ceRNA regulatory network analysis."
-        - "Microarray Analysis: Proficient with preprocessing, normalization, and differential expression analysis."
-        - "Genomic Variant Analysis: Skilled with variant calling, annotation, and interpretation."
+        - "Experienced with preprocessing, normalization, multimodal integration, clustering, trajectory inference, network analysis, motif activity, and cell-cell communication analysis (Drop-seq pipeline, Seurat, decontX, scDblFinder, Signac, Monocle, hdWGCNA, chromVAR, and CellChat)."
+        - "Experienced with end-to-end workflows (HISAT2, STAR, featureCounts, edgeR, DESeq2, Picard, and GATK)."
+        - "Skilled with co-expression, interaction, and ceRNA regulatory network analysis (LncBase, miRTarBase, miRWalk, miRDB, ENCORI, HMDD, Cytoscape, STRING, MIST, GeneMANIA, Enrichr, FuncPred, WGCNA, and hdWGCNA)."
+        - "Microarray Analysis: Proficient with preprocessing, normalization, differential expression analysis (limma, affy, GEOquery, GEO2R)."
+        - "Genomic Variant Analysis: Skilled with variant calling, annotation, and interpretation (FastQC, Trimmomatic, BWA, GATK, HaplotypeCaller, ANNOVAR, ExAC, gnomAD, 1000 Genomes, CADD, ClinVar, SIFT, PolyPhen, LRT, MutationTaster, FATHMM, PROVEAN, MutationAssessor, MCAP, MetaLR, Franklin, VarSome, CLC Genomics Workbench, ExomeDepth, ClinGen, and ACMG/AMP guidelines)."
     - title: Experimental and Molecular Biology Skills
       items:
-        - "Molecular Genetics Techniques: Skilled with DNA extraction, RNA isolation, NanoDrop spectrophotometry, agarose gel electrophoresis, cDNA synthesis, PCR, RT-qPCR, and cell culture."
+        - "Molecular Genetics Techniques: Skilled with DNA extraction, RNA isolation, NanoDrop spectrophotometry, agarose gel electrophoresis, cDNA synthesis, PCR, and RT-qPCR."
         - "Primer Design and Reference Gene Validation: Proficient with Primer3, Primer-BLAST, Oligo7, Gene Runner, NormFinder, and geNorm."
         - "RT-qPCR Data Analysis: Proficient with relative expression analysis and visualization (R, GraphPad Prism, SPSS, and GenEx)."
     - title: Language Skills
       items:
-        - "Proficient in English and Farsi"
+        - "Fluent in English and Farsi"
     - title: Other
       items:
         - "Systematic Literature Search and Evidence Synthesis: Proficient with PubMed, Embase, Scopus, Web of Science, Cochrane, ProQuest, and Google Scholar."
