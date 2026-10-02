@@ -123,19 +123,19 @@ Our investigation will leverage a combination of publicly available, large-scale
 
 #### 3.2 Genetic Instrument Selection and Validation
 
-1. **SMR/HEIDI analysis:**  
+1. SMR/HEIDI analysis:  
    We will implement Summary-data-based Mendelian Randomization (SMR) coupled with the HEIDI test. This approach will leverage IH GWAS and GTEx eQTL datasets to identify genes where genetically regulated expression shows evidence of association with hernia risk.
 
-2. **Genetic association analysis:**  
+2. Genetic association analysis:  
    At key genetic loci, we will perform conditional and joint association analysis using GCTA-COJO to identify independent genetic signals associated with IH susceptibility.
 
-3. **Fine-mapping:**  
+3. Fine-mapping:  
    SuSiE fine-mapping will be applied to prioritize credible sets of candidate variants at key IH-associated loci.
 
-4. **Colocalization analysis:**  
+4. Colocalization analysis:  
    Bayesian colocalization analyses will be performed to evaluate whether genetic signals for gene expression and IH susceptibility are likely to share a common causal variant.
 
-5. **Cross-dataset validation:**  
+5. Cross-dataset validation: 
    Findings from the UK Biobank discovery dataset will be evaluated in the FinnGen replication dataset to assess the consistency of genetically supported associations.
 
 #### 3.3 Statistical Analysis Plan
