@@ -33,15 +33,15 @@ To address the critical gap in our understanding of IH pathogenesis, this propos
 
 ### 2. Research Objectives
 
-1. **Objective 1: To characterize the cellular and transcriptional changes in FAPs associated with aging.**
+1. Objective 1: To characterize the cellular and transcriptional changes in FAPs associated with aging.
 
    We will use single-nucleus RNA sequencing (snRNA-seq) and ATAC sequencing (snATAC-seq) data of human skeletal muscle samples from young and aged individuals. This will allow us to create a high-resolution map of age-related shifts in FAP subpopulations, gene expression programs, and chromatin accessibility landscapes.
 
-2. **Objective 2: To investigate genetically supported links between gene expression and IH susceptibility.**
+2. Objective 2: To investigate genetically supported links between gene expression and IH susceptibility.
 
    Using Summary-data-based Mendelian Randomization (SMR), we will integrate gene expression data (eQTLs) from relevant tissues with large-scale genome-wide association study (GWAS) data for IH. This analysis will identify candidate genes whose genetically regulated expression is associated with IH susceptibility.
 
-3. **Objective 3: To define the gene regulatory networks associated with IH pathogenesis.**
+3. Objective 3: To define the gene regulatory networks associated with IH pathogenesis.
 
    We will employ high-dimensional weighted gene co-expression network analysis (hdWGCNA), transcription factor analysis, and fine-mapping at key genetic risk loci. This will enable us to elucidate the specific molecular pathways, co-expressed gene modules, and regulatory mechanisms associated with pathogenic changes in FAPs.
 
@@ -71,32 +71,32 @@ Our investigation will leverage a combination of publicly available, large-scale
 
 | Source | Description | Data Type |
 |---|---|---|
-| **Single-Cell Multi-Omics** | Paired snRNA-seq and snATAC-seq from young and aged human skeletal muscle (GEO: GSE268953) | Single-nucleus multi-omics |
-| **IH GWAS Summary Statistics** | Data from UK Biobank (N=371,810) and FinnGen (N=207,653) | GWAS |
-| **eQTL Data** | GTEx v8 summary statistics from adipose, muscle, and fibroblast tissues | eQTL |
-| **Preclinical Validation Data** | Mouse IH datasets (GSE288662, GSE288663) including snRNA-seq, snATAC-seq, and spatial transcriptomics | Preclinical multi-omics |
+| Single-Cell Multi-Omics | Paired snRNA-seq and snATAC-seq from young and aged human skeletal muscle (GEO: GSE268953) | Single-nucleus multi-omics |
+| IH GWAS Summary Statistics | Data from UK Biobank (N=371,810) and FinnGen (N=207,653) | GWAS |
+| eQTL Data | GTEx v8 summary statistics from adipose, muscle, and fibroblast tissues | eQTL |
+| Preclinical Validation Data | Mouse IH datasets (GSE288662, GSE288663) including snRNA-seq, snATAC-seq, and spatial transcriptomics | Preclinical multi-omics |
 
 #### 3.2 Integrated Multi-Omic Analysis Workflow
 
 Our analytical pipeline consists of five interconnected stages designed to integrate these diverse data types into a cohesive biological narrative.
 
-**1. Single-Cell Data Processing and Characterization**
+1. Single-Cell Data Processing and Characterization
 
 Paired snRNA-seq and snATAC-seq data will be processed using the Seurat and Signac packages. This involves rigorous quality control, SCTransform normalization to mitigate technical variation, and Harmony integration to correct for batch effects. A weighted nearest neighbour (WNN) analysis will be used to combine both modalities for robust definition of cell populations, including distinct FAP subtypes.
 
-**2. Differential Analysis and Trajectory Inference**
+2. Differential Analysis and Trajectory Inference
 
 To identify age-related changes, we will perform pseudobulk differential expression analysis using edgeR and limma-voom and single-cell compositional analysis between young and aged samples. Furthermore, Monocle3 will be used for trajectory inference to map the lineage and differentiation states of FAP populations, revealing how aging alters their developmental paths.
 
-**3. Genetically Supported Candidate Gene Identification**
+3. Genetically Supported Candidate Gene Identification
 
 We will implement Summary-data-based Mendelian Randomization (SMR) coupled with the HEIDI test. This statistical genetics approach will leverage the IH GWAS and GTEx eQTL datasets to identify genes where genetically regulated expression shows evidence of association with hernia risk and to distinguish shared genetic signals from patterns more consistent with linkage.
 
-**4. Regulatory Network and Locus-Specific Dissection**
+4. Regulatory Network and Locus-Specific Dissection
 
 High-dimensional weighted gene co-expression network analysis (hdWGCNA) will be applied to the FAP single-cell data to identify modules of co-expressed genes associated with aging and disease risk. At key genetic loci, we will perform detailed fine-mapping (GCTA-COJO, SuSiE) and colocalization analyses to pinpoint candidate causal variants and their regulatory mechanisms.
 
-**5. Complementary Preclinical Evidence**
+5. Complementary Preclinical Evidence
 
 Key findings related to gene expression patterns and regulatory activity will be cross-referenced with analyses of preclinical mouse models of IH. This step, which includes analysis of chromVAR motif activity and spatial transcriptomics, will assess the conservation and disease-context relevance of the identified mechanisms.
 
@@ -110,41 +110,41 @@ Differential expression and compositional analyses will be performed to identify
 
 The successful completion of this project will yield several contributions to the fields of musculoskeletal aging and hernia research:
 
-- **Novel Cellular Atlas:** This study will generate a high-resolution cellular and transcriptional map detailing how aging impacts FAPs and other key cell types within the skeletal muscle niche relevant to hernia development.
+- Novel Cellular Atlas: This study will generate a high-resolution cellular and transcriptional map detailing how aging impacts FAPs and other key cell types within the skeletal muscle niche relevant to hernia development.
 
-- **Genetically Supported Candidate Genes:** By applying Mendelian Randomization and complementary genetic analyses, this research will identify genes with genetic evidence linking their regulation to IH susceptibility. These candidates can provide a foundation for future functional studies and therapeutic development.
+- Genetically Supported Candidate Genes: By applying Mendelian Randomization and complementary genetic analyses, this research will identify genes with genetic evidence linking their regulation to IH susceptibility. These candidates can provide a foundation for future functional studies and therapeutic development.
 
-- **Mechanistic Regulatory Insight:** The integrated network and locus-specific analyses will uncover key biological pathways, transcription factors, and gene regulatory networks associated with genetic risk for IH, providing a molecular framework for understanding the disease architecture.
+- Mechanistic Regulatory Insight: The integrated network and locus-specific analyses will uncover key biological pathways, transcription factors, and gene regulatory networks associated with genetic risk for IH, providing a molecular framework for understanding the disease architecture.
 
 ---
 
 ### References
 
-1. Rosenberg J, Baig S, Chen DC, Derikx J. Groin hernia. *Nature Reviews Disease Primers*. 2025;11(1):47. https://doi.org/10.1038/s41572-025-00631-4
+1. Rosenberg J, Baig S, Chen DC, Derikx J. Groin hernia. Nature Reviews Disease Primers. 2025;11(1):47. https://doi.org/10.1038/s41572-025-00631-4
 
-2. Kingsnorth A, LeBlanc K. Hernias: inguinal and incisional. *The Lancet*. 2003;362(9395):1561–1571. https://doi.org/10.1016/S0140-6736(03)14746-0
+2. Kingsnorth A, LeBlanc K. Hernias: inguinal and incisional. The Lancet. 2003;362(9395):1561–1571. https://doi.org/10.1016/S0140-6736(03)14746-0
 
-3. Jenkins JT, O’Dwyer PJ. Inguinal hernias. *BMJ*. 2008;336(7638):269. https://www.bmj.com/content/336/7638/269.abstract
+3. Jenkins JT, O’Dwyer PJ. Inguinal hernias. BMJ. 2008;336(7638):269. https://www.bmj.com/content/336/7638/269.abstract
 
-4. Ahmed WU, Patel MIA, Ng M, McVeigh J, Zondervan K, Wiberg A, Furniss D. Shared genetic architecture of hernias: A genome-wide association study with multivariable meta-analysis of multiple hernia phenotypes. *PLoS One*. 2022;17(12):e0272261.
+4. Ahmed WU, Patel MIA, Ng M, McVeigh J, Zondervan K, Wiberg A, Furniss D. Shared genetic architecture of hernias: A genome-wide association study with multivariable meta-analysis of multiple hernia phenotypes. PLoS One. 2022;17(12):e0272261.
 
-5. Franz MG. The biology of hernia formation. *Surgical Clinics of North America*. 2008;88(1):1–15, vii.
+5. Franz MG. The biology of hernia formation. Surgical Clinics of North America. 2008;88(1):1–15, vii.
 
-6. You T, Zandigohar M, Potluri T, Piehl N, Coon VJ, Baker E, Kafali M, Dai Y, Stulberg JJ, Escobar DJ, Lieber RL, Zhao H, Bulun SE. Role of progesterone action in inguinal hernia formation via skeletal muscle fibrosis and atrophy. *JCI Insight*. 2025;10(14).
+6. You T, Zandigohar M, Potluri T, Piehl N, Coon VJ, Baker E, Kafali M, Dai Y, Stulberg JJ, Escobar DJ, Lieber RL, Zhao H, Bulun SE. Role of progesterone action in inguinal hernia formation via skeletal muscle fibrosis and atrophy. JCI Insight. 2025;10(14).
 
-7. Potluri T, Taylor MJ, Stulberg JJ, Lieber RL, Zhao H, Bulun SE. An estrogen-sensitive fibroblast population drives abdominal muscle fibrosis in an inguinal hernia mouse model. *JCI Insight*. 2022;7(9).
+7. Potluri T, Taylor MJ, Stulberg JJ, Lieber RL, Zhao H, Bulun SE. An estrogen-sensitive fibroblast population drives abdominal muscle fibrosis in an inguinal hernia mouse model. JCI Insight. 2022;7(9).
 
-8. Ruhl CE, Everhart JE. Risk factors for inguinal hernia among adults in the US population. *American Journal of Epidemiology*. 2007;165(10):1154–1161.
+8. Ruhl CE, Everhart JE. Risk factors for inguinal hernia among adults in the US population. American Journal of Epidemiology. 2007;165(10):1154–1161.
 
-9. Quintas ML, Rodrigues CJ, Yoo JH, Rodrigues Junior AJ. Age related changes in the elastic fiber system of the interfoveolar ligament. *Revista do Hospital das Clínicas da Faculdade de Medicina de São Paulo*. 2000;55(3):83–86.
+9. Quintas ML, Rodrigues CJ, Yoo JH, Rodrigues Junior AJ. Age related changes in the elastic fiber system of the interfoveolar ligament. Revista do Hospital das Clínicas da Faculdade de Medicina de São Paulo. 2000;55(3):83–86.
 
-10. Öberg S, Andresen K, Rosenberg J. Etiology of Inguinal Hernias: A Comprehensive Review. *Frontiers in Surgery*. 2017;4.
+10. Öberg S, Andresen K, Rosenberg J. Etiology of Inguinal Hernias: A Comprehensive Review. Frontiers in Surgery. 2017;4.
 
-11. Parker E, Hamrick MW. Role of fibro-adipogenic progenitor cells in muscle atrophy and musculoskeletal diseases. *Current Opinion in Pharmacology*. 2021;58:1–7.
+11. Parker E, Hamrick MW. Role of fibro-adipogenic progenitor cells in muscle atrophy and musculoskeletal diseases. Current Opinion in Pharmacology. 2021;58:1–7.
 
-12. Biferali B, Proietti D, Mozzetta C, Madaro L. Fibro–Adipogenic Progenitors Cross-Talk in Skeletal Muscle: The Social Network. *Frontiers in Physiology*. 2019;10.
+12. Biferali B, Proietti D, Mozzetta C, Madaro L. Fibro–Adipogenic Progenitors Cross-Talk in Skeletal Muscle: The Social Network. Frontiers in Physiology. 2019;10.
 
-13. Negroni E, Kondili M, Muraine L, Bensalah M, Butler-Browne GS, Mouly V, Bigot A, Trollet C. Muscle fibro-adipogenic progenitors from a single-cell perspective: Focus on their "virtual" secretome. *Frontiers in Cell and Developmental Biology*. 2022;10:952041.
+13. Negroni E, Kondili M, Muraine L, Bensalah M, Butler-Browne GS, Mouly V, Bigot A, Trollet C. Muscle fibro-adipogenic progenitors from a single-cell perspective: Focus on their "virtual" secretome. Frontiers in Cell and Developmental Biology. 2022;10:952041.
 
-14. Fitzgerald G, Turiel G, Gorski T, Soro-Arnaiz I, Zhang J, Casartelli NC, Masschelein E, Maffiuletti NA, Sutter R, Leunig M, Farup J, De Bock K. MME+ fibro-adipogenic progenitors are the dominant adipogenic population during fatty infiltration in human skeletal muscle. *Communications Biology*. 2023;6(1):111. https://doi.org/10.1038/s42003-023-04504-y
+14. Fitzgerald G, Turiel G, Gorski T, Soro-Arnaiz I, Zhang J, Casartelli NC, Masschelein E, Maffiuletti NA, Sutter R, Leunig M, Farup J, De Bock K. MME+ fibro-adipogenic progenitors are the dominant adipogenic population during fatty infiltration in human skeletal muscle. Communications Biology. 2023;6(1):111. https://doi.org/10.1038/s42003-023-04504-y
 ```
