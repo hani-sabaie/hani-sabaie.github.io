@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Aging-Driven Fibro-Adipogenic Progenitor Dysregulation in Inguinal Hernia"
-description: "An integrative single-cell and genetic multi-omics study to identify aging-related FAP mechanisms underlying inguinal hernia susceptibility."
+description: "An integrative single-cell and genetic multi-omics study to investigate aging-related FAP dysregulation and genetically supported mechanisms underlying inguinal hernia susceptibility."
 img: assets/img/adipo.jpg
 importance: 1
 category: Selected Projects
@@ -183,4 +183,3 @@ The successful completion of this project will yield several contributions to th
 13. Negroni E, Kondili M, Muraine L, Bensalah M, Butler-Browne GS, Mouly V, Bigot A, Trollet C. Muscle fibro-adipogenic progenitors from a single-cell perspective: Focus on their "virtual" secretome. Frontiers in Cell and Developmental Biology. 2022;10:952041.
 
 14. Fitzgerald G, Turiel G, Gorski T, Soro-Arnaiz I, Zhang J, Casartelli NC, Masschelein E, Maffiuletti NA, Sutter R, Leunig M, Farup J, De Bock K. MME+ fibro-adipogenic progenitors are the dominant adipogenic population during fatty infiltration in human skeletal muscle. Communications Biology. 2023;6(1):111. https://doi.org/10.1038/s42003-023-04504-y
-```
