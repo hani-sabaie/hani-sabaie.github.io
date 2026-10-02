@@ -66,78 +66,77 @@ Critically, our design ensures that findings are not siloed; high-resolution cel
 
 Our investigation will leverage a combination of publicly available, large-scale datasets. This approach maximizes statistical power and allows for cross-validation of key findings.
 
-<div class="row">
-  <div class="col-sm mt-3 mt-md-0">
-    <table class="table table-sm">
-      <thead>
-        <tr>
-          <th>Data Type</th>
-          <th>Source</th>
-          <th>Purpose</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>snRNA-seq &amp; snATAC-seq</td>
-          <td>Human skeletal muscle</td>
-          <td>Characterization of age-related FAP subpopulations, gene expression, and chromatin accessibility</td>
-        </tr>
-        <tr>
-          <td>GTEx eQTL</td>
-          <td>Subcutaneous adipose, visceral adipose, skeletal muscle, and cultured fibroblasts</td>
-          <td>Genetically regulated gene expression for SMR/HEIDI analyses</td>
-        </tr>
-        <tr>
-          <td>IH GWAS</td>
-          <td>UK Biobank</td>
-          <td>Discovery of genetic associations with inguinal hernia susceptibility</td>
-        </tr>
-        <tr>
-          <td>IH GWAS</td>
-          <td>FinnGen</td>
-          <td>Replication of genetic associations and SMR findings</td>
-        </tr>
-        <tr>
-          <td>Mouse IH multiome</td>
-          <td>Preclinical mouse model</td>
-          <td>Complementary disease-context evidence for the identified molecular mechanisms</td>
-        </tr>
-        <tr>
-          <td>Spatial transcriptomics</td>
-          <td>Xenium spatial transcriptomics</td>
-          <td>Spatial characterization of candidate gene expression in the hernia model</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-</div>
-<div class="caption">
-  Overview of the multi-omic datasets integrated in this study and their respective analytical purposes.
-</div>
+<table class="table table-sm">
+  <thead>
+    <tr>
+      <th>Dataset / Data Type</th>
+      <th>Source / Accession</th>
+      <th>Samples / Size</th>
+      <th>Data / Purpose</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Human skeletal muscle multi-omics</td>
+      <td>GEO: GSE268953</td>
+      <td>10 donors<br>(5 young, 5 aged)</td>
+      <td>Paired snRNA-seq and snATAC-seq for FAP characterization, age-related transcriptional changes, and chromatin accessibility</td>
+    </tr>
+    <tr>
+      <td>Inguinal hernia GWAS</td>
+      <td>UK Biobank (UKB)</td>
+      <td>N = 371,810</td>
+      <td>Discovery GWAS for IH susceptibility and genetic association analyses</td>
+    </tr>
+    <tr>
+      <td>Inguinal hernia GWAS</td>
+      <td>FinnGen</td>
+      <td>N = 207,653</td>
+      <td>Independent replication of genetic associations identified in UKB</td>
+    </tr>
+    <tr>
+      <td>eQTL data</td>
+      <td>GTEx v8</td>
+      <td>4 tissues</td>
+      <td>Adipose Subcutaneous, Adipose Visceral Omentum, Muscle Skeletal, and Cultured Fibroblasts for SMR/HEIDI analyses</td>
+    </tr>
+    <tr>
+      <td>Mouse inguinal hernia multi-omics</td>
+      <td>GEO: GSE288662</td>
+      <td>Preclinical mouse model</td>
+      <td>snRNA-seq and snATAC-seq for complementary disease-context analysis</td>
+    </tr>
+    <tr>
+      <td>Mouse spatial transcriptomics</td>
+      <td>GEO: GSE288663</td>
+      <td>Preclinical mouse model</td>
+      <td>Spatial transcriptomic analysis of gene expression and regulatory activity in the IH model</td>
+    </tr>
+    <tr>
+      <td>LD reference panel</td>
+      <td>1000 Genomes Project</td>
+      <td>European ancestry</td>
+      <td>Linkage disequilibrium reference for SMR and locus-specific genetic analyses</td>
+    </tr>
+  </tbody>
+</table>
 
-#### 3.2 Integrated Multi-Omic Analysis Workflow
+#### 3.2 Genetic Instrument Selection and Validation
 
-Our analytical pipeline consists of five interconnected stages designed to integrate these diverse data types into a cohesive biological narrative.
+1. **SMR/HEIDI analysis:**  
+   We will implement Summary-data-based Mendelian Randomization (SMR) coupled with the HEIDI test. This approach will leverage IH GWAS and GTEx eQTL datasets to identify genes where genetically regulated expression shows evidence of association with hernia risk.
 
-1. Single-Cell Data Processing and Characterization
+2. **Genetic association analysis:**  
+   At key genetic loci, we will perform conditional and joint association analysis using GCTA-COJO to identify independent genetic signals associated with IH susceptibility.
 
-Paired snRNA-seq and snATAC-seq data will be processed using the Seurat and Signac packages. This involves rigorous quality control, SCTransform normalization to mitigate technical variation, and Harmony integration to correct for batch effects. A weighted nearest neighbour (WNN) analysis will be used to combine both modalities for robust definition of cell populations, including distinct FAP subtypes.
+3. **Fine-mapping:**  
+   SuSiE fine-mapping will be applied to prioritize credible sets of candidate variants at key IH-associated loci.
 
-2. Differential Analysis and Trajectory Inference
+4. **Colocalization analysis:**  
+   Bayesian colocalization analyses will be performed to evaluate whether genetic signals for gene expression and IH susceptibility are likely to share a common causal variant.
 
-To identify age-related changes, we will perform pseudobulk differential expression analysis using edgeR and limma-voom and single-cell compositional analysis between young and aged samples. Furthermore, Monocle3 will be used for trajectory inference to map the lineage and differentiation states of FAP populations, revealing how aging alters their developmental paths.
-
-3. Genetically Supported Candidate Gene Identification
-
-We will implement Summary-data-based Mendelian Randomization (SMR) coupled with the HEIDI test. This statistical genetics approach will leverage the IH GWAS and GTEx eQTL datasets to identify genes where genetically regulated expression shows evidence of association with hernia risk and to distinguish shared genetic signals from patterns more consistent with linkage.
-
-4. Regulatory Network and Locus-Specific Dissection
-
-High-dimensional weighted gene co-expression network analysis (hdWGCNA) will be applied to the FAP single-cell data to identify modules of co-expressed genes associated with aging and disease risk. At key genetic loci, we will perform detailed fine-mapping (GCTA-COJO, SuSiE) and colocalization analyses to pinpoint candidate causal variants and their regulatory mechanisms.
-
-5. Complementary Preclinical Evidence
-
-Key findings related to gene expression patterns and regulatory activity will be cross-referenced with analyses of preclinical mouse models of IH. This step, which includes analysis of chromVAR motif activity and spatial transcriptomics, will assess the conservation and disease-context relevance of the identified mechanisms.
+5. **Cross-dataset validation:**  
+   Findings from the UK Biobank discovery dataset will be evaluated in the FinnGen replication dataset to assess the consistency of genetically supported associations.
 
 #### 3.3 Statistical Analysis Plan
 
