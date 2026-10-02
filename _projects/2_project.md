@@ -156,11 +156,11 @@ The successful completion of this project will yield several contributions to th
 
 ### References
 
-1. Rosenberg J, Baig S, Chen DC, Derikx J. Groin hernia. Nature Reviews Disease Primers. 2025;11(1):47. https://doi.org/10.1038/s41572-025-00631-4
+1. Rosenberg J, Baig S, Chen DC, Derikx J. Groin hernia. Nature Reviews Disease Primers. 2025;11(1):47.
 
-2. Kingsnorth A, LeBlanc K. Hernias: inguinal and incisional. The Lancet. 2003;362(9395):1561–1571. https://doi.org/10.1016/S0140-6736(03)14746-0
+2. Kingsnorth A, LeBlanc K. Hernias: inguinal and incisional. The Lancet. 2003;362(9395):1561–1571.
 
-3. Jenkins JT, O’Dwyer PJ. Inguinal hernias. BMJ. 2008;336(7638):269. https://www.bmj.com/content/336/7638/269.abstract
+3. Jenkins JT, O’Dwyer PJ. Inguinal hernias. BMJ. 2008;336(7638):269.
 
 4. Ahmed WU, Patel MIA, Ng M, McVeigh J, Zondervan K, Wiberg A, Furniss D. Shared genetic architecture of hernias: A genome-wide association study with multivariable meta-analysis of multiple hernia phenotypes. PLoS One. 2022;17(12):e0272261.
 
@@ -182,4 +182,4 @@ The successful completion of this project will yield several contributions to th
 
 13. Negroni E, Kondili M, Muraine L, Bensalah M, Butler-Browne GS, Mouly V, Bigot A, Trollet C. Muscle fibro-adipogenic progenitors from a single-cell perspective: Focus on their "virtual" secretome. Frontiers in Cell and Developmental Biology. 2022;10:952041.
 
-14. Fitzgerald G, Turiel G, Gorski T, Soro-Arnaiz I, Zhang J, Casartelli NC, Masschelein E, Maffiuletti NA, Sutter R, Leunig M, Farup J, De Bock K. MME+ fibro-adipogenic progenitors are the dominant adipogenic population during fatty infiltration in human skeletal muscle. Communications Biology. 2023;6(1):111. https://doi.org/10.1038/s42003-023-04504-y
+14. Fitzgerald G, Turiel G, Gorski T, Soro-Arnaiz I, Zhang J, Casartelli NC, Masschelein E, Maffiuletti NA, Sutter R, Leunig M, Farup J, De Bock K. MME+ fibro-adipogenic progenitors are the dominant adipogenic population during fatty infiltration in human skeletal muscle. Communications Biology. 2023;6(1):111.
