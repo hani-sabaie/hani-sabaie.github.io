@@ -423,7 +423,7 @@ ninja.data = [{
               window.location.href = "/projects/causal-biomarkers-ms-progression/";
             },},{id: "projects-aging-driven-fibro-adipogenic-progenitor-dysregulation-in-inguinal-hernia",
           title: 'Aging-Driven Fibro-Adipogenic Progenitor Dysregulation in Inguinal Hernia',
-          description: "An integrative single-cell and genetic multi-omics study to identify aging-related FAP mechanisms underlying inguinal hernia susceptibility.",
+          description: "An integrative single-cell and genetic multi-omics study to investigate aging-related FAP dysregulation and genetically supported mechanisms underlying inguinal hernia susceptibility.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/aging-fap-inguinal-hernia/";
             },},{id: "projects-project-3-with-very-long-name",
