@@ -49,6 +49,10 @@ To address the critical gap in our understanding of IH pathogenesis, this propos
 
 ### 3. Methodological Framework
 
+This study will employ an innovative and robust multi-omics strategy to deliver a comprehensive view of IH pathogenesis. Our research plan integrates single-cell genomics, genetically informed inference, and advanced network biology to connect cellular changes in aging muscle to genetically driven disease risk.
+
+Critically, our design ensures that findings are not siloed; high-resolution cellular changes identified via snRNA-seq will be directly interrogated using genetic analyses, and candidate genes emerging from these analyses will be placed into a functional context using network biology and complementary preclinical datasets.
+
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/flow_FAP_IH.png" title="Integrated multi-omics analysis workflow" class="img-fluid rounded z-depth-1" %}
@@ -57,10 +61,6 @@ To address the critical gap in our understanding of IH pathogenesis, this propos
 <div class="caption">
   Integrated analytical framework connecting age-related FAP alterations with genetic susceptibility to inguinal hernia.
 </div>
-
-This study will employ an innovative and robust multi-omics strategy to deliver a comprehensive view of IH pathogenesis. Our research plan integrates single-cell genomics, genetically informed inference, and advanced network biology to connect cellular changes in aging muscle to genetically driven disease risk.
-
-Critically, our design ensures that findings are not siloed; high-resolution cellular changes identified via snRNA-seq will be directly interrogated using genetic analyses, and candidate genes emerging from these analyses will be placed into a functional context using network biology and complementary preclinical datasets.
 
 #### 3.1 Data Sources
 
