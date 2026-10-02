@@ -30,6 +30,6 @@ latest_posts:
 
 I hold an **M.Sc. in Human Genetics** and have research experience in **computational genomics, structural variation, functional genomics, and transcriptomics**.
 
-My research interests center on **variant-to-function studies** and computational approaches to understanding **rare and complex diseases**.
+My research interests center on **diagnostic genetics and genomics**, **structural variation**, **variant-to-function studies**, and computational approaches to understanding **rare and complex diseases**.
 
-I am currently seeking a **PhD position in Genomics, Bioinformatics, or Computational Biology**.
+I am currently seeking a **PhD position in Genomics, Bioinformatics, Computational Biology**, or related fields.
