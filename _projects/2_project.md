@@ -11,7 +11,7 @@ permalink: /projects/aging-fap-inguinal-hernia/
 
 <p>
   <strong>Status:</strong> Ongoing &nbsp;·&nbsp;
-  <strong>Category:</strong> Research / Multi-Omics / Single-Cell Genomics / Causal Inference &nbsp;·&nbsp;
+  <strong>Category:</strong> Research / Single-Cell Multi-Omics &nbsp;·&nbsp;
   <strong>Includes:</strong> snRNA-seq &amp; snATAC-seq integration, FAP subpopulation analysis, SMR/HEIDI, hdWGCNA, fine-mapping (COJO, SuSiE), transcription factor and regulatory network analysis.
 </p>
 
@@ -69,12 +69,54 @@ Critically, our design ensures that findings are not siloed; high-resolution cel
 
 Our investigation will leverage a combination of publicly available, large-scale datasets. This approach maximizes statistical power and allows for cross-validation of key findings.
 
-| Source | Description | Data Type |
-|---|---|---|
-| Single-Cell Multi-Omics | Paired snRNA-seq and snATAC-seq from young and aged human skeletal muscle (GEO: GSE268953) | Single-nucleus multi-omics |
-| IH GWAS Summary Statistics | Data from UK Biobank (N=371,810) and FinnGen (N=207,653) | GWAS |
-| eQTL Data | GTEx v8 summary statistics from adipose, muscle, and fibroblast tissues | eQTL |
-| Preclinical Validation Data | Mouse IH datasets (GSE288662, GSE288663) including snRNA-seq, snATAC-seq, and spatial transcriptomics | Preclinical multi-omics |
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0">
+    <table class="table table-sm">
+      <thead>
+        <tr>
+          <th>Data Type</th>
+          <th>Source</th>
+          <th>Purpose</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>snRNA-seq &amp; snATAC-seq</td>
+          <td>Human skeletal muscle</td>
+          <td>Characterization of age-related FAP subpopulations, gene expression, and chromatin accessibility</td>
+        </tr>
+        <tr>
+          <td>GTEx eQTL</td>
+          <td>Subcutaneous adipose, visceral adipose, skeletal muscle, and cultured fibroblasts</td>
+          <td>Genetically regulated gene expression for SMR/HEIDI analyses</td>
+        </tr>
+        <tr>
+          <td>IH GWAS</td>
+          <td>UK Biobank</td>
+          <td>Discovery of genetic associations with inguinal hernia susceptibility</td>
+        </tr>
+        <tr>
+          <td>IH GWAS</td>
+          <td>FinnGen</td>
+          <td>Replication of genetic associations and SMR findings</td>
+        </tr>
+        <tr>
+          <td>Mouse IH multiome</td>
+          <td>Preclinical mouse model</td>
+          <td>Complementary disease-context evidence for the identified molecular mechanisms</td>
+        </tr>
+        <tr>
+          <td>Spatial transcriptomics</td>
+          <td>Xenium spatial transcriptomics</td>
+          <td>Spatial characterization of candidate gene expression in the hernia model</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+<div class="caption">
+  Overview of the multi-omic datasets integrated in this study and their respective analytical purposes.
+</div>
 
 #### 3.2 Integrated Multi-Omic Analysis Workflow
 
@@ -109,8 +151,6 @@ Differential expression and compositional analyses will be performed to identify
 ### 4. Expected Outcomes and Scientific Significance
 
 The successful completion of this project will yield several contributions to the fields of musculoskeletal aging and hernia research:
-
-- Novel Cellular Atlas: This study will generate a high-resolution cellular and transcriptional map detailing how aging impacts FAPs and other key cell types within the skeletal muscle niche relevant to hernia development.
 
 - Genetically Supported Candidate Genes: By applying Mendelian Randomization and complementary genetic analyses, this research will identify genes with genetic evidence linking their regulation to IH susceptibility. These candidates can provide a foundation for future functional studies and therapeutic development.
 
