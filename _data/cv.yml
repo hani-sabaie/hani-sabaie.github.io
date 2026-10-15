@@ -4,7 +4,7 @@
     - name: Full Name
       value: "Hani Sabaie"
     - name: Emails
-      value: "<a href=\"mailto:sabaie.hani@gmail.com\">sabaie.hani@gmail.com</a> • <a href=\"mailto:sabaieh@tbzmed.ac.ir\">sabaieh@tbzmed.ac.ir</a>"
+      value: "<a href=\"mailto:sabaei.grad@gmail.com\">sabaie.hani@gmail.com</a> • <a href=\"mailto:sabaieh@tbzmed.ac.ir\">sabaieh@tbzmed.ac.ir</a>"
     - name: Website
       value: "<a href=\"https://hani-sabaie.github.io\">https://hani-sabaie.github.io</a>"
     - name: Google Scholar
@@ -27,28 +27,28 @@
       institution: Tabriz University of Medical Sciences | Tabriz, Iran
       year: 2018 - 2021
       description:
-        - "GPA: 4/4"
-        - "Tuition-Free Master's Degree Program"
-        - "Thesis: Analysis of BCAS4/hsa-miR-185-5p/SHISA7 Competing Endogenous RNA Axis in Late-onset Alzheimer’s Disease."
-        - "Supervisor: Dr. Maryam Rezazadeh"
+        - "GPA: 18.81/20"
+        - "Thesis: Analysis of BCAS4/hsa-miR-185-5p/SHISA7 Competing Endogenous RNA Axis in Late-onset Alzheimer’s Disease, under the supervision of Dr. Maryam Rezazadeh; Score: 20/20"
+        - "Selected coursework: Population Genetics (19/20), Human Genetics (18.25/20), Molecular Genetics (18.25/20), Cytogenetics (17.5/20)"
     - title: Bachelor of Science in Biology - Animal Sciences
       institution: University of Guilan | Rasht, Iran
       year: 2012 – 2017
       description:
-        - "GPA: 3.37/4"
-        - "Tuition-Free Bachelor's Degree Program"
-        - "Project: Genome Evolution"
-        - "Mentor: Dr. Shohreh Siyam"
+        - "GPA: 16.21/20; GPA of the final two years: 17.74/20"
+        - "Project: Genome Evolution, under the supervision of Dr. Shohreh Siyam; Score: 19.25/20"
+        - "Selected coursework: Biochemistry (17/20), Biostatistics (19.5/20), Cell and Molecular Biology (20/20), Molecular Genetics (19.5/20)"
 
 - title: Research Interests
   type: list
   contents:
+    - "Structural Variation"
+    - "Variant-to-Function Mapping"
     - "Diagnostic Genetics and Genomics"
-    - "Structural Variation and Variant-to-Function Mapping"
     - "Statistical and Computational Genomics"
     - "Functional Genomics and Gene Regulation"
-    - "Single-Cell Multiomics Analysis"
-    
+    - "Clinical Transcriptomics and RNA-seq"
+    - "Single-Cell Multiomics"
+
 - title: Peer-Reviewed Publications
   type: list
   contents:
@@ -88,52 +88,44 @@
 - title: Research Experience
   type: time_table
   contents:
-    - title: Research Assistant
-      institution: Cellular and Molecular Endocrine Research Center | Tehran, Iran
+    - title: Independent Researcher
       year: 2025 - Present
       description:
-        - "Principal Investigator: Dr. Mahdi Akbarzadeh"
-        - "Primary duties:"
-        - "Perform integrative single-nucleus multiomics analyses to investigate cell-type-specific regulatory mechanisms underlying complex human diseases."
-        - "Apply high-dimensional weighted gene co-expression network analysis (hdWGCNA) to single-cell transcriptomic data to identify disease-relevant gene modules and hub genes."
-        - "Conduct Mendelian randomization, colocalization, and fine-mapping analyses to infer causal relationships between genetically regulated gene expression and disease susceptibility."
-        - "Co-authored a review of computational methods for CNV detection and disease association, with emphasis on methodological advances and genomic medicine."
-        - "Co-authored a comprehensive review of diagnostic transcriptomics in rare genetic disease, focusing on RNA-seq-based variant interpretation, aberrant splicing, computational outlier detection, and clinical implementation."
+        - "Perform integrative single-nucleus multiomics (snRNA-seq, snATAC-seq) with Seurat, Signac, hdWGCNA, chromVAR and CellChat to study cell-type-specific gene regulation in complex disease"
+        - "Run Mendelian randomization, SMR/HEIDI, colocalization, GCTA-COJO and SuSiE fine-mapping on GWAS (UK Biobank, FinnGen) and eQTL (GTEx) data"
+        - "Co-first author of a Genome Biology review of germline CNV detection, benchmarking and disease association across SNP arrays, exome sequencing, genome sequencing and long-read sequencing, with the Center for Applied Genomics (CHOP) and Baylor College of Medicine"
+        - "Co-authored a review of diagnostic transcriptomics in rare genetic disease, covering its role in variant interpretation and clinical decision-making"
     - title: Research Assistant
       institution: Tabriz University of Medical Sciences | Tabriz, Iran
-      year: 2024 - Present
+      year: 2024 - 2025
       description:
         - "Principal Investigator: Dr. Maryam Rezazadeh"
-        - "Primary duties:"
-        - "Use systems biology, RNA-seq transcriptomic analysis, and weighted gene co-expression network analysis (WGCNA) to identify gene modules, hub genes, and regulatory networks associated with neurological conditions."
-        - "Detect and interpret variants from exome sequencing data."
-        - "Assist the principal investigator with manuscript and grant proposal preparation."
-        - "Mentor medical, master’s, and Ph.D. students in research activities."
+        - "Applied systems biology, RNA-seq analysis and WGCNA to identify gene modules, hub genes and regulatory networks in neurological conditions"
+        - "Detected and interpreted variants from exome sequencing data"
+        - "Assisted the principal investigator with manuscript and grant proposal preparation"
+        - "Mentored Master’s, Ph.D. and medical students conducting thesis research under Dr. Maryam Rezazadeh, providing guidance throughout their research projects"
     - title: Researcher
-      institution: Directorate of Health, Rescue and Treatment | Tehran, Iran
+      institution: ValiAsr Hospital | Tehran, Iran
       year: 2022 - 2023
       description:
-        - "Project:"
-        - "Conducted a research project under the Iranian National Elite Foundation program in lieu of mandatory military service."
-        - "Integrated bioinformatic and experimental approaches to identify peripheral blood-based biomarkers for major depressive disorder."
-    - title: Student Research Assistant
+        - "Integrated bioinformatic and experimental approaches to identify peripheral blood biomarkers for major depressive disorder"
+    - title: Student Research Assistant and M.Sc. Thesis Researcher
       institution: Tabriz University of Medical Sciences | Tabriz, Iran
       year: 2019 - 2021
       description:
-        - "Principal Investigator: Dr. Maryam Rezazadeh"
-        - "Main Projects:"
-        - "Identified and examined ceRNA regulatory axes in neurogenetic disorders by reanalyzing publicly available microarray datasets and applying complementary molecular methods."
-        - "Assessed the expression of key genes in neurogenetic conditions using PCR, RT-PCR, and agarose gel electrophoresis."
-        - "Conducted systematic and scoping reviews of genetic aspects of human diseases, with an emphasis on neurogenetic conditions."
+        - "Identified ceRNA regulatory axes in neurogenetic disorders (Alzheimer’s disease, schizophrenia, multiple sclerosis, autism) by reanalyzing public microarray datasets from GEO, leading to first-author publications in journals including Scientific Reports and Frontiers in Aging Neuroscience"
+        - "Measured expression of candidate genes by PCR, RT-qPCR and agarose gel electrophoresis, and analyzed the RT-qPCR data statistically"
+        - "Conducted systematic and scoping reviews on the genetics of human disease, with an emphasis on neurogenetic conditions"
 
 - title: Teaching Experience
   type: time_table
   contents:
-    - title: Teaching Assistant 
+    - title: Teaching Assistant, Microarray Data Analysis (Extracurricular Course) 
       institution: Tabriz University of Medical Sciences | Tabriz, Iran
       year: 2021
       description:
-        - "Delivered weekly lectures on microarray data analysis."
+        - "Delivered a one-semester extracurricular course for approximately seven Master’s students in the department, designed to help them incorporate bioinformatics analyses into their thesis research"
+        - "Taught microarray data analysis using the GEO2R web interface and R-based workflows with GEOquery; raw-data analysis for Affymetrix, Illumina and Agilent (single- and two-channel) platforms; statistical comparisons across more than two study groups; and practical data visualization and bioinformatics tools"
 
 - title: Skills
   type: nested_list
@@ -163,7 +155,8 @@
         - "RT-qPCR Data Analysis: Proficient with relative expression analysis and visualization (R, GraphPad Prism, SPSS, and GenEx)."
     - title: Language Skills
       items:
-        - "Fluent in English and Farsi"
+        - "English: Fluent"
+        - "Persian: Native"
     - title: Other
       items:
         - "Systematic Literature Search and Evidence Synthesis: Proficient with PubMed, Embase, Scopus, Web of Science, Cochrane, ProQuest, and Google Scholar."
@@ -181,46 +174,32 @@
   type: time_table
   contents:
     - title: Summary-data-based Mendelian Randomization
-      institution: Shahid Beheshti University of Medical Sciences | Tehran, Iran (online)
       year: 2025
     - title: Mendelian Randomization
-      institution: Shahid Beheshti University of Medical Sciences | Tehran, Iran (online)
       year: 2024
     - title: R Advanced Workshop for Data Science
-      institution: Shahid Beheshti University of Medical Sciences | Tehran, Iran (online)
       year: 2024
     - title: R Preliminary Workshop for Data Science
-      institution: Shahid Beheshti University of Medical Sciences | Tehran, Iran (online)
       year: 2024
     - title: Linux Essentials
-      institution: Shahid Beheshti University of Medical Sciences | Tehran, Iran (online)
       year: 2024
     - title: Academic Writing
-      institution: Hanifa Academy | Tehran, Iran (online)
       year: 2023
     - title: Academic Writing
-      institution: Tabriz University of Medical Sciences | Tabriz, Iran
       year: 2020
     - title: R Programming
-      institution: Tabriz University of Medical Sciences | Tabriz, Iran
       year: 2020
     - title: Basic Bioinformatics
-      institution: Tabriz University of Medical Sciences | Tabriz, Iran
       year: 2020
     - title: Biostatistics
-      institution: Tabriz University of Medical Sciences | Tabriz, Iran
       year: 2020
     - title: Ethics in Research and Publication
-      institution: Tabriz University of Medical Sciences | Tabriz, Iran
       year: 2020
     - title: Principles of systematic review studies and search strategy
-      institution: Tabriz University of Medical Sciences | Tabriz, Iran
       year: 2019
     - title: Research Methodology
-      institution: Tabriz University of Medical Sciences | Tabriz, Iran
       year: 2019
     - title: Proposal Writing
-      institution: Tabriz University of Medical Sciences | Tabriz, Iran
       year: 2019
 
 - title: Honors and Awards
@@ -228,9 +207,9 @@
   contents:
     - year: 2023
       items:
-        - "Selected Researcher | Research Week, Clinical Research Development Unit, Tabriz Valiasr Hospital"
+        - "Selected Researcher, Research Week, Clinical Research Development Unit, Tabriz Valiasr Hospital"
 
-- title: Science Community Service
+- title: Academic Service
   type: list
   contents:
     - "Reviewed manuscripts for international journals, including: <i>Scientific Reports; Heliyon; PLOS ONE; Medicine; Aging; Annals of Human Biology; BMC Neurology; BMC Medical Genomics; Molecular Neurobiology; Molecular Medicine; Molecular Therapy – Nucleic Acids; Biomedicine & Pharmacotherapy; International Immunopharmacology; Functional & Integrative Genomics; Gene; Cell Cycle; Multiple Sclerosis and Related Disorders; Journal of Diabetes Investigation; Oncology Letters; Discover Oncology; Current Eye Research; Bioengineered; Iranian Journal of Allergy, Asthma and Immunology; Minerva Cardiology and Angiology.</i>"
@@ -240,10 +219,10 @@
   contents:
     - year: 2022 - Present
       items:
-        - "Mentored medical and graduate students in research design, practical implementation, and data analysis."
+        - "Research Mentoring: Provide ongoing, primarily online guidance to students and researchers from various universities on study design, research implementation and data analysis"
     - year: 2018 - 2021
       description:
-        - "Advised candidates preparing for the Iranian national entrance examination for M.Sc. programs in Human Genetics."
+        - "Human Genetics M.Sc. Entrance Examination Advising: Provided free guidance via Telegram to candidates preparing for the national Master’s entrance examination in Human Genetics, covering study resources, study strategies and familiarity with the examination format"
 
 - title: Interests and Activities
   type: list
@@ -261,12 +240,12 @@
         - "Department of Medical Genetics, Faculty of Medicine, University of Medical Sciences, Tabriz, Iran"
         - "<a href=\"mailto:rezazadehm@tbzmed.ac.ir\">rezazadehm@tbzmed.ac.ir</a>"
         - "<a href=\"https://scholar.google.com/citations?user=ansOI08AAAAJ&hl=en\">Google Scholar</a>"
-    - title: "Mahdi Akbarzadeh, Ph.D. (Principal Investigator)"
-      items:
-        - "Assistant Professor"
-        - "Cellular and Molecular Endocrine Research Center, Research Institute for Endocrine Molecular Biology, Research Institute for Endocrine Sciences, Shahid Beheshti University of Medical Sciences, Tehran, Iran"
-        - "<a href=\"mailto:akbarzadehms@sbmu.ac.ir\">akbarzadehms@sbmu.ac.ir</a>"
-        - "<a href=\"https://scholar.google.com/citations?user=RhIy6LYAAAAJ&hl=en\">Google Scholar</a>"
+    #- title: "Mahdi Akbarzadeh, Ph.D. (Principal Investigator)"
+      #items:
+        #- "Assistant Professor"
+        #- "Cellular and Molecular Endocrine Research Center, Research Institute for Endocrine Molecular Biology, Research Institute for Endocrine Sciences, Shahid Beheshti University of Medical Sciences, Tehran, Iran"
+        #- "<a href=\"mailto:akbarzadehms@sbmu.ac.ir\">akbarzadehms@sbmu.ac.ir</a>"
+        #- "<a href=\"https://scholar.google.com/citations?user=RhIy6LYAAAAJ&hl=en\">Google Scholar</a>"
     - title: "Amir Hossein Saeidian, Ph.D. (Research Mentor)"
       items:
         - "Assistant Professor and Director"
